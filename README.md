@@ -1,4 +1,4 @@
-# Analysis of target motifs for BIN2 kinase-mediated phosphorylation  
+# Identification of novel BIN2 kinase targets by phosphorylation motif analysis  
 ### Author: Christian Montes-Serey  
 ### EEOB563 Final Project  
 
