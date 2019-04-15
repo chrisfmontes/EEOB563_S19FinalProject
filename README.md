@@ -4,8 +4,8 @@
 ### EEOB563 Final Project  
 
 ## Introduction  
-In order to orchestrate a successful response to (biotic and abiotic) environmental changes, plants need to balance and coordinate their grow and stress responses.
-Autophagy is a subcellular recycling system conserved across eukaryots 
+In order to orchestrate a successful response to (biotic and abiotic) environmental changes, plants need to balance and coordinate their grow and stress responses.  
+Autophagy, a subcellular recycling system conserved across all eukaryotes, has been shown to be crucial during developmental processes and stress response. 
 Brassinosteroids (BRs) are a steroidal plant hormone family known to be involved in a myriad of plant growth-related processes. Such as cell division/elongation and reproductive development.  
 The GSK3-like kinase BIN2 (BRASSINOSTEROID-INSENSITIVE 2) is a key negative regulator of BR signaling response. This enzyme is known to phosphorylate the BR-reponsive transcription factor BES1 (BRI1-EMS-SUPPRESSOR 1), preventing its nuclear accumulation and helping promote BES1 proteosomal degradation. Therefore, the plant BR response is inhibited.  
 Broadening our knowledge about proteins being phosphorylated by BIN2 would give us a better picture of the different processes being controlled by this important regulator of BR response. 
