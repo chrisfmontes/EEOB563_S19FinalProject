@@ -18,4 +18,4 @@
 
 module load mafft
 
-mafft --auto --thread 16 RAPTORB_NCBI_BLAST_viridiplantae500hits_renamed.fasta > RAPTORB_NCBI_BLAST_viridiplantae500hits_alignment.fasta
+mafft --auto --thread 16 RAPTORB_NCBI_BLAST_viridiplantae250hits_renamed.fasta > RAPTORB_NCBI_BLAST_viridiplantae250hits_alignment.fasta

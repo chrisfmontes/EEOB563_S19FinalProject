@@ -3,7 +3,7 @@
 # Copy/paste this job script into a text file and submit with the command:
 #    sbatch thefilename
 
-#SBATCH --time=1:00:00   # walltime limit (HH:MM:SS)
+#SBATCH --time=4:00:00   # walltime limit (HH:MM:SS)
 #SBATCH --nodes=1   # number of nodes
 #SBATCH --ntasks-per-node=16   # 16 processor core(s) per node 
 #SBATCH --job-name="raxml"
@@ -17,4 +17,4 @@
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
 #raxml-ng --bootstrap --msa RAPTORB_NCBI_BLAST_viridiplantae500hits_alignment.fasta --model Blosum62 --prefix R1_blo --seed 2 --threads 3
-raxml-ng --all --msa RAPTORB_NCBI_BLAST_viridiplantae500hits_alignment.fasta --model Blosum62 --prefix R1_blos --seed 2 --threads 3
+raxml-ng --all --msa RAPTORB_NCBI_BLAST_viridiplantae250hits_alignment.fasta --model Blosum62 --prefix R1_blos --seed 2 --threads 4
