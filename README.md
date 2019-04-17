@@ -15,8 +15,10 @@ Broadening our knowledge about proteins being phosphorylated by BIN2 would give 
 Protein sequence for RAPTOR1B (`AT3G08850.1`), TOR (`AT1G50030.1`) and LST8-1 (`AT3G18140.1`) were retrieved from The Arabidopsis Informatiion Resource (TAIR, [www.arabidopsis.org](www.arabidopsis.org)). Different sets of homolog proteins were obtained by using the following procedures:
 
 
-- A homolog protein list was obtained For retrieving NCBI sequences we used the Basic Local Alignment Search Tool (BLAST) web server.  
-- For retrieving
+- The first homolog proteins list was obtained from the National Center for Biotechnology Information (NCBI) HomoloGene website ([https://www.ncbi.nlm.nih.gov/homologene/](https://www.ncbi.nlm.nih.gov/homologene/)).
+- The second list of homolog proteins was obtained by using the Basic Local Alignment Search Tool (BLAST) web server.  
+- The third homolog list was obtained from the ENSEML compara database
+- The final list of homologs was obtained from the Phytozome database
 
 ## Hypothesis
 By performing a phylogenetic analysis on the obtained sequence windows from our phospho-preoteomics dataset we can identify novel BIN2 target proteins.  
