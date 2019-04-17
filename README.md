@@ -1,4 +1,4 @@
-# Comparing the evolution of three main components of the TORC1 complex in plants. Analysis of their target motifs for BIN2 kinase-mediated phosphorylation  
+# Comparing the evolution of three main components of the TORC1 complex in plants. Conservation analysis of their target motifs for BIN2 kinase-mediated phosphorylation  
 
 ### Author: Christian Montes-Serey  
 ### EEOB563 Final Project  
@@ -10,8 +10,13 @@ Brassinosteroids (BRs) are a steroidal plant hormone family known to be involved
 The GSK3-like kinase BIN2 (BRASSINOSTEROID-INSENSITIVE 2) is a key negative regulator of BR signaling response. This enzyme is known to phosphorylate the BR-reponsive transcription factor BES1 (BRI1-EMS-SUPPRESSOR 1), preventing its nuclear accumulation and helping promote BES1 proteosomal degradation. Therefore, the plant BR response is inhibited.  
 Broadening our knowledge about proteins being phosphorylated by BIN2 would give us a better picture of the different processes being controlled by this important regulator of BR response. 
 
-## Dataset
-The data to be used comes from a whole proteome *in-vitro* recombinant BIN2 kinase assay performed by Walley Lab. This dataset comprises a list of phosphorylated peptides. From this dataset and for each detected phospho-peptide we obtain a 20-aminoacid sequence, centered in the phosphorylated residue called **sequence window** 
+## Materials and methods
+**Dataset**  
+Protein sequence for RAPTOR1B (`AT3G08850.1`), TOR (`AT1G50030.1`) and LST8-1 (`AT3G18140.1`) were retrieved from The Arabidopsis Informatiion Resource (TAIR, [www.arabidopsis.org](www.arabidopsis.org)). Different sets of homolog proteins were obtained by using the following procedures:
+
+
+- A homolog protein list was obtained For retrieving NCBI sequences we used the Basic Local Alignment Search Tool (BLAST) web server.  
+- For retrieving
 
 ## Hypothesis
 By performing a phylogenetic analysis on the obtained sequence windows from our phospho-preoteomics dataset we can identify novel BIN2 target proteins.  
