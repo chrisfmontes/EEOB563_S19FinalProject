@@ -6,14 +6,14 @@ Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!
 
 WARNING: This is a BETA release, please use at your own risk!
 
-RAxML-NG was called at 18-Apr-2019 00:12:06 as follows:
+RAxML-NG was called at 18-Apr-2019 16:22:23 as follows:
 
-raxml-ng --evaluate --msa RAPTORB_phytozome_top100_align.fasta --model BLOSUM62+F --tree RAxML__13_bestTree.result --prefix RAPTORB_phyto_BLOSUM62
+raxml-ng --evaluate --msa RAPTORB_phytozome_top100.fasta.ren.align --model BLOSUM62+F --tree RAxML_________22_bestTree.result --prefix RAPTORB_phyto_BLOSUM62
 
 Analysis options:
   run mode: Evaluate tree likelihood
   start tree(s): user
-  random seed: 1555564326
+  random seed: 1555622543
   tip-inner: OFF
   pattern compression: ON
   per-rate scalers: OFF
@@ -22,122 +22,60 @@ Analysis options:
   SIMD kernels: AVX
   parallelization: PTHREADS (8 threads), thread pinning: OFF
 
-[00:00:00] Reading alignment from file: RAPTORB_phytozome_top100_align.fasta
-[00:00:00] Loaded alignment with 100 taxa and 2459 sites
+[00:00:00] Reading alignment from file: RAPTORB_phytozome_top100.fasta.ren.align
+[00:00:00] Loaded alignment with 100 taxa and 2455 sites
 
 WARNING: Fully undetermined columns found: 10
 
-WARNING: Sequences MDP0000061330 Org_Mdomestica peptide: MDP0000061330 (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:22636269) and MDP0000061332 Org_Mdomestica peptide: MDP0000061332 (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:22665643) are exactly identical!
+WARNING: Sequences MDP0000061330 and MDP0000061332 are exactly identical!
 WARNING: Duplicate sequences found: 1
 
 NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
-NOTE: was saved to: /home/chrisfm/EEOB563_S19FinalProject/seq/RaptorB/RAPTORB_phyto_BLOSUM62.raxml.reduced.phy
+NOTE: was saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/RaptorB/RAPTORB_phyto_BLOSUM62.raxml.reduced.phy
 
-ERROR: Following taxon name contains invalid characters: Zosma270g00230 Org_Zmarina peptide: Zosma270g00230.1 WD repeat-containing protein mip1 (PAC:33167289)
-ERROR: Following taxon name contains invalid characters: Zm00008a036293 Org_ZmaysPH207 peptide: Zm00008a036293_P01 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:37188905)
-ERROR: Following taxon name contains invalid characters: Zm00008a008410 Org_ZmaysPH207 peptide: Zm00008a008410_P01 (1 of 3) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:37205038)
-ERROR: Following taxon name contains invalid characters: Tp57577_TGAC_v2_gene35291 Org_Tpratense peptide: Tp57577_TGAC_v2_mRNA36490 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:35991713)
-ERROR: Following taxon name contains invalid characters: Thecc1EG019767 Org_Tcacao peptide: Thecc1EG019767t1 HEAT repeat (PAC:27454404)
-ERROR: Following taxon name contains invalid characters: Sphfalx0101s0046 Org_Sfallax peptide: Sphfalx0101s0046.1.p (1 of 2) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:32630497)
-ERROR: Following taxon name contains invalid characters: Solyc09g014780.2 Org_Slycopersicum peptide: Solyc09g014780.2.1 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:36132296)
-ERROR: Following taxon name contains invalid characters: Sobic.008G009700 Org_Sbicolor peptide: Sobic.008G009700.1.p  (PAC:37926617)
-ERROR: Following taxon name contains invalid characters: Sevir.8G015500 Org_Sviridis peptide: Sevir.8G015500.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32635489)
-ERROR: Following taxon name contains invalid characters: Seita.8G016500 Org_Sitalica peptide: Seita.8G016500.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32715493)
-ERROR: Following taxon name contains invalid characters: Seita.7G328200 Org_Sitalica peptide: Seita.7G328200.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32702897)
-ERROR: Following taxon name contains invalid characters: SapurV1A.0065s0110 Org_Spurpurea peptide: SapurV1A.0065s0110.1.p regulatory-associated protein of mTOR protein (PAC:31435388)
-ERROR: Following taxon name contains invalid characters: Gorai.011G130300 Org_Graimondii peptide: Gorai.011G130300.1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:26807019)
-ERROR: Following taxon name contains invalid characters: Glyma.09G278500 Org_Gmax peptide: Glyma.09G278500.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30484158)
-ERROR: Following taxon name contains invalid characters: Gorai.005G006600 Org_Graimondii peptide: Gorai.005G006600.1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:26801336)
-ERROR: Following taxon name contains invalid characters: 183380 Org_Smoellendorffii peptide: 183380 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:15421221)
-ERROR: Following taxon name contains invalid characters: evm.TU.supercontig_86.8 Org_Cpapaya peptide: evm.model.supercontig_86.8 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:16427635)
-ERROR: Following taxon name contains invalid characters: Seita.7G328900 Org_Sitalica peptide: Seita.7G328900.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32704769)
-ERROR: Following taxon name contains invalid characters: Kaladp0515s0182 Org_Kfedtschenkoi peptide: Kaladp0515s0182.1.p (1 of 3) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:35760402)
-ERROR: Following taxon name contains invalid characters: Eucgr.K01257 Org_Egrandis peptide: Eucgr.K01257.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32066680)
-ERROR: Following taxon name contains invalid characters: 171199 Org_Smoellendorffii peptide: 171199 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:15406720)
-ERROR: Following taxon name contains invalid characters: DCAR_023988 Org_Dcarota peptide: DCAR_023988 hypothetical protein (PAC:36058502)
-ERROR: Following taxon name contains invalid characters: GRMZM2G048067 Org_Zmays peptide: GRMZM2G048067_P01 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:31003797)
-ERROR: Following taxon name contains invalid characters: Ciclev10010918m.g Org_Cclementina peptide: Ciclev10010918m (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:20797857)
-ERROR: Following taxon name contains invalid characters: Cagra.2991s0009 Org_Cgrandiflora peptide: Cagra.2991s0009.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:28900194)
-ERROR: Following taxon name contains invalid characters: Thhalv10019904m.g Org_Esalsugineum peptide: Thhalv10019904m (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:20182496)
-ERROR: Following taxon name contains invalid characters: Spipo3G0000500 Org_Spolyrhiza peptide: Spipo3G0000500 WD repeat-containing protein mip1 (PAC:31513414)
-ERROR: Following taxon name contains invalid characters: GSVIVG01030232001 Org_Vvinifera peptide: GSVIVT01030232001 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:17836802)
-ERROR: Following taxon name contains invalid characters: Bostr.6251s0145 Org_Bstricta peptide: Bostr.6251s0145.1.p (1 of 2) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:30665533)
-ERROR: Following taxon name contains invalid characters: Pahal.C00115 Org_Phallii peptide: Pahal.C00115.1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32523659)
-ERROR: Following taxon name contains invalid characters: Brara.C03303 Org_BrapaFPsc peptide: Brara.C03303.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30617247)
-ERROR: Following taxon name contains invalid characters: Pp3c17_3950 Org_Ppatens peptide: Pp3c17_3950V3.1.p (1 of 1) PF00400//PF14538 - WD domain, G-beta repeat (WD40) // Raptor N-terminal CASPase like domain (Raptor_N) (PAC:32907945)
-ERROR: Following taxon name contains invalid characters: Bradi4g44667 Org_Bdistachyon peptide: Bradi4g44667.3.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32786957)
-ERROR: Following taxon name contains invalid characters: Pahal.E00103 Org_Phallii peptide: Pahal.E00103.1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32513528)
-ERROR: Following taxon name contains invalid characters: Zm00008a017661 Org_ZmaysPH207 peptide: Zm00008a017661_P01 (1 of 3) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:37194725)
-ERROR: Following taxon name contains invalid characters: e_gwEuk.6.10.1 Org_Olucimarinus peptide: 41144 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:27418578)
-ERROR: Following taxon name contains invalid characters: Cre08.g371957 Org_Creinhardtii peptide: Cre08.g371957.t1.1 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30773846)
-ERROR: Following taxon name contains invalid characters: Oropetium_20150105_24777 Org_Othomaeum peptide: Oropetium_20150105_24777A (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:36011014)
-ERROR: Following taxon name contains invalid characters: Glyma.18G210300 Org_Gmax peptide: Glyma.18G210300.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30558315)
-ERROR: Following taxon name contains invalid characters: Potri.016G132000 Org_Ptrichocarpa peptide: Potri.016G132000.1 transducin family protein; WD-40 repeat family protein; similar to WD-repeat protein mip1 (SP:P87141) (Schizosaccharomyces pombe); [ co-ortholog (2of2) of At3g08850, At5g01770, ] (PAC:27013826
-ERROR: Following taxon name contains invalid characters: 29718.t000007 Org_Rcommunis peptide: 29718.m000133 Regulatory-associated protein of mTOR, putative (PAC:16806512)
-ERROR: Following taxon name contains invalid characters: Sobic.005G008800 Org_Sbicolor peptide: Sobic.005G008800.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:37923211)
-ERROR: Following taxon name contains invalid characters: e_gw2.04.9.1 Org_Msp.RCC299 peptide: 80694 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:27400538)
-ERROR: Following taxon name contains invalid characters: Pavir.J34189 Org_Pvirgatum peptide: Pavir.J34189.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30257323)
-ERROR: Following taxon name contains invalid characters: AHYPO_009059 Org_Ahypochondriacus peptide: AHYPO_009059-RA (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32836506)
-ERROR: Following taxon name contains invalid characters: Eucgr.K01267 Org_Egrandis peptide: Eucgr.K01267.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32066653)
-ERROR: Following taxon name contains invalid characters: Araha.1514s0002 Org_Ahalleri peptide: Araha.1514s0002.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:28862441)
-ERROR: Following taxon name contains invalid characters: Aco007098 Org_Acomosus peptide: Aco007098.1 Regulatory-associated protein of TOR (PAC:33047740)
-ERROR: Following taxon name contains invalid characters: Araha.25299s0013 Org_Ahalleri peptide: Araha.25299s0013.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:28841158)
-ERROR: Following taxon name contains invalid characters: 30015.t000002 Org_Rcommunis peptide: 30015.m000214 conserved hypothetical protein (PAC:16815679)
-ERROR: Following taxon name contains invalid characters: RAPTOR2 Org_Athalianaearly-release peptide: AT5G01770.1 regulatory-associated protein of TOR 2 (RAPTOR2) (PAC:37416543)
-ERROR: Following taxon name contains invalid characters: Cucsa.130350 Org_Csativus peptide: Cucsa.130350.1 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:16962381)
-ERROR: Following taxon name contains invalid characters: MicpuC2.e_gw1.6.5.1 Org_MpusillaCCMP1545 peptide: 17707 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:27348339)
-ERROR: Following taxon name contains invalid characters: Lus10009083.g Org_Lusitatissimum peptide: Lus10009083 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:23172400)
-ERROR: Following taxon name contains invalid characters: SapurV1A.0001s0110 Org_Spurpurea peptide: SapurV1A.0001s0110.1.p regulatory-associated protein of mTOR protein (PAC:31410771)
-ERROR: Following taxon name contains invalid characters: Lus10014156.g Org_Lusitatissimum peptide: Lus10014156 (1 of 4) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:23152890)
-ERROR: Following taxon name contains invalid characters: orange1.1g000681m.g Org_Csinensis peptide: orange1.1g000681m (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:18093904)
-ERROR: Following taxon name contains invalid characters: Sevir.7G338000 Org_Sviridis peptide: Sevir.7G338000.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32661092)
-ERROR: Following taxon name contains invalid characters: Phvul.008G087800 Org_Pvulgaris peptide: Phvul.008G087800.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:37157659)
-ERROR: Following taxon name contains invalid characters: Prupe.6G288100 Org_Ppersica peptide: Prupe.6G288100.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32090608)
-ERROR: Following taxon name contains invalid characters: AL6G10260 Org_Alyrata peptide: AL6G10260.t1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:35926452)
-ERROR: Following taxon name contains invalid characters: Aqcoe1G395700 Org_Acoerulea peptide: Aqcoe1G395700.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:33083164)
-ERROR: Following taxon name contains invalid characters: Brara.E03129 Org_BrapaFPsc peptide: Brara.E03129.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30624740)
-ERROR: Following taxon name contains invalid characters: Brast05G294500 Org_Bstacei peptide: Brast05G294500.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32867554)
-ERROR: Following taxon name contains invalid characters: Medtr7g072330 Org_Mtruncatula peptide: Medtr7g072330.1 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:31080297)
-ERROR: Following taxon name contains invalid characters: Thhalv10012449m.g Org_Esalsugineum peptide: Thhalv10012449m (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:20204507)
-ERROR: Following taxon name contains invalid characters: Bostr.22252s0189 Org_Bstricta peptide: Bostr.22252s0189.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:30659591)
-ERROR: Following taxon name contains invalid characters: MDP0000061330 Org_Mdomestica peptide: MDP0000061330 (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:22636269)
-ERROR: Following taxon name contains invalid characters: Pp3c9_4770 Org_Ppatens peptide: Pp3c9_4770V3.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32911686)
-ERROR: Following taxon name contains invalid characters: GRMZM2G460090 Org_Zmays peptide: GRMZM2G460090_P01 (1 of 1) KOG0265//KOG0277//KOG0295 - U5 snRNP-specific protein-like factor and related proteins // Peroxisomal targeting signal type 2 receptor // WD40 repeat-containing protein (PAC:31049644)
-ERROR: Following taxon name contains invalid characters: Kalax.1127s0005 Org_Klaxiflora peptide: Kalax.1127s0005.1.p (1 of 4) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:32553182)
-ERROR: Following taxon name contains invalid characters: GSMUA_Achr5G14390_001 Org_Macuminata peptide: GSMUA_Achr5P14390_001 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32324542)
-ERROR: Following taxon name contains invalid characters: GSMUA_AchrUn_randomG12070_001 Org_Macuminata peptide: GSMUA_AchrUn_randomP12070_001 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32295361)
-ERROR: Following taxon name contains invalid characters: Kaladp0020s0076 Org_Kfedtschenkoi peptide: Kaladp0020s0076.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:35758019)
-ERROR: Following taxon name contains invalid characters: Kalax.0043s0024 Org_Klaxiflora peptide: Kalax.0043s0024.1.p (1 of 4) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:32595797)
-ERROR: Following taxon name contains invalid characters: AL3G19840 Org_Alyrata peptide: AL3G19840.t1 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:35940426)
-ERROR: Following taxon name contains invalid characters: Kalax.0087s0007 Org_Klaxiflora peptide: Kalax.0087s0007.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32546527)
-ERROR: Following taxon name contains invalid characters: Kalax.0576s0012 Org_Klaxiflora peptide: Kalax.0576s0012.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32551654)
-ERROR: Following taxon name contains invalid characters: LOC_Os12g01922 Org_Osativa peptide: LOC_Os12g01922.1 WD domain and HEAT domain containing protein, putative, expressed (PAC:33150152)
-ERROR: Following taxon name contains invalid characters: Migut.J00073 Org_Mguttatus peptide: Migut.J00073.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:28942179)
-ERROR: Following taxon name contains invalid characters: Tp57577_TGAC_v2_gene35288 Org_Tpratense peptide: Tp57577_TGAC_v2_mRNA36487 (1 of 2) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:35991714)
-ERROR: Following taxon name contains invalid characters: Manes.08G174400 Org_Mesculenta peptide: Manes.08G174400.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32329821)
-ERROR: Following taxon name contains invalid characters: Pp3c25_7220 Org_Ppatens peptide: Pp3c25_7220V3.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32979467)
-ERROR: Following taxon name contains invalid characters: PGSC0003DMG400017035 Org_Stuberosum peptide: PGSC0003DMP400029775 RAPTOR1B (PAC:37456525)
-ERROR: Following taxon name contains invalid characters: evm_27.TU.AmTr_v1.0_scaffold00007.183 Org_Atrichopoda peptide: evm_27.model.AmTr_v1.0_scaffold00007.183 (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:31557589)
-ERROR: Following taxon name contains invalid characters: Manes.09G114600 Org_Mesculenta peptide: Manes.09G114600.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32339722)
-ERROR: Following taxon name contains invalid characters: Mapoly0002s0262 Org_Mpolymorpha peptide: Mapoly0002s0262.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:33023459)
-ERROR: Following taxon name contains invalid characters: Carubv10015752m.g Org_Crubella peptide: Carubv10015752m (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:20899378)
-ERROR: Following taxon name contains invalid characters: MDP0000061332 Org_Mdomestica peptide: MDP0000061332 (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:22665643)
-ERROR: Following taxon name contains invalid characters: Phvul.008G088100 Org_Pvulgaris peptide: Phvul.008G088100.1.p (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:37158621)
-ERROR: Following taxon name contains invalid characters: LOC_Os11g01872 Org_Osativa peptide: LOC_Os11g01872.1 HEAT repeat family protein, putative, expressed (PAC:33162661)
-ERROR: Following taxon name contains invalid characters: MDP0000209431 Org_Mdomestica peptide: MDP0000209431 (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:22642316)
-ERROR: Following taxon name contains invalid characters: gene13815-v1.0-hybrid Org_Fvesca peptide: mrna13815.1-v1.0-hybrid (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:27257245)
-ERROR: Following taxon name contains invalid characters: Sphfalx0100s0058 Org_Sfallax peptide: Sphfalx0100s0058.1.p (1 of 1) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32617706)
-ERROR: Following taxon name contains invalid characters: Oropetium_20150105_22170 Org_Othomaeum peptide: Oropetium_20150105_22170A (1 of 2) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:36000955)
-ERROR: Following taxon name contains invalid characters: DCAR_015351 Org_Dcarota peptide: DCAR_015351 hypothetical protein (PAC:36080503)
-ERROR: Following taxon name contains invalid characters: Pavir.J35181 Org_Pvirgatum peptide: Pavir.J35181.1.p (1 of 9) PTHR12848:SF16 - REGULATORY-ASSOCIATED PROTEIN OF MTOR (PAC:30248233)
-ERROR: Following taxon name contains invalid characters: Potri.006G106600 Org_Ptrichocarpa peptide: Potri.006G106600.1 transducin family protein; WD-40 repeat family protein; similar to WD-repeat protein mip1 (SP:P87141) (Schizosaccharomyces pombe); [ co-ortholog (1of2) of At3g08850, At5g01770, ] (PAC:27004838
-ERROR: Following taxon name contains invalid characters: Lus10025263.g Org_Lusitatissimum peptide: Lus10025263 (1 of 2) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:23157330)
-ERROR: Following taxon name contains invalid characters: Pp3c15_3360 Org_Ppatens peptide: Pp3c15_3360V3.1.p (1 of 3) K07204 - regulatory associated protein of mTOR (RAPTOR) (PAC:32929115)
+Alignment comprises 1 partitions and 2019 patterns
 
-NOTE: Following symbols are not allowed in taxa names to ensure Newick compatibility:
-NOTE: " " (space), ";" (semicolon), ":" (colon), "," (comma), "()" (parentheses), "'" (quote). 
-NOTE: Please either correct the names manually, or use the reduced alignment file
-NOTE: generated by RAxML-NG (see above).
+Partition 0: noname
+Model: BLOSUM62+FC
+Alignment sites / patterns: 2445 / 2019
+Gaps: 46.33 %
+Invariant sites: 16.07 %
 
-ERROR: Alignment check failed (see details above)!
+
+NOTE: Binary MSA file created: RAPTORB_phyto_BLOSUM62.raxml.rba
+
+[00:00:00] Loading user starting tree(s) from: RAxML_________22_bestTree.result
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 253 / 5060
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -76408.385203
+
+[00:00:00 -76408.385203] Initial branch length optimization
+[00:00:00 -75599.762902] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] Tree #1, final logLikelihood: -75599.683670
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (empirical): 0.086954 0.052564 0.031860 0.058211 0.022952 0.041980 0.045996 0.060245 0.029208 0.051741 0.110988 0.038734 0.018837 0.037537 0.061152 0.102499 0.046003 0.017717 0.021619 0.063202 
+   Substitution rates (model): 0.735790 0.485391 0.543162 1.459995 1.199706 1.170949 1.955884 0.716241 0.605899 0.800017 1.295201 1.253758 0.492965 1.173276 4.325093 1.729178 0.465839 0.718207 2.187775 1.297447 0.500964 0.227827 3.020834 1.360574 0.418763 1.456141 0.232036 0.622712 5.411115 0.983693 0.371645 0.448134 1.122783 0.914666 0.426382 0.720517 0.438388 3.180100 0.397359 1.839216 1.240489 1.355872 2.414501 0.283017 0.211888 1.593137 0.648441 0.354861 0.494887 2.904102 1.898174 0.191482 0.538223 0.312859 0.240837 1.190946 3.761625 0.798473 0.778143 0.418556 0.218132 1.032448 0.222622 0.281731 0.730628 1.582754 0.934188 0.145345 0.261422 0.258129 0.329802 0.140749 0.418203 0.354058 0.774894 0.831843 0.285079 0.767689 0.441337 0.356008 1.197188 1.119831 0.527664 0.470238 1.116352 5.528919 0.609846 2.435341 0.236202 0.580737 3.945278 2.494896 0.144357 0.858571 1.934871 1.277480 0.758654 0.958990 0.530786 0.423580 1.626891 0.186848 0.372625 2.802427 0.555415 0.291409 0.926564 1.769893 1.071097 0.407636 0.596719 0.524254 0.539859 0.189296 0.217721 0.752042 0.459436 0.368166 0.504087 1.509326 0.641436 0.508359 0.308056 0.253341 0.252718 0.348072 1.022507 0.984312 0.714534 0.527007 1.117030 0.585407 0.301249 4.218954 0.201556 3.890964 0.406194 3.364798 1.517359 0.388355 0.357544 1.179091 0.341986 0.674617 8.311839 0.445570 6.030559 2.064840 0.374556 0.352969 0.915260 0.691475 0.811246 2.231406 1.073061 0.266925 1.047383 1.752166 1.303875 0.332243 0.717993 0.498138 1.773855 0.454124 0.918723 1.488548 0.888101 0.951682 2.575851 0.233598 0.540028 0.488206 2.074325 6.747260 0.838120 1.169130 1.005452 0.252215 0.369405 0.496908 5.151556 0.387926 0.796752 0.561925 0.513128 0.801010 2.253074 4.054419 0.266509 1.000000 
+
+Final LogLikelihood: -75599.683670
+
+AIC score: 151631.367341 / AICc score: 151673.442745 / BIC score: 152884.556227
+Free parameters (model + branch lengths): 216
+
+
+All optimized tree(s) saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/RaptorB/RAPTORB_phyto_BLOSUM62.raxml.mlTrees
+Optimized model saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/RaptorB/RAPTORB_phyto_BLOSUM62.raxml.bestModel
+
+Execution log saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/RaptorB/RAPTORB_phyto_BLOSUM62.raxml.log
+
+Analysis started: 18-Apr-2019 16:22:23 / finished: 18-Apr-2019 16:22:23
+
+Elapsed time: 0.212 seconds
 
