@@ -20,6 +20,10 @@ Protein sequence for RAPTOR1B (`AT3G08850.1`), TOR (`AT1G50030.1`) and LST8-1 (`
 - The third list was obtained from the ENSEMBL Plants website compara database
 - The final list of homologs was obtained from the Phytozome database
 
+raxml-ng --evaluate --msa TOR_phytozome_top100.fasta.ren.align --model LG+F --tree RAxML____________23_bestTree.result --prefix TOR_phyto_LG
+find -name *.raxml.log -exec grep -i 'AIC score' {} +
+find -name *.raxml.log -exec grep -i 'AIC score' {} +
+find -name *.raxml.log -exec grep 'Final LogLikelihood' {} +
 ## Hypothesis
 By performing a phylogenetic analysis on the obtained sequence windows from our phospho-preoteomics dataset we can identify novel BIN2 target proteins.  
 
