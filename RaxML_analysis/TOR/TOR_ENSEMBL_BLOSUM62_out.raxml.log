@@ -1,0 +1,73 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 20-Apr-2019 23:06:38 as follows:
+
+raxml-ng --evaluate --msa TOR_ENSEMBL_gene_tree.fasta --model BLOSUM62+F --tree RaxML_TOR_ENSEMBL_B62_out_bestTree.result --prefix TOR_ENSEMBL_BLOSUM62_out --outgroup PNW73566_Crei/1-4390
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 1555819598
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: TOR_ENSEMBL_gene_tree.fasta
+[00:00:00] Loaded alignment with 98 taxa and 12612 sites
+
+Alignment comprises 1 partitions and 8201 patterns
+
+Partition 0: noname
+Model: BLOSUM62+FC
+Alignment sites / patterns: 12612 / 8201
+Gaps: 78.77 %
+Invariant sites: 3.83 %
+
+
+NOTE: Binary MSA file created: TOR_ENSEMBL_BLOSUM62_out.raxml.rba
+
+[00:00:00] Loading user starting tree(s) from: RaxML_TOR_ENSEMBL_B62_out_bestTree.result
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 1026 / 20520
+
+Evaluating 1 trees
+
+[00:00:00] Tree #1, initial LogLikelihood: -215642.556830
+
+[00:00:00 -215642.556830] Initial branch length optimization
+[00:00:00 -214313.260087] Model parameter optimization (eps = 0.100000)
+
+[00:00:00] Tree #1, final logLikelihood: -214309.938988
+
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: NONE
+   Base frequencies (empirical): 0.096135 0.061778 0.035013 0.047389 0.016763 0.040330 0.070064 0.055942 0.028103 0.047016 0.127440 0.044001 0.023651 0.031724 0.039938 0.085067 0.044031 0.014621 0.024760 0.066234 
+   Substitution rates (model): 0.735790 0.485391 0.543162 1.459995 1.199706 1.170949 1.955884 0.716241 0.605899 0.800017 1.295201 1.253758 0.492965 1.173276 4.325093 1.729178 0.465839 0.718207 2.187775 1.297447 0.500964 0.227827 3.020834 1.360574 0.418763 1.456141 0.232036 0.622712 5.411115 0.983693 0.371645 0.448134 1.122783 0.914666 0.426382 0.720517 0.438388 3.180100 0.397359 1.839216 1.240489 1.355872 2.414501 0.283017 0.211888 1.593137 0.648441 0.354861 0.494887 2.904102 1.898174 0.191482 0.538223 0.312859 0.240837 1.190946 3.761625 0.798473 0.778143 0.418556 0.218132 1.032448 0.222622 0.281731 0.730628 1.582754 0.934188 0.145345 0.261422 0.258129 0.329802 0.140749 0.418203 0.354058 0.774894 0.831843 0.285079 0.767689 0.441337 0.356008 1.197188 1.119831 0.527664 0.470238 1.116352 5.528919 0.609846 2.435341 0.236202 0.580737 3.945278 2.494896 0.144357 0.858571 1.934871 1.277480 0.758654 0.958990 0.530786 0.423580 1.626891 0.186848 0.372625 2.802427 0.555415 0.291409 0.926564 1.769893 1.071097 0.407636 0.596719 0.524254 0.539859 0.189296 0.217721 0.752042 0.459436 0.368166 0.504087 1.509326 0.641436 0.508359 0.308056 0.253341 0.252718 0.348072 1.022507 0.984312 0.714534 0.527007 1.117030 0.585407 0.301249 4.218954 0.201556 3.890964 0.406194 3.364798 1.517359 0.388355 0.357544 1.179091 0.341986 0.674617 8.311839 0.445570 6.030559 2.064840 0.374556 0.352969 0.915260 0.691475 0.811246 2.231406 1.073061 0.266925 1.047383 1.752166 1.303875 0.332243 0.717993 0.498138 1.773855 0.454124 0.918723 1.488548 0.888101 0.951682 2.575851 0.233598 0.540028 0.488206 2.074325 6.747260 0.838120 1.169130 1.005452 0.252215 0.369405 0.496908 5.151556 0.387926 0.796752 0.561925 0.513128 0.801010 2.253074 4.054419 0.266509 1.000000 
+
+Final LogLikelihood: -214309.938988
+
+AIC score: 429043.877976 / AICc score: 429051.161789 / BIC score: 430621.667628
+Free parameters (model + branch lengths): 212
+
+
+All optimized tree(s) saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/TOR/TOR_ENSEMBL_BLOSUM62_out.raxml.mlTrees
+Optimized model saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/TOR/TOR_ENSEMBL_BLOSUM62_out.raxml.bestModel
+
+Execution log saved to: /home/chrisfm/EEOB563_S19FinalProject/RaxML_analysis/TOR/TOR_ENSEMBL_BLOSUM62_out.raxml.log
+
+Analysis started: 20-Apr-2019 23:06:38 / finished: 20-Apr-2019 23:06:39
+
+Elapsed time: 0.909 seconds
+
