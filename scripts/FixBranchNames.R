@@ -14,7 +14,7 @@ for (i in data) {
   }
   write.nexus(tree2, file = paste(treefile, ".fixed", sep = ""),
               translate = F)
-  treefile <- paste(folderName, geneName, "_BLAST_LG.raxml.mlTrees", sep = "")
+  treefile <- paste(folderName, geneName, "_BLAST_LG_out.raxml.mlTrees", sep = "")
   tree2 <- read.tree(treefile)
   tree2
   labels_old <- read.delim(paste(folderName, "blast_old_label.txt", sep = ""), header = F, stringsAsFactors = F)
@@ -25,7 +25,7 @@ for (i in data) {
   }
   write.nexus(tree2, file = paste(treefile, ".fixed", sep = ""),
               translate = F)
-  treefile <- paste(folderName, geneName, "_phyto_LG.raxml.mlTrees", sep = "")
+  treefile <- paste(folderName, geneName, "_phyto_LG_out.raxml.mlTrees", sep = "")
   tree2 <- read.tree(treefile)
   tree2
   labels_old <- read.delim(paste(folderName, "phyto_old_label.txt", sep = ""), header = F, stringsAsFactors = F)

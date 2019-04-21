@@ -1,0 +1,19 @@
+NP_004949.1 Homo sapiens
+XP_003949341.1 Pan troglodytes
+XP_005618060.1 Canis lupus familiaris
+XP_005217047.1 Bos taurus
+NP_064393.2 Mus musculus
+NP_063971.1 Rattus norvegicus
+XP_417614.3 Gallus gallus
+NP_001070679.2 Danio rerio
+NP_001260427.1 Drosophila melanogaster
+XP_317619.4 Anopheles gambiae str. PEST
+NP_012719.2 Saccharomyces cerevisiae S288C
+XP_452152.1 Kluyveromyces lactis
+NP_985967.2 Eremothecium gossypii ATCC 10895
+NP_595359.2 Schizosaccharomyces pombe
+XP_003710485.1 Pyricularia oryzae 70-15
+XP_960570.1 Neurospora crassa OR74A
+NP_175425.2 Arabidopsis thaliana
+NP_001054988.2 Oryza sativa Japonica Group
+XP_004916088.1 Xenopus (Silurana) tropicalis

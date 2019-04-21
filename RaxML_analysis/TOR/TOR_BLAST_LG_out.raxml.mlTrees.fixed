@@ -1,0 +1,111 @@
+#NEXUS
+[R-package APE, Sun Apr 21 00:34:21 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 100;
+	TAXLABELS
+		XP_027913313.1 Vigna unguiculata
+		XP_027913314.1 Vigna unguiculata
+		XP_028188200.1 Glycine soja
+		XP_003538334.2 Glycine max
+		XP_003517591.1 Glycine max
+		XP_017224303.1 Daucus carota subsp. sativus
+		XP_027112687.1 Coffea arabica
+		XP_027162706.1 Coffea eugenioides
+		XP_011088032.1 Sesamum indicum
+		XP_006346276.1 Solanum tuberosum
+		XP_006346275.1 Solanum tuberosum
+		XP_004230675.1 Solanum lycopersicum
+		XP_010315169.1 Solanum lycopersicum
+		XP_015056423.1 Solanum pennellii
+		XP_015056431.1 Solanum pennellii
+		XP_009627458.1 Nicotiana tomentosiformis
+		XP_009627459.1 Nicotiana tomentosiformis
+		XP_002275591.2 Vitis vinifera
+		XP_010245612.1 Nelumbo nucifera
+		XP_010245613.1 Nelumbo nucifera
+		XP_024034016.1 Citrus clementina
+		XP_006422734.1 Citrus clementina
+		XP_006486870.1 Citrus sinensis
+		XP_006486869.1 Citrus sinensis
+		XP_013640867.1 Brassica napus
+		XP_009147857.1 Brassica rapa
+		XP_022560878.1 Brassica napus
+		XP_013720666.1 Brassica napus
+		XP_013591509.1 Brassica oleracea var. oleracea
+		XP_018493366.1 Raphanus sativus
+		XP_018493375.1 Raphanus sativus
+		XP_013642223.1 Brassica napus
+		XP_022559727.1 Brassica napus
+		XP_022559728.1 Brassica napus
+		XP_013696747.1 Brassica napus
+		XP_013585705.1 Brassica oleracea var. oleracea
+		XP_013585706.1 Brassica oleracea var. oleracea
+		XP_022575201.1 Brassica napus
+		XP_013749097.1 Brassica napus
+		XP_018491233.1 Raphanus sativus
+		XP_006393186.1 Eutrema salsugineum
+		XP_006306569.1 Capsella rubella
+		XP_010500558.1 Camelina sativa
+		XP_020866690.1 Arabidopsis lyrata subsp. lyrata
+		NP_001117459.1 Arabidopsis thaliana
+		NP_175425.2 Arabidopsis thaliana
+		XP_010557538.1 Tarenaya hassleriana
+		XP_010557537.1 Tarenaya hassleriana
+		XP_017970870.1 Theobroma cacao
+		XP_021285302.1 Herrania umbratica
+		XP_017641658.1 Gossypium arboreum
+		XP_012450983.1 Gossypium raimondii
+		XP_016715655.1 Gossypium hirsutum
+		XP_017637404.1 Gossypium arboreum
+		XP_012436095.1 Gossypium raimondii
+		XP_016737551.1 Gossypium hirsutum
+		XP_016737550.1 Gossypium hirsutum
+		XP_022763544.1 Durio zibethinus
+		XP_022763545.1 Durio zibethinus
+		XP_022763546.1 Durio zibethinus
+		XP_022763547.1 Durio zibethinus
+		XP_020532410.1 Jatropha curcas
+		XP_015574141.1 Ricinus communis
+		XP_011030285.1 Populus euphratica
+		XP_011030284.1 Populus euphratica
+		XP_024446672.1 Populus trichocarpa
+		XP_024446675.1 Populus trichocarpa
+		XP_011002468.1 Populus euphratica
+		XP_011002462.1 Populus euphratica
+		XP_024464463.1 Populus trichocarpa
+		XP_024464464.1 Populus trichocarpa
+		XP_023904061.1 Quercus suber
+		XP_018860593.1 Juglans regia
+		XP_018860592.1 Juglans regia
+		XP_022148800.1 Momordica charantia
+		XP_008455057.1 Cucumis melo
+		XP_011658863.1 Cucumis sativus
+		XP_022972503.1 Cucurbita maxima
+		XP_023553781.1 Cucurbita pepo subsp. pepo
+		XP_022952143.1 Cucurbita moschata
+		XP_004292060.1 Fragaria vesca subsp. vesca
+		XP_024161505.1 Rosa chinensis
+		XP_024161503.1 Rosa chinensis
+		XP_009335361.1 Pyrus x bretschneideri
+		XP_009335362.1 Pyrus x bretschneideri
+		XP_021818116.1 Prunus avium
+		XP_008236243.1 Prunus mume
+		XP_020425391.1 Prunus persica
+		XP_024933497.1 Ziziphus jujuba
+		XP_024933499.1 Ziziphus jujuba
+		XP_015892922.1 Ziziphus jujuba
+		XP_015892924.1 Ziziphus jujuba
+		XP_025699595.1 Arachis hypogaea
+		XP_025699596.1 Arachis hypogaea
+		XP_015964900.1 Arachis duranensis
+		XP_019423211.1 Lupinus angustifolius
+		XP_027362304.1 Abrus precatorius
+		XP_020217117.1 Cajanus cajan
+		XP_014520568.1 Vigna radiata var. radiata
+		XP_022631748.1 Vigna radiata var. radiata
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] ((((XP_027913313.1_Vigna_unguiculata:1e-06,XP_027913314.1_Vigna_unguiculata:1e-06):0.002882,(((XP_028188200.1_Glycine_soja:0.000811,XP_003538334.2_Glycine_max:0.000807):0.007239,XP_003517591.1_Glycine_max:0.005783):0.003712,((((((((((XP_017224303.1_Daucus_carota_subsp._sativus:0.074332,((XP_027112687.1_Coffea_arabica:0.002424,XP_027162706.1_Coffea_eugenioides:1e-06):0.056393,(XP_011088032.1_Sesamum_indicum:0.069142,(((XP_006346276.1_Solanum_tuberosum:1e-06,XP_006346275.1_Solanum_tuberosum:1e-06):0.002719,((XP_004230675.1_Solanum_lycopersicum:1e-06,XP_010315169.1_Solanum_lycopersicum:1e-06):0.000815,(XP_015056423.1_Solanum_pennellii:1e-06,XP_015056431.1_Solanum_pennellii:1e-06):0.0004):0.005426):0.018585,(XP_009627458.1_Nicotiana_tomentosiformis:1e-06,XP_009627459.1_Nicotiana_tomentosiformis:1e-06):0.017684):0.045784):0.006506):0.00963):0.028972,(XP_002275591.2_Vitis_vinifera:0.068339,(XP_010245612.1_Nelumbo_nucifera:1e-06,XP_010245613.1_Nelumbo_nucifera:1e-06):0.062288):0.008477):0.020187,(((XP_024034016.1_Citrus_clementina:1e-06,XP_006422734.1_Citrus_clementina:1e-06):0.001846,(XP_006486870.1_Citrus_sinensis:1e-06,XP_006486869.1_Citrus_sinensis:1e-06):0.007496):0.055956,(((((((((XP_013640867.1_Brassica_napus:0.000404,XP_009147857.1_Brassica_rapa:0.000809):0.002404,((XP_022560878.1_Brassica_napus:1e-06,XP_013720666.1_Brassica_napus:1e-06):0.003236,XP_013591509.1_Brassica_oleracea_var._oleracea:0.002426):0.001241):0.007632,(XP_018493366.1_Raphanus_sativus:1e-06,XP_018493375.1_Raphanus_sativus:1e-06):0.011521):0.026638,(((((XP_013642223.1_Brassica_napus:1e-06,XP_022559727.1_Brassica_napus:1e-06):1e-06,(XP_022559728.1_Brassica_napus:1e-06,XP_013696747.1_Brassica_napus:1e-06):1e-06):1e-06,(XP_013585705.1_Brassica_oleracea_var._oleracea:1e-06,XP_013585706.1_Brassica_oleracea_var._oleracea:1e-06):0.001614):0.00315,(XP_022575201.1_Brassica_napus:1e-06,XP_013749097.1_Brassica_napus:1e-06):0.002102):0.002439,XP_018491233.1_Raphanus_sativus:0.007376):0.0159):0.005809,XP_006393186.1_Eutrema_salsugineum:0.005444):0.004809,((XP_006306569.1_Capsella_rubella:0.009702,XP_010500558.1_Camelina_sativa:0.016085):0.003079,(XP_020866690.1_Arabidopsis_lyrata_subsp._lyrata:0.003558,(NP_001117459.1_Arabidopsis_thaliana:1e-06,NP_175425.2_Arabidopsis_thaliana:1e-06):0.00452):0.006442):0.008146):0.047636,(XP_010557538.1_Tarenaya_hassleriana:1e-06,XP_010557537.1_Tarenaya_hassleriana:1e-06):0.046297):0.088024,((XP_017970870.1_Theobroma_cacao:0.008135,XP_021285302.1_Herrania_umbratica:0.009132):0.011032,((XP_017641658.1_Gossypium_arboreum:0.003938,(XP_012450983.1_Gossypium_raimondii:0.0004,XP_016715655.1_Gossypium_hirsutum:0.003641):0.003765):0.029232,((XP_017637404.1_Gossypium_arboreum:0.005772,(XP_012436095.1_Gossypium_raimondii:0.001269,(XP_016737551.1_Gossypium_hirsutum:1e-06,XP_016737550.1_Gossypium_hirsutum:1e-06):0.001965):0.00406):0.023821,(((XP_022763544.1_Durio_zibethinus:1e-06,XP_022763545.1_Durio_zibethinus:1e-06):1e-06,XP_022763546.1_Durio_zibethinus:1e-06):1e-06,XP_022763547.1_Durio_zibethinus:1e-06):0.03817):0.005324):0.00293):0.025426):0.009453,((XP_020532410.1_Jatropha_curcas:0.022664,XP_015574141.1_Ricinus_communis:0.023471):0.01666,(((XP_011030285.1_Populus_euphratica:1e-06,XP_011030284.1_Populus_euphratica:1e-06):0.010909,(XP_024446672.1_Populus_trichocarpa:1e-06,XP_024446675.1_Populus_trichocarpa:1e-06):0.004198):0.026474,((XP_011002468.1_Populus_euphratica:1e-06,XP_011002462.1_Populus_euphratica:1e-06):0.009682,(XP_024464463.1_Populus_trichocarpa:1e-06,XP_024464464.1_Populus_trichocarpa:1e-06):0.005909):0.03421):0.033144):0.014945):0.004215):0.006538):0.007504,(XP_023904061.1_Quercus_suber:0.050026,(XP_018860593.1_Juglans_regia:1e-06,XP_018860592.1_Juglans_regia:1e-06):0.061971):0.024901):0.005141,(XP_022148800.1_Momordica_charantia:0.010894,((XP_008455057.1_Cucumis_melo:0.000806,XP_011658863.1_Cucumis_sativus:0.003245):0.008505,(XP_022972503.1_Cucurbita_maxima:0.00203,(XP_023553781.1_Cucurbita_pepo_subsp._pepo:0.00041,XP_022952143.1_Cucurbita_moschata:0.002425):0.00081):0.018215):0.006599):0.053377):0.004165,(((XP_004292060.1_Fragaria_vesca_subsp._vesca:0.019301,(XP_024161505.1_Rosa_chinensis:1e-06,XP_024161503.1_Rosa_chinensis:1e-06):0.014235):0.028458,((XP_009335361.1_Pyrus_x_bretschneideri:1e-06,XP_009335362.1_Pyrus_x_bretschneideri:1e-06):0.029677,(XP_021818116.1_Prunus_avium:0.005916,(XP_008236243.1_Prunus_mume:0.011425,XP_020425391.1_Prunus_persica:0.003479):0.003232):0.018541):0.004594):0.026516,(((XP_024933497.1_Ziziphus_jujuba:1e-06,XP_024933499.1_Ziziphus_jujuba:1e-06):1e-06,XP_015892922.1_Ziziphus_jujuba:1e-06):1e-06,XP_015892924.1_Ziziphus_jujuba:1e-06):0.059785):0.007937):0.055291,((XP_025699595.1_Arachis_hypogaea:1e-06,XP_025699596.1_Arachis_hypogaea:1e-06):1e-06,XP_015964900.1_Arachis_duranensis:0.004902):0.030929):0.006138,XP_019423211.1_Lupinus_angustifolius:0.051327):0.007495,XP_027362304.1_Abrus_precatorius:0.015666):0.009864,XP_020217117.1_Cajanus_cajan:0.008811):0.0022):0.010141):0.012259,XP_014520568.1_Vigna_radiata_var._radiata:1e-06):1e-06,XP_022631748.1_Vigna_radiata_var._radiata:1e-06):0;
+END;

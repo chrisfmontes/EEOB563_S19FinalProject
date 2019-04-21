@@ -1,0 +1,111 @@
+#NEXUS
+[R-package APE, Sun Apr 21 00:34:21 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 100;
+	TAXLABELS
+		XP_021686792.1 Hevea brasiliensis
+		XP_021686483.1 Hevea brasiliensis
+		XP_021611543.1 Manihot esculenta
+		XP_012065955.1 Jatropha curcas
+		XP_020532985.1 Jatropha curcas
+		XP_002523640.1 Ricinus communis
+		XP_015577558.1 Ricinus communis
+		XP_012857245.1 Erythranthe guttata
+		XP_011078873.1 Sesamum indicum
+		XP_022873919.1 Olea europaea var. sylvestris
+		XP_022856944.1 Olea europaea var. sylvestris
+		XP_004234794.1 Solanum lycopersicum
+		XP_006349547.1 Solanum tuberosum
+		XP_015071097.1 Solanum pennellii
+		XP_016565031.1 Capsicum annuum
+		XP_016565032.1 Capsicum annuum
+		XP_009596754.1 Nicotiana tomentosiformis
+		XP_019187577.1 Ipomoea nil
+		XP_019166069.1 Ipomoea nil
+		XP_024972956.1 Cynara cardunculus var. scolymus
+		XP_022015609.1 Helianthus annuus
+		XP_017249273.1 Daucus carota subsp. sativus
+		XP_027068750.1 Coffea arabica
+		XP_028114846.1 Camellia sinensis
+		XP_010653803.1 Vitis vinifera
+		XP_006846178.1 Amborella trichopoda
+		XP_010247534.1 Nelumbo nucifera
+		XP_010247519.1 Nelumbo nucifera
+		XP_010247533.1 Nelumbo nucifera
+		XP_007028857.1 Theobroma cacao
+		XP_022766723.1 Durio zibethinus
+		XP_012468042.1 Gossypium raimondii
+		XP_012468040.1 Gossypium raimondii
+		XP_016708033.1 Gossypium hirsutum
+		XP_002322701.1 Populus trichocarpa
+		XP_024443065.1 Populus trichocarpa
+		XP_011033301.1 Populus euphratica
+		XP_006493896.1 Citrus sinensis
+		XP_006421456.1 Citrus clementina
+		XP_013462601.1 Medicago truncatula
+		XP_018811853.1 Juglans regia
+		XP_010549080.1 Tarenaya hassleriana
+		XP_010549079.1 Tarenaya hassleriana
+		XP_006298201.1 Capsella rubella
+		XP_010487725.1 Camelina sativa
+		XP_010506462.1 Camelina sativa
+		NP_188442.1 Arabidopsis thaliana
+		XP_018489686.1 Raphanus sativus
+		XP_013613955.1 Brassica oleracea var. oleracea
+		XP_006406648.1 Eutrema salsugineum
+		XP_009145931.1 Brassica rapa
+		XP_023891370.1 Quercus suber
+		XP_024027234.1 Morus notabilis
+		XP_024027233.1 Morus notabilis
+		XP_015866149.1 Ziziphus jujuba
+		XP_008392179.1 Malus domestica
+		XP_008393984.1 Malus domestica
+		XP_009340147.1 Pyrus x bretschneideri
+		XP_009340148.1 Pyrus x bretschneideri
+		XP_007202251.1 Prunus persica
+		XP_020424889.1 Prunus persica
+		XP_008240855.1 Prunus mume
+		XP_008240854.1 Prunus mume
+		XP_016180989.1 Arachis ipaensis
+		XP_024186732.1 Rosa chinensis
+		XP_011469850.1 Fragaria vesca subsp. vesca
+		XP_022935415.1 Cucurbita moschata
+		XP_022935418.1 Cucurbita moschata
+		XP_004136587.1 Cucumis sativus
+		XP_022154284.1 Momordica charantia
+		XP_023528357.1 Cucurbita pepo subsp. pepo
+		XP_022983032.1 Cucurbita maxima
+		XP_007148018.1 Phaseolus vulgaris
+		XP_019430537.1 Lupinus angustifolius
+		XP_027930797.1 Vigna unguiculata
+		XP_014519123.1 Vigna radiata var. radiata
+		XP_027365785.1 Abrus precatorius
+		XP_028201504.1 Glycine soja
+		NP_001241999.1 Glycine max
+		XP_003542977.1 Glycine max
+		XP_004485923.1 Cicer arietinum
+		XP_020232302.1 Cajanus cajan
+		XP_019419702.1 Lupinus angustifolius
+		XP_021893400.1 Carica papaya
+		XP_021893399.1 Carica papaya
+		XP_020580719.1 Phalaenopsis equestris
+		XP_020704902.1 Dendrobium catenatum
+		XP_020275952.1 Asparagus officinalis
+		XP_025798354.1 Panicum hallii
+		XP_004982171.1 Setaria italica
+		XP_004979609.1 Setaria italica
+		XP_002449784.1 Sorghum bicolor
+		NP_001130601.1 Zea mays
+		XP_025827582.1 Panicum hallii
+		XP_003565062.1 Brachypodium distachyon
+		XP_020176636.1 Aegilops tauschii subsp. tauschii
+		XP_009381281.1 Musa acuminata subsp. malaccensis
+		XP_010917967.1 Elaeis guineensis
+		XP_010917968.1 Elaeis guineensis
+		XP_020091366.1 Ananas comosus
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] ((((((((XP_021686792.1_Hevea_brasiliensis:1e-06,XP_021686483.1_Hevea_brasiliensis:1e-06):1e-06,XP_021611543.1_Manihot_esculenta:0.006344):0.006673,((XP_012065955.1_Jatropha_curcas:1e-06,XP_020532985.1_Jatropha_curcas:1e-06):0.016089,(XP_002523640.1_Ricinus_communis:0.00634,XP_015577558.1_Ricinus_communis:1e-06):2e-06):0.003176):0.006672,((((((XP_012857245.1_Erythranthe_guttata:0.090484,XP_011078873.1_Sesamum_indicum:0.01375):0.004588,(XP_022873919.1_Olea_europaea_var._sylvestris:0.026537,XP_022856944.1_Olea_europaea_var._sylvestris:0.008934):0.012452):0.02165,(((XP_004234794.1_Solanum_lycopersicum:0.0032,(XP_006349547.1_Solanum_tuberosum:0.007425,XP_015071097.1_Solanum_pennellii:0.003191):1e-06):0.003841,((XP_016565031.1_Capsicum_annuum:1e-06,XP_016565032.1_Capsicum_annuum:1e-06):0.013531,XP_009596754.1_Nicotiana_tomentosiformis:0.003165):0.003254):0.036602,(XP_019187577.1_Ipomoea_nil:0.035378,XP_019166069.1_Ipomoea_nil:0.031857):0.007607):0.026842):0.035061,((XP_024972956.1_Cynara_cardunculus_var._scolymus:0.00412,XP_022015609.1_Helianthus_annuus:0.005797):0.019818,XP_017249273.1_Daucus_carota_subsp._sativus:0.027258):0.010147):1e-06,(XP_027068750.1_Coffea_arabica:0.009557,XP_028114846.1_Camellia_sinensis:0.031655):0.003541):0.004158,(((XP_010653803.1_Vitis_vinifera:0.055258,(((XP_006846178.1_Amborella_trichopoda:0.042247,(XP_010247534.1_Nelumbo_nucifera:1e-06,(XP_010247519.1_Nelumbo_nucifera:0.023499,XP_010247533.1_Nelumbo_nucifera:1e-06):0.011821):0.024719):0.024156,(XP_007028857.1_Theobroma_cacao:0.003202,(XP_022766723.1_Durio_zibethinus:0.032208,((XP_012468042.1_Gossypium_raimondii:1e-06,XP_012468040.1_Gossypium_raimondii:1e-06):1e-06,XP_016708033.1_Gossypium_hirsutum:0.012793):0.010084):0.003327):0.003569):0.013276,((XP_002322701.1_Populus_trichocarpa:1e-06,XP_024443065.1_Populus_trichocarpa:1e-06):1e-06,XP_011033301.1_Populus_euphratica:0.003161):0.023883):1e-06):0.008494,((XP_006493896.1_Citrus_sinensis:1e-06,XP_006421456.1_Citrus_clementina:0.003142):0.042221,(XP_013462601.1_Medicago_truncatula:0.051267,((((XP_018811853.1_Juglans_regia:0.012471,((XP_010549080.1_Tarenaya_hassleriana:0.003697,XP_010549079.1_Tarenaya_hassleriana:1e-06):0.003602,(((XP_006298201.1_Capsella_rubella:1e-06,(XP_010487725.1_Camelina_sativa:1e-06,XP_010506462.1_Camelina_sativa:0.003302):0.006604):1e-06,NP_188442.1_Arabidopsis_thaliana:0.006598):0.00654,(((XP_018489686.1_Raphanus_sativus:1e-06,XP_013613955.1_Brassica_oleracea_var._oleracea:1e-06):1e-06,XP_006406648.1_Eutrema_salsugineum:0.003312):1e-06,XP_009145931.1_Brassica_rapa:0.003311):0.013379):0.019772):0.079557):0.00689,XP_023891370.1_Quercus_suber:0.025419):0.006452,(((XP_024027234.1_Morus_notabilis:1e-06,XP_024027233.1_Morus_notabilis:1e-06):0.041523,XP_015866149.1_Ziziphus_jujuba:0.03951):0.003941,((XP_008392179.1_Malus_domestica:0.01244,(XP_008393984.1_Malus_domestica:0.009573,(XP_009340147.1_Pyrus_x_bretschneideri:1e-06,XP_009340148.1_Pyrus_x_bretschneideri:1e-06):0.003553):0.018402):0.015181,((XP_007202251.1_Prunus_persica:1e-06,(XP_020424889.1_Prunus_persica:1e-06,(XP_008240855.1_Prunus_mume:1e-06,XP_008240854.1_Prunus_mume:1e-06):0.00307):1e-06):1e-06,(XP_016180989.1_Arachis_ipaensis:0.028652,(XP_024186732.1_Rosa_chinensis:1e-06,XP_011469850.1_Fragaria_vesca_subsp._vesca:0.009613):0.00956):0.006407):0.000198):0.004764):0.006923):1e-06,(((XP_022935415.1_Cucurbita_moschata:1e-06,XP_022935418.1_Cucurbita_moschata:1e-06):0.002584,((XP_004136587.1_Cucumis_sativus:1e-06,XP_022154284.1_Momordica_charantia:0.003152):0.003151,(XP_023528357.1_Cucurbita_pepo_subsp._pepo:1e-06,XP_022983032.1_Cucurbita_maxima:1e-06):1e-06):0.003881):0.022115,(((XP_007148018.1_Phaseolus_vulgaris:1e-06,XP_019430537.1_Lupinus_angustifolius:0.028959):0.003163,(((XP_027930797.1_Vigna_unguiculata:1e-06,XP_014519123.1_Vigna_radiata_var._radiata:0.003167):0.003167,XP_027365785.1_Abrus_precatorius:0.003167):1e-06,(((XP_028201504.1_Glycine_soja:1e-06,(NP_001241999.1_Glycine_max:0.003166,XP_003542977.1_Glycine_max:0.006346):1e-06):1e-06,XP_004485923.1_Cicer_arietinum:0.009568):0.003163,XP_020232302.1_Cajanus_cajan:0.025638):1e-06):1e-06):0.005817,XP_019419702.1_Lupinus_angustifolius:0.015656):0.003953):1e-06):0.003891):1e-06):0.006958):0.010492,(XP_021893400.1_Carica_papaya:1e-06,XP_021893399.1_Carica_papaya:1e-06):0.037561):0.012663):1e-06):0.054233,((XP_020580719.1_Phalaenopsis_equestris:0.008321,XP_020704902.1_Dendrobium_catenatum:0.022477):0.024441,XP_020275952.1_Asparagus_officinalis:0.025312):0.007494):0.011352,((((XP_025798354.1_Panicum_hallii:1e-06,XP_004982171.1_Setaria_italica:0.009528):0.003158,(XP_004979609.1_Setaria_italica:0.003164,(XP_002449784.1_Sorghum_bicolor:1e-06,(NP_001130601.1_Zea_mays:0.003168,XP_025827582.1_Panicum_hallii:0.006334):1e-06):1e-06):0.003163):1e-06,(XP_003565062.1_Brachypodium_distachyon:1e-06,XP_020176636.1_Aegilops_tauschii_subsp._tauschii:0.00628):0.006313):0.028084,XP_009381281.1_Musa_acuminata_subsp._malaccensis:0.025162):0.00735):0.007261,(XP_010917967.1_Elaeis_guineensis:1e-06,XP_010917968.1_Elaeis_guineensis:1e-06):0.021941):0.017474,XP_020091366.1_Ananas_comosus:0.017474):0;
+END;

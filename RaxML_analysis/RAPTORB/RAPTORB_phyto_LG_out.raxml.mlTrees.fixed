@@ -1,0 +1,112 @@
+#NEXUS
+[R-package APE, Sun Apr 21 00:34:21 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 101;
+	TAXLABELS
+		Mpolymorpha Mapoly0002s0262.1.p
+		Ppatens Pp3c15_3360V3.1.p
+		Ppatens Pp3c9_4770V3.1.p
+		Ppatens Pp3c17_3950V3.1.p
+		Ppatens Pp3c25_7220V3.1.p
+		Sfallax Sphfalx0100s0058.1.p
+		Sfallax Sphfalx0101s0046.1.p
+		Smoellendorffii 171199
+		Smoellendorffii 183380
+		Zmarina Zosma270g00230.1
+		Spolyrhiza Spipo3G0000500
+		Macuminata GSMUA_AchrUn_randomP12070_001
+		Macuminata GSMUA_Achr5P14390_001
+		Acomosus Aco007098.1
+		Othomaeum Oropetium_20150105_24777A
+		Othomaeum Oropetium_20150105_22170A
+		Pvirgatum Pavir.J34189.1.p
+		Pvirgatum Pavir.J35181.1.p
+		Phallii Pahal.E00103.1
+		Phallii Pahal.C00115.1
+		Sitalica Seita.8G016500.1.p
+		Sviridis Sevir.8G015500.1.p
+		Sviridis Sevir.7G338000.1.p
+		Sitalica Seita.7G328200.1.p
+		Sitalica Seita.7G328900.1.p
+		Zmays GRMZM2G048067_P01
+		ZmaysPH207 Zm00008a036293_P01
+		Sbicolor Sobic.008G009700.1.p
+		Zmays GRMZM2G460090_P01
+		ZmaysPH207 Zm00008a017661_P01
+		ZmaysPH207 Zm00008a008410_P01
+		Sbicolor Sobic.005G008800.1.p
+		Osativa LOC_Os12g01922.1
+		Osativa LOC_Os11g01872.1
+		Bstacei Brast05G294500.1.p
+		Bdistachyon Bradi4g44667.3.p
+		Ahypochondriacus AHYPO_009059-RA
+		Csativus Cucsa.130350.1
+		Fvesca mrna13815.1-v1.0-hybrid
+		Mdomestica MDP0000209431
+		Mdomestica MDP0000061330
+		Mdomestica MDP0000061332
+		Ppersica Prupe.6G288100.1.p
+		Egrandis Eucgr.K01257.1.p
+		Egrandis Eucgr.K01267.1.p
+		Mtruncatula Medtr7g072330.1
+		Tpratense Tp57577_TGAC_v2_mRNA36487
+		Tpratense Tp57577_TGAC_v2_mRNA36490
+		Pvulgaris Phvul.008G087800.1.p
+		Pvulgaris Phvul.008G088100.1.p
+		Gmax Glyma.18G210300.1.p
+		Gmax Glyma.09G278500.1.p
+		Ptrichocarpa Potri.016G132000.1
+		Spurpurea SapurV1A.0065s0110.1.p
+		Spurpurea SapurV1A.0001s0110.1.p
+		Ptrichocarpa Potri.006G106600.1
+		Mesculenta Manes.09G114600.1.p
+		Mesculenta Manes.08G174400.1.p
+		Rcommunis 30015.m000214
+		Rcommunis 29718.m000133
+		Lusitatissimum Lus10009083
+		Lusitatissimum Lus10025263
+		Lusitatissimum Lus10014156
+		Tcacao Thecc1EG019767t1
+		Graimondii Gorai.005G006600.1
+		Graimondii Gorai.011G130300.1
+		Csinensis orange1.1g000681m
+		Cclementina Ciclev10010918m
+		Cpapaya evm.model.supercontig_86.8
+		Bstricta Bostr.22252s0189.1.p
+		Crubella Carubv10015752m
+		Cgrandiflora Cagra.2991s0009.1.p
+		Athaliana AT3G08850.1
+		Ahalleri Araha.25299s0013.1.p
+		Alyrata AL3G19840.t1
+		BrapaFPsc Brara.E03129.1.p
+		BrapaFPsc Brara.C03303.1.p
+		Esalsugineum Thhalv10019904m
+		Esalsugineum Thhalv10012449m
+		Bstricta Bostr.6251s0145.1.p
+		Athalianaearly-release AT5G01770.1
+		Ahalleri Araha.1514s0002.1.p
+		Alyrata AL6G10260.t1
+		Klaxiflora Kalax.0576s0012.1.p
+		Kfedtschenkoi Kaladp0020s0076.1.p
+		Klaxiflora Kalax.0087s0007.1.p
+		Kfedtschenkoi Kaladp0515s0182.1.p
+		Klaxiflora Kalax.0043s0024.1.p
+		Klaxiflora Kalax.1127s0005.1.p
+		Vvinifera GSVIVT01030232001
+		Dcarota DCAR_015351
+		Dcarota DCAR_023988
+		Stuberosum PGSC0003DMP400029775
+		Slycopersicum Solyc09g014780.2.1
+		Mguttatus Migut.J00073.1.p
+		Acoerulea Aqcoe1G395700.1.p
+		Atrichopoda evm_27.model.AmTr_v1.0_scaffold00007.183
+		Creinhardtii Cre08.g371957.t1.1
+		Olucimarinus 41144
+		Msp.RCC299 80694
+		MpusillaCCMP1545 17707
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] (((((((Mpolymorpha_Mapoly0002s0262.1.p:0.158625,((((Ppatens_Pp3c15_3360V3.1.p:0.098338,Ppatens_Pp3c9_4770V3.1.p:0.081421):0.034391,Ppatens_Pp3c17_3950V3.1.p:0.139233):0.080906,Ppatens_Pp3c25_7220V3.1.p:0.177665):0.073643,(Sfallax_Sphfalx0100s0058.1.p:0.072384,Sfallax_Sphfalx0101s0046.1.p:0.176967):0.102839):0.094239):0.093592,(Smoellendorffii_171199:0.310103,Smoellendorffii_183380:0.342129):0.060137):0.080836,(((Zmarina_Zosma270g00230.1:0.280481,(Spolyrhiza_Spipo3G0000500:0.130019,((Macuminata_GSMUA_AchrUn_randomP12070_001:0.048387,Macuminata_GSMUA_Achr5P14390_001:0.069223):0.051978,(Acomosus_Aco007098.1:0.086642,(((Othomaeum_Oropetium_20150105_24777A:0.019699,Othomaeum_Oropetium_20150105_22170A:0.026694):0.075391,((((Pvirgatum_Pavir.J34189.1.p:0.021517,Pvirgatum_Pavir.J35181.1.p:0.013104):0.005777,(Phallii_Pahal.E00103.1:0.002838,Phallii_Pahal.C00115.1:0.001467):0.007019):0.010364,((Sitalica_Seita.8G016500.1.p:0.003032,Sviridis_Sevir.8G015500.1.p:1e-06):0.00508,(Sviridis_Sevir.7G338000.1.p:0.00295,(Sitalica_Seita.7G328200.1.p:0.002548,Sitalica_Seita.7G328900.1.p:1e-06):1e-06):0.005234):0.017053):0.012879,(((Zmays_GRMZM2G048067_P01:1e-06,ZmaysPH207_Zm00008a036293_P01:0.004835):0.035108,Sbicolor_Sobic.008G009700.1.p:0.019352):0.022336,((Zmays_GRMZM2G460090_P01:0.006214,ZmaysPH207_Zm00008a017661_P01:0.004267):0.084424,(ZmaysPH207_Zm00008a008410_P01:0.124943,Sbicolor_Sobic.005G008800.1.p:0.027354):0.0042):0.01981):0.024758):0.011556):0.025362,((Osativa_LOC_Os12g01922.1:0.002369,Osativa_LOC_Os11g01872.1:0.003069):0.052423,(Bstacei_Brast05G294500.1.p:0.014126,Bdistachyon_Bradi4g44667.3.p:0.006688):0.044821):0.009066):0.169079):0.034138):0.048409):0.011049):0.02467,((Ahypochondriacus_AHYPO_009059-RA:0.188869,((((((Csativus_Cucsa.130350.1:0.099346,(Fvesca_mrna13815.1-v1.0-hybrid:0.06837,((Mdomestica_MDP0000209431:0.035826,(Mdomestica_MDP0000061330:1e-06,Mdomestica_MDP0000061332:1e-06):0.025866):0.015372,Ppersica_Prupe.6G288100.1.p:0.022675):0.00676):0.026101):0.006571,((Egrandis_Eucgr.K01257.1.p:0.188345,Egrandis_Eucgr.K01267.1.p:0.04623):0.102752,((Mtruncatula_Medtr7g072330.1:0.027912,(Tpratense_Tp57577_TGAC_v2_mRNA36487:0.105295,Tpratense_Tp57577_TGAC_v2_mRNA36490:0.029214):0.011628):0.066531,((Pvulgaris_Phvul.008G087800.1.p:0.015229,Pvulgaris_Phvul.008G088100.1.p:0.086573):0.009192,(Gmax_Glyma.18G210300.1.p:0.020337,Gmax_Glyma.09G278500.1.p:0.010391):0.016945):0.014902):0.068973):0.015095):0.010062,(((((Ptrichocarpa_Potri.016G132000.1:0.029613,Spurpurea_SapurV1A.0065s0110.1.p:0.046399):0.02886,(Spurpurea_SapurV1A.0001s0110.1.p:0.034622,Ptrichocarpa_Potri.006G106600.1:0.016108):0.015405):0.056813,(((Mesculenta_Manes.09G114600.1.p:0.050286,Mesculenta_Manes.08G174400.1.p:0.032317):0.010877,(Rcommunis_30015.m000214:0.025269,Rcommunis_29718.m000133:0.042873):0.037887):0.021961,((Lusitatissimum_Lus10009083:0.017318,Lusitatissimum_Lus10025263:0.015023):0.041505,Lusitatissimum_Lus10014156:0.100957):0.059824):0.012307):0.020201,((Tcacao_Thecc1EG019767t1:0.059914,(Graimondii_Gorai.005G006600.1:0.061652,Graimondii_Gorai.011G130300.1:0.030742):0.006548):0.050837,(Csinensis_orange1.1g000681m:0.001388,Cclementina_Ciclev10010918m:0.003827):0.072336):0.015479):0.008673,(Cpapaya_evm.model.supercontig_86.8:0.277872,((((Bstricta_Bostr.22252s0189.1.p:0.006887,(Crubella_Carubv10015752m:1e-06,Cgrandiflora_Cagra.2991s0009.1.p:0.000749):0.007429):0.00149,(Athaliana_AT3G08850.1:0.006309,(Ahalleri_Araha.25299s0013.1.p:0.000846,Alyrata_AL3G19840.t1:0.002148):0.003532):0.002847):0.003322,((BrapaFPsc_Brara.E03129.1.p:0.062841,BrapaFPsc_Brara.C03303.1.p:0.032289):0.0093,Esalsugineum_Thhalv10019904m:0.013975):0.006151):0.04493,(Esalsugineum_Thhalv10012449m:0.073657,(Bstricta_Bostr.6251s0145.1.p:0.044049,(Athalianaearly-release_AT5G01770.1:0.050091,(Ahalleri_Araha.1514s0002.1.p:0.013088,Alyrata_AL6G10260.t1:0.005584):0.023295):0.013694):0.02916):0.071828):0.127344):0.022343):0.011121):0.013516,((Klaxiflora_Kalax.0576s0012.1.p:0.002996,(Kfedtschenkoi_Kaladp0020s0076.1.p:0.005985,Klaxiflora_Kalax.0087s0007.1.p:0.005106):0.000156):0.170413,(Kfedtschenkoi_Kaladp0515s0182.1.p:0.000554,(Klaxiflora_Kalax.0043s0024.1.p:0.009507,Klaxiflora_Kalax.1127s0005.1.p:1e-06):0.000901):0.281651):0.065403):0.005463,Vvinifera_GSVIVT01030232001:0.081897):0.009737,((Dcarota_DCAR_015351:0.107537,Dcarota_DCAR_023988:0.145228):0.037745,((Stuberosum_PGSC0003DMP400029775:0.007101,Slycopersicum_Solyc09g014780.2.1:0.009604):0.071015,Mguttatus_Migut.J00073.1.p:0.118094):0.030426):0.025131):0.029006):0.052411,Acoerulea_Aqcoe1G395700.1.p:0.117946):0.014275):0.043627,Atrichopoda_evm_27.model.AmTr_v1.0_scaffold00007.183:0.148573):0.191379):0.206103,Creinhardtii_Cre08.g371957.t1.1:0.565077):0.281271,Olucimarinus_41144:0.389081):0.124394,Msp.RCC299_80694:0.164657):0.102272,MpusillaCCMP1545_17707:0.102272):0;
+END;

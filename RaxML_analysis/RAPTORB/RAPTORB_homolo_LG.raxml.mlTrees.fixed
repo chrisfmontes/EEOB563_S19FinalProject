@@ -1,0 +1,32 @@
+#NEXUS
+[R-package APE, Sun Apr 21 00:34:21 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 21;
+	TAXLABELS
+		XP_003953266.1 Pan troglodytes
+		XP_001110471.1 Macaca mulatta
+		NP_083174.2 Mus musculus
+		NP_001127971.2 Rattus norvegicus
+		XP_850487.1 Canis lupus familiaris
+		NP_001179059.1 Bos taurus
+		NP_001123843.1 Xenopus tropicalis
+		NP_572294.2 Drosophila melanogaster
+		XP_001689178.1 Anopheles gambiae str. PEST
+		NP_001065961.1 Oryza sativa Japonica Group
+		NP_195797.3 Arabidopsis thaliana
+		NP_566335.1 Arabidopsis thaliana
+		NP_593370.1 Schizosaccharomyces pombe
+		XP_965761.1 Neurospora crassa OR74A
+		XP_003720858.1 Pyricularia oryzae 70-15
+		NP_012056.1 Saccharomyces cerevisiae S288C
+		NP_984427.2 Eremothecium gossypii ATCC 10895
+		XP_451414.1 Kluyveromyces lactis
+		XP_005157411.1 Danio rerio
+		XP_426232.2 Gallus gallus
+		NP_065812.1 Homo sapiens
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] (XP_003953266.1_Pan_troglodytes:0.006828,(XP_001110471.1_Macaca_mulatta:0.009828,((NP_083174.2_Mus_musculus:0.001499,NP_001127971.2_Rattus_norvegicus:1e-06):0.010964,((XP_850487.1_Canis_lupus_familiaris:0.013986,NP_001179059.1_Bos_taurus:0.007752):0.006359,((NP_001123843.1_Xenopus_tropicalis:0.043477,(((NP_572294.2_Drosophila_melanogaster:0.466233,XP_001689178.1_Anopheles_gambiae_str._PEST:0.35653):0.24894,((NP_001065961.1_Oryza_sativa_Japonica_Group:0.200499,(NP_195797.3_Arabidopsis_thaliana:0.135904,NP_566335.1_Arabidopsis_thaliana:0.059637):0.137841):0.555576,(NP_593370.1_Schizosaccharomyces_pombe:0.408092,((XP_965761.1_Neurospora_crassa_OR74A:0.17039,XP_003720858.1_Pyricularia_oryzae_70-15:0.190416):0.335255,(NP_012056.1_Saccharomyces_cerevisiae_S288C:0.251052,(NP_984427.2_Eremothecium_gossypii_ATCC_10895:0.174658,XP_451414.1_Kluyveromyces_lactis:0.213213):0.120568):0.443191):0.085651):0.308178):0.144956):0.286343,XP_005157411.1_Danio_rerio:0.050896):0.034218):0.02819,XP_426232.2_Gallus_gallus:0.010738):0.01771):0.003892):0.021029):0.002375,NP_065812.1_Homo_sapiens:1e-06):0;
+END;

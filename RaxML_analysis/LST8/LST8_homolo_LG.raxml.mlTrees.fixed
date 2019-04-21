@@ -1,0 +1,31 @@
+#NEXUS
+[R-package APE, Sun Apr 21 00:34:21 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 20;
+	TAXLABELS
+		XP_001084050.1 Macaca mulatta
+		NP_001239392.1 Mus musculus
+		NP_071799.2 Rattus norvegicus
+		NP_001050907.1 Oryza sativa Japonica Group
+		NP_188442.1 Arabidopsis thaliana
+		NP_595682.1 Schizosaccharomyces pombe
+		XP_961071.2 Neurospora crassa OR74A
+		XP_003715510.1 Pyricularia oryzae 70-15
+		NP_014392.3 Saccharomyces cerevisiae S288C
+		NP_982533.1 Eremothecium gossypii ATCC 10895
+		XP_453275.1 Kluyveromyces lactis
+		XP_560261.3 Anopheles gambiae str. PEST
+		NP_572572.1 Drosophila melanogaster
+		NP_001011443.1 Xenopus tropicalis
+		NP_956171.1 Danio rerio
+		XP_004945304.1 Gallus gallus
+		XP_853618.1 Canis lupus familiaris
+		NP_001030488.1 Bos taurus
+		XP_510741.3 Pan troglodytes
+		NP_001186102.1 Homo sapiens
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] (XP_001084050.1_Macaca_mulatta:0.058028,((((NP_001239392.1_Mus_musculus:0.005942,NP_071799.2_Rattus_norvegicus:0.003701):0.007311,(((((NP_001050907.1_Oryza_sativa_Japonica_Group:0.09133,NP_188442.1_Arabidopsis_thaliana:0.127956):0.25014,(NP_595682.1_Schizosaccharomyces_pombe:0.182304,((XP_961071.2_Neurospora_crassa_OR74A:0.138724,XP_003715510.1_Pyricularia_oryzae_70-15:0.099014):0.213414,(NP_014392.3_Saccharomyces_cerevisiae_S288C:0.074455,(NP_982533.1_Eremothecium_gossypii_ATCC_10895:0.052487,XP_453275.1_Kluyveromyces_lactis:0.048163):0.035526):0.168149):0.062079):0.162814):0.369749,(XP_560261.3_Anopheles_gambiae_str._PEST:0.297413,NP_572572.1_Drosophila_melanogaster:0.332649):0.231593):0.223353,(NP_001011443.1_Xenopus_tropicalis:0.032489,NP_956171.1_Danio_rerio:0.017609):0.010603):0.011289,XP_004945304.1_Gallus_gallus:1e-06):0.057549):0.005225,(XP_853618.1_Canis_lupus_familiaris:0.003069,NP_001030488.1_Bos_taurus:0.025445):1e-06):0.003076,XP_510741.3_Pan_troglodytes:1e-06):1e-06,NP_001186102.1_Homo_sapiens:0.003078):0;
+END;

@@ -1,0 +1,100 @@
+NP_566335.1 Arabidopsis thaliana
+XP_002884700.1 Arabidopsis lyrata subsp. lyrata
+XP_010464503.1 Camelina sativa
+XP_019092711.1 Camelina sativa
+XP_006299577.1 Capsella rubella
+XP_010486431.1 Camelina sativa
+XP_006407739.1 Eutrema salsugineum
+XP_018491826.1 Raphanus sativus
+XP_009135087.1 Brassica rapa
+XP_013736091.1 Brassica napus
+XP_022570821.1 Brassica napus
+XP_013628808.1 Brassica oleracea var. oleracea
+XP_013586333.1 Brassica oleracea var. oleracea
+XP_009146976.1 Brassica rapa
+XP_018491493.1 Raphanus sativus
+XP_022559256.1 Brassica napus
+XP_010558401.1 Tarenaya hassleriana
+XP_019092713.1 Camelina sativa
+XP_010553139.1 Tarenaya hassleriana
+XP_010543169.1 Tarenaya hassleriana
+XP_010543168.1 Tarenaya hassleriana
+XP_019058409.1 Tarenaya hassleriana
+NP_001330424.1 Arabidopsis thaliana
+XP_020878914.1 Arabidopsis lyrata subsp. lyrata
+NP_001330426.1 Arabidopsis thaliana
+XP_006398582.1 Eutrema salsugineum
+NP_001330427.1 Arabidopsis thaliana
+XP_024011669.1 Eutrema salsugineum
+NP_195797.3 Arabidopsis thaliana
+XP_021622522.1 Manihot esculenta
+XP_021656566.1 Hevea brasiliensis
+XP_021656565.1 Hevea brasiliensis
+XP_015897660.1 Ziziphus jujuba
+XP_021638775.1 Hevea brasiliensis
+XP_012089724.1 Jatropha curcas
+XP_012454888.1 Gossypium raimondii
+XP_017619566.1 Gossypium arboreum
+XP_024017913.1 Morus notabilis
+XP_021827806.1 Prunus avium
+XP_016698991.1 Gossypium hirsutum
+XP_004302528.1 Fragaria vesca subsp. vesca
+XP_010091104.1 Morus notabilis
+XP_016677672.1 Gossypium hirsutum
+XP_006429536.1 Citrus clementina
+XP_023912272.1 Quercus suber
+XP_007208391.1 Prunus persica
+XP_011466431.1 Fragaria vesca subsp. vesca
+XP_024955645.1 Citrus sinensis
+XP_024187642.1 Rosa chinensis
+XP_027926391.1 Vigna unguiculata
+XP_007140148.1 Phaseolus vulgaris
+XP_021621626.1 Manihot esculenta
+XP_022144003.1 Momordica charantia
+XP_008370225.1 Malus domestica
+XP_022950116.1 Cucurbita moschata
+XP_023543826.1 Cucurbita pepo subsp. pepo
+XP_027349425.1 Abrus precatorius
+XP_021291593.1 Herrania umbratica
+XP_002309174.1 Populus trichocarpa
+XP_018819334.1 Juglans regia
+XP_015087770.1 Solanum pennellii
+XP_004246316.1 Solanum lycopersicum
+XP_006366877.1 Solanum tuberosum
+XP_009373118.1 Pyrus x bretschneideri
+XP_014497712.1 Vigna radiata var. radiata
+XP_004149929.1 Cucumis sativus
+XP_018819333.1 Juglans regia
+XP_008388316.1 Malus domestica
+XP_022721934.1 Durio zibethinus
+XP_027349424.1 Abrus precatorius
+XP_003632587.1 Vitis vinifera
+XP_027349427.1 Abrus precatorius
+XP_027349426.1 Abrus precatorius
+XP_022978074.1 Cucurbita maxima
+XP_024459812.1 Populus trichocarpa
+XP_022761432.1 Durio zibethinus
+XP_007033600.1 Theobroma cacao
+XP_009623806.1 Nicotiana tomentosiformis
+XP_011019037.1 Populus euphratica
+XP_019254458.1 Nicotiana attenuata
+XP_017633836.1 Gossypium arboreum
+XP_027066987.1 Coffea arabica
+XP_018632754.1 Nicotiana tomentosiformis
+XP_027175059.1 Coffea eugenioides
+XP_027349428.1 Abrus precatorius
+XP_024442923.1 Populus trichocarpa
+XP_019254459.1 Nicotiana attenuata
+XP_018632755.1 Nicotiana tomentosiformis
+XP_022925066.1 Cucurbita moschata
+XP_023517518.1 Cucurbita pepo subsp. pepo
+XP_003533671.1 Glycine max
+XP_027066986.1 Coffea arabica
+XP_027175058.1 Coffea eugenioides
+XP_027066985.1 Coffea arabica
+XP_022733761.1 Durio zibethinus
+XP_027175057.1 Coffea eugenioides
+XP_011019038.1 Populus euphratica
+XP_022761433.1 Durio zibethinus
+XP_022966129.1 Cucurbita maxima
+XP_016541943.1 Capsicum annuum

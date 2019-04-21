@@ -1,6 +1,0 @@
-library(biomaRt)
-listMarts()
-ensembl=useMart("ensembl")
-listDatasets(ensembl)
-RAPTOR1b_HOM <- read.delim("../EMSEMBL_RAPTOR1B_homologs.tsv", header = T, sep = "\t")
-searchDatasets(mart = ensembl, pattern = "homo_sapiens")

@@ -1,0 +1,21 @@
+NP_065812.1 Homo sapiens
+XP_003953266.1 Pan troglodytes
+XP_001110471.1 Macaca mulatta
+XP_850487.1 Canis lupus familiaris
+NP_001179059.1 Bos taurus
+NP_083174.2 Mus musculus
+NP_001127971.2 Rattus norvegicus
+XP_426232.2 Gallus gallus
+XP_005157411.1 Danio rerio
+NP_572294.2 Drosophila melanogaster
+XP_001689178.1 Anopheles gambiae str. PEST
+NP_012056.1 Saccharomyces cerevisiae S288C
+XP_451414.1 Kluyveromyces lactis
+NP_984427.2 Eremothecium gossypii ATCC 10895
+NP_593370.1 Schizosaccharomyces pombe
+XP_003720858.1 Pyricularia oryzae 70-15
+XP_965761.1 Neurospora crassa OR74A
+NP_195797.3 Arabidopsis thaliana
+NP_566335.1 Arabidopsis thaliana
+NP_001065961.1 Oryza sativa Japonica Group
+NP_001123843.1 Xenopus tropicalis
