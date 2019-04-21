@@ -1,0 +1,1411 @@
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 8201 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 78.77%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 1000 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 8201
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: LG
+Using empirical base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-HYBRID -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATLGF -o PNW73566_Crei/1-4390,PNW73772_Crei/1-4914 
+
+
+
+Time for BS model parameter optimization on Process 7: 1.544895 seconds
+
+Time for BS model parameter optimization on Process 4: 1.556489 seconds
+
+Time for BS model parameter optimization on Process 5: 1.997684 seconds
+
+Time for BS model parameter optimization on Process 11: 1.960819 seconds
+
+Time for BS model parameter optimization on Process 10: 2.101322 seconds
+
+Time for BS model parameter optimization on Process 0: 2.037736 seconds
+
+Time for BS model parameter optimization on Process 9: 1.979461 seconds
+
+Time for BS model parameter optimization on Process 6: 1.931686 seconds
+
+Time for BS model parameter optimization on Process 2: 1.982458 seconds
+
+Time for BS model parameter optimization on Process 1: 2.013544 seconds
+
+Time for BS model parameter optimization on Process 3: 2.336178 seconds
+
+Time for BS model parameter optimization on Process 8: 1.967485 seconds
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[504]: Time 76.006334 seconds, bootstrap likelihood -212483.037169, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[420]: Time 81.032380 seconds, bootstrap likelihood -212685.622830, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[336]: Time 87.031831 seconds, bootstrap likelihood -217714.474866, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[840]: Time 94.653509 seconds, bootstrap likelihood -214177.242625, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[588]: Time 99.413894 seconds, bootstrap likelihood -217642.289080, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[252]: Time 100.338254 seconds, bootstrap likelihood -212970.968282, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[756]: Time 100.688053 seconds, bootstrap likelihood -211610.563964, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[924]: Time 102.918886 seconds, bootstrap likelihood -216675.500417, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[168]: Time 105.225637 seconds, bootstrap likelihood -214932.403807, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[672]: Time 107.950985 seconds, bootstrap likelihood -212335.263453, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[0]: Time 113.333199 seconds, bootstrap likelihood -213834.319315, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[84]: Time 113.864030 seconds, bootstrap likelihood -212889.668331, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[841]: Time 60.476887 seconds, bootstrap likelihood -215224.088517, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[589]: Time 60.463973 seconds, bootstrap likelihood -215138.361262, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[757]: Time 59.605408 seconds, bootstrap likelihood -211240.076039, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[421]: Time 81.980542 seconds, bootstrap likelihood -215092.114825, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[673]: Time 56.290305 seconds, bootstrap likelihood -216484.397104, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[925]: Time 68.807820 seconds, bootstrap likelihood -215929.771205, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[337]: Time 93.276009 seconds, bootstrap likelihood -218200.118037, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[505]: Time 105.221387 seconds, bootstrap likelihood -213042.408871, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[169]: Time 77.379534 seconds, bootstrap likelihood -212306.297161, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[253]: Time 92.547006 seconds, bootstrap likelihood -215411.320704, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[1]: Time 85.583384 seconds, bootstrap likelihood -215015.070094, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[85]: Time 92.625940 seconds, bootstrap likelihood -213054.002324, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[422]: Time 59.224941 seconds, bootstrap likelihood -212455.789751, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[338]: Time 54.193012 seconds, bootstrap likelihood -214931.634535, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[674]: Time 70.813253 seconds, bootstrap likelihood -211848.123645, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[590]: Time 77.614628 seconds, bootstrap likelihood -215205.066868, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[506]: Time 66.152917 seconds, bootstrap likelihood -217537.014507, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[758]: Time 90.632203 seconds, bootstrap likelihood -216267.985847, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[842]: Time 96.635790 seconds, bootstrap likelihood -213757.232803, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[926]: Time 81.072872 seconds, bootstrap likelihood -214855.176292, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[2]: Time 79.292339 seconds, bootstrap likelihood -215499.980310, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[254]: Time 85.666779 seconds, bootstrap likelihood -217549.462117, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[170]: Time 96.058765 seconds, bootstrap likelihood -216074.816901, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[86]: Time 90.989032 seconds, bootstrap likelihood -210470.795882, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[423]: Time 76.528248 seconds, bootstrap likelihood -213873.598318, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[591]: Time 64.836290 seconds, bootstrap likelihood -210931.148692, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[339]: Time 77.381956 seconds, bootstrap likelihood -214448.071051, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[675]: Time 79.761352 seconds, bootstrap likelihood -216186.416188, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[759]: Time 78.671330 seconds, bootstrap likelihood -210863.442427, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[927]: Time 81.914645 seconds, bootstrap likelihood -214019.782372, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[507]: Time 89.907880 seconds, bootstrap likelihood -214167.259831, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[843]: Time 93.679819 seconds, bootstrap likelihood -215083.136784, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[171]: Time 75.033968 seconds, bootstrap likelihood -210460.390349, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[255]: Time 82.408318 seconds, bootstrap likelihood -213404.982432, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[592]: Time 65.242293 seconds, bootstrap likelihood -214024.990507, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[340]: Time 59.535890 seconds, bootstrap likelihood -209684.505678, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[87]: Time 76.508542 seconds, bootstrap likelihood -213484.780012, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[3]: Time 98.405942 seconds, bootstrap likelihood -216697.902566, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[424]: Time 82.942964 seconds, bootstrap likelihood -213229.638428, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[676]: Time 87.333641 seconds, bootstrap likelihood -216532.930852, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[760]: Time 75.337553 seconds, bootstrap likelihood -214175.288810, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[928]: Time 74.472061 seconds, bootstrap likelihood -212645.531442, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[844]: Time 69.424886 seconds, bootstrap likelihood -213095.047032, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[508]: Time 89.246784 seconds, bootstrap likelihood -214476.134819, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[256]: Time 66.801314 seconds, bootstrap likelihood -211694.360354, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[172]: Time 80.854038 seconds, bootstrap likelihood -217596.701750, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[88]: Time 72.090292 seconds, bootstrap likelihood -211523.310157, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[4]: Time 83.534824 seconds, bootstrap likelihood -213742.409388, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[509]: Time 58.809690 seconds, bootstrap likelihood -213233.728351, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[425]: Time 59.598303 seconds, bootstrap likelihood -215713.245085, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[845]: Time 67.636027 seconds, bootstrap likelihood -212361.168663, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[677]: Time 68.266776 seconds, bootstrap likelihood -211869.751652, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[593]: Time 70.742193 seconds, bootstrap likelihood -213637.688337, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[761]: Time 78.704243 seconds, bootstrap likelihood -216449.840224, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[5]: Time 82.365100 seconds, bootstrap likelihood -213259.101259, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[173]: Time 82.699302 seconds, bootstrap likelihood -214376.045050, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[89]: Time 85.256181 seconds, bootstrap likelihood -216347.852947, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[257]: Time 88.753812 seconds, bootstrap likelihood -215547.594590, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[341]: Time 90.273801 seconds, bootstrap likelihood -216756.409061, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[929]: Time 97.176310 seconds, bootstrap likelihood -214745.141266, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[426]: Time 61.993798 seconds, bootstrap likelihood -218564.251392, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[510]: Time 77.061930 seconds, bootstrap likelihood -214974.447115, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[678]: Time 75.941443 seconds, bootstrap likelihood -210868.165208, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[846]: Time 79.747830 seconds, bootstrap likelihood -216268.010086, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[762]: Time 71.988360 seconds, bootstrap likelihood -216538.184893, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[6]: Time 68.688437 seconds, bootstrap likelihood -211221.154182, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[258]: Time 66.356684 seconds, bootstrap likelihood -217396.217322, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[594]: Time 96.628932 seconds, bootstrap likelihood -211910.386007, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[930]: Time 70.569955 seconds, bootstrap likelihood -215135.973290, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[90]: Time 87.262388 seconds, bootstrap likelihood -213563.700319, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[342]: Time 83.469391 seconds, bootstrap likelihood -215429.484361, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[174]: Time 98.572370 seconds, bootstrap likelihood -214372.461214, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[511]: Time 56.470809 seconds, bootstrap likelihood -212463.584661, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[679]: Time 62.071364 seconds, bootstrap likelihood -215376.219085, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[427]: Time 89.987233 seconds, bootstrap likelihood -214837.300921, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[847]: Time 75.391301 seconds, bootstrap likelihood -212736.450525, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[343]: Time 59.207343 seconds, bootstrap likelihood -218447.357857, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[763]: Time 86.738242 seconds, bootstrap likelihood -213859.303739, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[7]: Time 87.496132 seconds, bootstrap likelihood -211612.499739, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[259]: Time 86.655612 seconds, bootstrap likelihood -213402.453963, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[931]: Time 81.898244 seconds, bootstrap likelihood -216455.325754, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[175]: Time 71.358192 seconds, bootstrap likelihood -215354.098440, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[91]: Time 84.938729 seconds, bootstrap likelihood -218438.075876, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[595]: Time 90.582382 seconds, bootstrap likelihood -213932.588279, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[512]: Time 79.263206 seconds, bootstrap likelihood -211253.591574, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[680]: Time 70.282349 seconds, bootstrap likelihood -213120.382347, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[428]: Time 86.793328 seconds, bootstrap likelihood -212691.753152, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[8]: Time 63.201861 seconds, bootstrap likelihood -218438.535128, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[848]: Time 79.298612 seconds, bootstrap likelihood -218708.010449, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[260]: Time 72.785697 seconds, bootstrap likelihood -210948.722889, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[344]: Time 82.609811 seconds, bootstrap likelihood -215564.969496, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[764]: Time 79.235783 seconds, bootstrap likelihood -212246.165619, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[176]: Time 69.955884 seconds, bootstrap likelihood -210132.304631, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[596]: Time 64.911784 seconds, bootstrap likelihood -215768.531222, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[932]: Time 77.417306 seconds, bootstrap likelihood -212799.553511, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[92]: Time 71.179439 seconds, bootstrap likelihood -215300.720945, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[849]: Time 53.441853 seconds, bootstrap likelihood -218165.328970, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[177]: Time 59.357297 seconds, bootstrap likelihood -212805.147256, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[681]: Time 59.923627 seconds, bootstrap likelihood -214442.694874, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[345]: Time 60.235409 seconds, bootstrap likelihood -212440.323423, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[513]: Time 62.642355 seconds, bootstrap likelihood -217781.558403, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[9]: Time 66.851515 seconds, bootstrap likelihood -214226.576882, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[597]: Time 72.853211 seconds, bootstrap likelihood -212940.586717, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[765]: Time 73.448584 seconds, bootstrap likelihood -209825.206824, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[933]: Time 76.797230 seconds, bootstrap likelihood -212496.822537, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[93]: Time 79.526676 seconds, bootstrap likelihood -212041.156165, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[429]: Time 83.197042 seconds, bootstrap likelihood -214342.832736, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[261]: Time 94.989619 seconds, bootstrap likelihood -210473.644892, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[346]: Time 72.644361 seconds, bootstrap likelihood -210552.816633, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[514]: Time 79.591283 seconds, bootstrap likelihood -213208.521115, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[598]: Time 69.800721 seconds, bootstrap likelihood -212797.063262, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[682]: Time 83.184909 seconds, bootstrap likelihood -211305.727960, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[850]: Time 93.486091 seconds, bootstrap likelihood -217084.269498, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[766]: Time 78.813415 seconds, bootstrap likelihood -214005.086039, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[10]: Time 85.480163 seconds, bootstrap likelihood -212261.932277, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[934]: Time 76.763173 seconds, bootstrap likelihood -212916.368461, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[178]: Time 96.101562 seconds, bootstrap likelihood -213691.699417, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[262]: Time 61.364880 seconds, bootstrap likelihood -211269.209677, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[430]: Time 88.420164 seconds, bootstrap likelihood -212223.732530, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[94]: Time 92.138061 seconds, bootstrap likelihood -211748.525173, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[11]: Time 58.846945 seconds, bootstrap likelihood -210438.806036, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[767]: Time 61.968705 seconds, bootstrap likelihood -212077.733541, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[347]: Time 81.395761 seconds, bootstrap likelihood -211030.455590, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[851]: Time 69.811003 seconds, bootstrap likelihood -212984.141050, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[683]: Time 75.272344 seconds, bootstrap likelihood -217202.833514, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[515]: Time 84.288879 seconds, bootstrap likelihood -212449.119772, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[179]: Time 71.847719 seconds, bootstrap likelihood -216089.370626, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[935]: Time 76.480824 seconds, bootstrap likelihood -217695.216598, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[599]: Time 88.586835 seconds, bootstrap likelihood -214179.907329, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[263]: Time 77.032324 seconds, bootstrap likelihood -214915.366589, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[95]: Time 61.983997 seconds, bootstrap likelihood -214005.979471, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[431]: Time 78.757508 seconds, bootstrap likelihood -212884.534903, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[684]: Time 65.281976 seconds, bootstrap likelihood -216256.354404, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[12]: Time 74.731874 seconds, bootstrap likelihood -215507.392244, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[516]: Time 60.030485 seconds, bootstrap likelihood -215434.664305, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[936]: Time 57.711295 seconds, bootstrap likelihood -209950.399249, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[348]: Time 79.977491 seconds, bootstrap likelihood -213464.084606, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[852]: Time 80.608876 seconds, bootstrap likelihood -218490.410557, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[768]: Time 84.242849 seconds, bootstrap likelihood -214637.554888, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[264]: Time 65.609792 seconds, bootstrap likelihood -214148.951063, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[180]: Time 79.508717 seconds, bootstrap likelihood -218945.957642, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[600]: Time 79.350313 seconds, bootstrap likelihood -212467.740090, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[96]: Time 95.672899 seconds, bootstrap likelihood -212601.533665, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[432]: Time 84.136939 seconds, bootstrap likelihood -216764.149305, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[433]: Time 61.996149 seconds, bootstrap likelihood -213335.816489, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[937]: Time 63.773669 seconds, bootstrap likelihood -211118.811610, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[13]: Time 64.288463 seconds, bootstrap likelihood -216403.040126, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[517]: Time 70.477446 seconds, bootstrap likelihood -214690.140012, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[601]: Time 75.921814 seconds, bootstrap likelihood -216013.368662, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[265]: Time 77.426562 seconds, bootstrap likelihood -213792.264887, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[97]: Time 80.840853 seconds, bootstrap likelihood -212192.175440, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[181]: Time 82.467927 seconds, bootstrap likelihood -216026.669709, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[685]: Time 83.307896 seconds, bootstrap likelihood -211550.417543, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[769]: Time 87.715489 seconds, bootstrap likelihood -215902.115385, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[349]: Time 88.380247 seconds, bootstrap likelihood -212917.129545, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[853]: Time 95.171754 seconds, bootstrap likelihood -216274.288785, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[434]: Time 59.865143 seconds, bootstrap likelihood -213685.152931, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[938]: Time 77.560983 seconds, bootstrap likelihood -213878.378937, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[14]: Time 79.788007 seconds, bootstrap likelihood -212343.500384, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[182]: Time 63.327811 seconds, bootstrap likelihood -215171.057371, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[518]: Time 77.001848 seconds, bootstrap likelihood -211817.928007, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[770]: Time 60.547918 seconds, bootstrap likelihood -215711.822935, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[266]: Time 76.149987 seconds, bootstrap likelihood -213737.000143, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[602]: Time 84.727788 seconds, bootstrap likelihood -213298.269287, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[98]: Time 83.408757 seconds, bootstrap likelihood -212819.949233, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[854]: Time 74.499312 seconds, bootstrap likelihood -213462.737026, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[686]: Time 90.232870 seconds, bootstrap likelihood -212502.746334, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[350]: Time 91.801735 seconds, bootstrap likelihood -211926.317908, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[771]: Time 65.271434 seconds, bootstrap likelihood -207049.012451, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[435]: Time 93.061494 seconds, bootstrap likelihood -215704.264197, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[939]: Time 83.056706 seconds, bootstrap likelihood -217234.369951, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[183]: Time 83.076712 seconds, bootstrap likelihood -212252.433506, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[15]: Time 92.132172 seconds, bootstrap likelihood -213737.195162, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[267]: Time 84.123859 seconds, bootstrap likelihood -213588.714059, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[519]: Time 93.861151 seconds, bootstrap likelihood -211507.509115, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[603]: Time 82.134191 seconds, bootstrap likelihood -215645.361340, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[855]: Time 77.930910 seconds, bootstrap likelihood -215386.558538, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[99]: Time 89.746365 seconds, bootstrap likelihood -215508.644853, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[687]: Time 81.798227 seconds, bootstrap likelihood -212868.816975, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[351]: Time 86.194121 seconds, bootstrap likelihood -212610.696456, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[436]: Time 79.166115 seconds, bootstrap likelihood -213146.888381, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[772]: Time 83.729410 seconds, bootstrap likelihood -217096.875033, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[940]: Time 81.728393 seconds, bootstrap likelihood -213943.131104, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[688]: Time 51.565469 seconds, bootstrap likelihood -218669.104372, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[856]: Time 64.989428 seconds, bootstrap likelihood -213464.920920, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[268]: Time 81.040101 seconds, bootstrap likelihood -213303.172625, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[604]: Time 76.872114 seconds, bootstrap likelihood -216778.259151, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[184]: Time 91.536420 seconds, bootstrap likelihood -212124.152068, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[16]: Time 89.371624 seconds, bootstrap likelihood -215626.328882, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[520]: Time 85.861318 seconds, bootstrap likelihood -213866.712736, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[100]: Time 77.299407 seconds, bootstrap likelihood -214217.878694, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[352]: Time 73.742353 seconds, bootstrap likelihood -213961.848958, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[17]: Time 75.689159 seconds, bootstrap likelihood -215083.315825, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[437]: Time 76.241881 seconds, bootstrap likelihood -217762.149169, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[353]: Time 79.555280 seconds, bootstrap likelihood -216843.480180, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[941]: Time 80.479960 seconds, bootstrap likelihood -216599.572190, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[269]: Time 80.936863 seconds, bootstrap likelihood -219003.131367, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[857]: Time 83.063754 seconds, bootstrap likelihood -211282.828189, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[605]: Time 85.595655 seconds, bootstrap likelihood -216235.104261, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[773]: Time 85.926877 seconds, bootstrap likelihood -213794.856844, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[521]: Time 88.767471 seconds, bootstrap likelihood -213978.515008, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[689]: Time 93.480395 seconds, bootstrap likelihood -212173.149885, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[185]: Time 93.861681 seconds, bootstrap likelihood -212642.749795, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[101]: Time 99.031717 seconds, bootstrap likelihood -213573.111045, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[18]: Time 56.015167 seconds, bootstrap likelihood -214969.329715, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[438]: Time 67.376786 seconds, bootstrap likelihood -216498.733483, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[354]: Time 66.855956 seconds, bootstrap likelihood -216637.533247, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[942]: Time 69.938343 seconds, bootstrap likelihood -214271.846681, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[522]: Time 61.940552 seconds, bootstrap likelihood -211730.318159, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[270]: Time 84.988619 seconds, bootstrap likelihood -220322.741346, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[858]: Time 84.373486 seconds, bootstrap likelihood -213979.971524, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[606]: Time 82.982911 seconds, bootstrap likelihood -211119.979855, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[774]: Time 85.218652 seconds, bootstrap likelihood -213179.665788, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[690]: Time 79.072846 seconds, bootstrap likelihood -214583.371690, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[186]: Time 94.678658 seconds, bootstrap likelihood -212478.158672, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[102]: Time 99.127443 seconds, bootstrap likelihood -217107.524896, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[19]: Time 76.546516 seconds, bootstrap likelihood -211344.277228, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[523]: Time 63.030504 seconds, bootstrap likelihood -209303.801653, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[943]: Time 66.979679 seconds, bootstrap likelihood -213902.386408, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[439]: Time 77.230070 seconds, bootstrap likelihood -214112.736857, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[355]: Time 74.899458 seconds, bootstrap likelihood -216107.246836, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[859]: Time 70.597955 seconds, bootstrap likelihood -214702.682668, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[607]: Time 74.639914 seconds, bootstrap likelihood -212500.319502, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[271]: Time 82.177662 seconds, bootstrap likelihood -217850.352401, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[691]: Time 84.096048 seconds, bootstrap likelihood -214242.430469, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[775]: Time 87.380322 seconds, bootstrap likelihood -214925.405405, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[103]: Time 76.981437 seconds, bootstrap likelihood -213452.020292, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[187]: Time 88.609374 seconds, bootstrap likelihood -212065.930639, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[944]: Time 74.084670 seconds, bootstrap likelihood -210669.010457, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[860]: Time 71.317655 seconds, bootstrap likelihood -217447.680692, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[20]: Time 101.729765 seconds, bootstrap likelihood -216039.460610, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[440]: Time 92.894312 seconds, bootstrap likelihood -218244.014408, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[272]: Time 67.006187 seconds, bootstrap likelihood -213997.267766, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[356]: Time 94.519678 seconds, bootstrap likelihood -210955.862417, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[608]: Time 76.159405 seconds, bootstrap likelihood -213370.447705, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[524]: Time 106.853073 seconds, bootstrap likelihood -215079.110699, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[692]: Time 78.384573 seconds, bootstrap likelihood -212289.820166, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[776]: Time 79.707804 seconds, bootstrap likelihood -214816.006307, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[188]: Time 71.916669 seconds, bootstrap likelihood -213343.153944, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Bootstrap[104]: Time 80.021335 seconds, bootstrap likelihood -216259.377118, best rearrangement setting 8
+
+
+Stopped Rapid BS search after 252 replicates with MRE-based Bootstopping criterion
+WRF Average of 100 random splits: 2.426166
+Overall Time for 252 Rapid Bootstraps 1820.031146 seconds
+Average Time per Rapid Bootstrap 7.222346 seconds
+
+Starting ML Search ...
+
+Fast ML search on Process 3: Time 373.491274 seconds
+
+Fast ML search on Process 4: Time 376.740886 seconds
+
+Fast ML search on Process 6: Time 402.871713 seconds
+
+Fast ML search on Process 11: Time 413.175851 seconds
+
+Fast ML search on Process 10: Time 420.187634 seconds
+
+Fast ML search on Process 9: Time 422.480066 seconds
+
+Fast ML search on Process 5: Time 446.993272 seconds
+
+Fast ML search on Process 8: Time 477.187031 seconds
+
+Fast ML search on Process 7: Time 477.467497 seconds
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 496.230364 seconds
+
+Fast ML search on Process 2: Time 623.354186 seconds
+
+Fast ML search on Process 1: Time 638.748404 seconds
+
+Slow ML Search 336 Likelihood: -212200.668007
+Slow ML search on Process 4: Time 572.175326 seconds
+Slow ML Search 420 Likelihood: -212192.725738
+Slow ML search on Process 5: Time 508.943169 seconds
+Slow ML Search 252 Likelihood: -212209.470966
+Slow ML search on Process 3: Time 591.812294 seconds
+Slow ML Search 924 Likelihood: -212193.242616
+Slow ML search on Process 11: Time 562.919339 seconds
+Slow ML Search 504 Likelihood: -212246.804154
+Slow ML search on Process 6: Time 574.506403 seconds
+Slow ML Search 588 Likelihood: -212201.413718
+Slow ML search on Process 7: Time 511.784723 seconds
+Slow ML Search 672 Likelihood: -212201.412848
+Slow ML search on Process 8: Time 514.505898 seconds
+Slow ML Search 0 Likelihood: -212210.711112
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 511.235161 seconds
+Slow ML Search 840 Likelihood: -212203.701771
+Slow ML search on Process 10: Time 601.910014 seconds
+Slow ML Search 756 Likelihood: -212193.776334
+Slow ML search on Process 9: Time 617.764686 seconds
+Slow ML Search 168 Likelihood: -212206.318739
+Slow ML search on Process 2: Time 523.905996 seconds
+Slow ML Search 84 Likelihood: -212202.603156
+Slow ML search on Process 1: Time 683.884139 seconds
+Thorough ML search on Process 4: Time 1410.732936 seconds
+Thorough ML search on Process 5: Time 1449.440138 seconds
+Thorough ML search on Process 11: Time 1450.374888 seconds
+Thorough ML search on Process 8: Time 1449.969546 seconds
+Thorough ML search on Process 10: Time 1424.833138 seconds
+Thorough ML search on Process 7: Time 1467.238409 seconds
+Thorough ML search on Process 6: Time 1479.973451 seconds
+Thorough ML search on Process 9: Time 1471.998650 seconds
+Thorough ML search on Process 2: Time 1405.629375 seconds
+Thorough ML search on Process 3: Time 1600.466148 seconds
+Thorough ML search on Process 0: Time 1593.983247 seconds
+Thorough ML search on Process 1: Time 1334.699398 seconds
+
+Final ML Optimization Likelihood: -212192.102770
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: AA
+alpha: 2.020293
+Tree-Length: 52.355395
+rate A <-> R: 0.399182
+rate A <-> N: 0.259945
+rate A <-> D: 0.371058
+rate A <-> C: 2.337364
+rate A <-> Q: 0.910775
+rate A <-> E: 0.975241
+rate A <-> G: 1.940106
+rate A <-> H: 0.336984
+rate A <-> I: 0.140697
+rate A <-> L: 0.371240
+rate A <-> K: 0.503815
+rate A <-> M: 1.055520
+rate A <-> F: 0.238237
+rate A <-> P: 1.105868
+rate A <-> S: 4.439041
+rate A <-> T: 2.009090
+rate A <-> W: 0.169702
+rate A <-> Y: 0.205613
+rate A <-> V: 2.392567
+rate R <-> N: 0.706048
+rate R <-> D: 0.116398
+rate R <-> C: 0.501968
+rate R <-> Q: 2.636754
+rate R <-> E: 0.341785
+rate R <-> G: 0.366408
+rate R <-> H: 2.278690
+rate R <-> I: 0.119250
+rate R <-> L: 0.283449
+rate R <-> K: 5.940467
+rate R <-> M: 0.454623
+rate R <-> F: 0.049508
+rate R <-> P: 0.312264
+rate R <-> S: 0.805843
+rate R <-> T: 0.543695
+rate R <-> W: 0.557424
+rate R <-> Y: 0.295274
+rate R <-> V: 0.160471
+rate N <-> D: 4.766737
+rate N <-> C: 0.496537
+rate N <-> Q: 1.592389
+rate N <-> E: 0.508692
+rate N <-> G: 1.350015
+rate N <-> H: 4.234381
+rate N <-> I: 0.179830
+rate N <-> L: 0.064256
+rate N <-> K: 2.014327
+rate N <-> M: 0.348390
+rate N <-> F: 0.084068
+rate N <-> P: 0.151925
+rate N <-> S: 3.764032
+rate N <-> T: 1.878729
+rate N <-> W: 0.042610
+rate N <-> Y: 0.574720
+rate N <-> V: 0.078587
+rate D <-> C: 0.058743
+rate D <-> Q: 0.491483
+rate D <-> E: 4.924234
+rate D <-> G: 0.793424
+rate D <-> H: 0.870603
+rate D <-> I: 0.010038
+rate D <-> L: 0.014157
+rate D <-> K: 0.265711
+rate D <-> M: 0.023991
+rate D <-> F: 0.016354
+rate D <-> P: 0.370412
+rate D <-> S: 1.164675
+rate D <-> T: 0.399902
+rate D <-> W: 0.028068
+rate D <-> Y: 0.126872
+rate D <-> V: 0.035653
+rate C <-> Q: 0.079639
+rate C <-> E: 0.003286
+rate C <-> G: 0.534566
+rate C <-> H: 0.601499
+rate C <-> I: 0.301083
+rate C <-> L: 0.557800
+rate C <-> K: 0.012457
+rate C <-> M: 0.839207
+rate C <-> F: 1.037881
+rate C <-> P: 0.070787
+rate C <-> S: 2.614753
+rate C <-> T: 1.073780
+rate C <-> W: 0.629281
+rate C <-> Y: 1.094488
+rate C <-> V: 1.839864
+rate Q <-> E: 3.876936
+rate Q <-> G: 0.251626
+rate Q <-> H: 4.520102
+rate Q <-> I: 0.068413
+rate Q <-> L: 0.546954
+rate Q <-> K: 3.037150
+rate Q <-> M: 1.570619
+rate Q <-> F: 0.033669
+rate Q <-> P: 0.586241
+rate Q <-> S: 1.149231
+rate Q <-> T: 1.014297
+rate Q <-> W: 0.221802
+rate Q <-> Y: 0.241650
+rate Q <-> V: 0.197511
+rate E <-> G: 0.327583
+rate E <-> H: 0.398044
+rate E <-> I: 0.041567
+rate E <-> L: 0.065426
+rate E <-> K: 1.697022
+rate E <-> M: 0.163145
+rate E <-> F: 0.017664
+rate E <-> P: 0.393844
+rate E <-> S: 0.574671
+rate E <-> T: 0.567695
+rate E <-> W: 0.073107
+rate E <-> Y: 0.112720
+rate E <-> V: 0.230098
+rate G <-> H: 0.292498
+rate G <-> I: 0.008174
+rate G <-> L: 0.041563
+rate G <-> K: 0.278555
+rate G <-> M: 0.131033
+rate G <-> F: 0.084125
+rate G <-> P: 0.184955
+rate G <-> S: 1.633930
+rate G <-> T: 0.121922
+rate G <-> W: 0.252125
+rate G <-> Y: 0.051346
+rate G <-> V: 0.072026
+rate H <-> I: 0.102245
+rate H <-> L: 0.343988
+rate H <-> K: 0.654763
+rate H <-> M: 0.415502
+rate H <-> F: 0.640560
+rate H <-> P: 0.477834
+rate H <-> S: 0.929667
+rate H <-> T: 0.548649
+rate H <-> W: 0.560661
+rate H <-> Y: 4.983361
+rate H <-> V: 0.111759
+rate I <-> L: 3.892408
+rate I <-> K: 0.149373
+rate I <-> M: 4.013113
+rate I <-> F: 1.044902
+rate I <-> P: 0.073509
+rate I <-> S: 0.060198
+rate I <-> T: 0.970728
+rate I <-> W: 0.104854
+rate I <-> Y: 0.218350
+rate I <-> V: 10.000000
+rate L <-> K: 0.129119
+rate L <-> M: 5.927594
+rate L <-> F: 2.434657
+rate L <-> P: 0.233879
+rate L <-> S: 0.171176
+rate L <-> T: 0.284471
+rate L <-> W: 0.581863
+rate L <-> Y: 0.281383
+rate L <-> V: 1.598956
+rate K <-> M: 0.616581
+rate K <-> F: 0.022460
+rate K <-> P: 0.366530
+rate K <-> S: 0.703048
+rate K <-> T: 1.067567
+rate K <-> W: 0.046864
+rate K <-> Y: 0.123890
+rate K <-> V: 0.173913
+rate M <-> F: 1.689205
+rate M <-> P: 0.093763
+rate M <-> S: 0.325811
+rate M <-> T: 1.897216
+rate M <-> W: 0.653740
+rate M <-> Y: 0.451968
+rate M <-> V: 1.782983
+rate F <-> P: 0.088706
+rate F <-> S: 0.339765
+rate F <-> T: 0.154944
+rate F <-> W: 2.307349
+rate F <-> Y: 7.328222
+rate F <-> V: 0.614777
+rate P <-> S: 1.256567
+rate P <-> T: 0.536635
+rate P <-> W: 0.089332
+rate P <-> Y: 0.084151
+rate P <-> V: 0.278428
+rate S <-> T: 6.077767
+rate S <-> W: 0.233693
+rate S <-> Y: 0.376132
+rate S <-> V: 0.092373
+rate T <-> W: 0.132241
+rate T <-> Y: 0.230856
+rate T <-> V: 2.054781
+rate W <-> Y: 2.959699
+rate W <-> V: 0.177959
+rate Y <-> V: 0.234116
+
+freq pi(A): 0.089295
+freq pi(R): 0.060032
+freq pi(N): 0.037235
+freq pi(D): 0.047776
+freq pi(C): 0.021691
+freq pi(Q): 0.041764
+freq pi(E): 0.067090
+freq pi(G): 0.055061
+freq pi(H): 0.031349
+freq pi(I): 0.047458
+freq pi(L): 0.115959
+freq pi(K): 0.044890
+freq pi(M): 0.027557
+freq pi(F): 0.034433
+freq pi(P): 0.041429
+freq pi(S): 0.079868
+freq pi(T): 0.044916
+freq pi(W): 0.019866
+freq pi(Y): 0.028502
+freq pi(V): 0.063827
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+
+ML search took 2657.795892 secs or 0.738277 hours
+
+Combined Bootstrap and ML search took 4477.820635 secs or 1.243839 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bestTree.result
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bestTree.result
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "PNW73566_Crei/1-4390"
+from the list to root the tree!
+Program execution info written to /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_info.result
+All 252 bootstrapped trees written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bootstrap.result
+
+Best-scoring ML tree written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bestTree.result
+
+Best-scoring ML tree with support values written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bipartitions.result
+
+Best-scoring ML tree with support values as branch labels written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-53A25C36CE8D4252BB769984EADBA7E5/RAxML_bipartitionsBranchLabels.result
+
+Overall execution time for full ML analysis: 4477.928988 secs or 1.243869 hours or 0.051828 days
+

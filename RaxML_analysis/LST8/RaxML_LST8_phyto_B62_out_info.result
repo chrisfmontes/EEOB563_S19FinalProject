@@ -1,0 +1,3203 @@
+
+
+IMPORTANT WARNING: Sequences AL3G31290 and Bostr.19424s0856 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AL3G31290 and Cagra.0104s0006 are exactly identical
+
+
+IMPORTANT WARNING: Sequences AL3G31290 and Carubv10014252m.g are exactly identical
+
+
+IMPORTANT WARNING: Sequences Bradi2g60690 and Brast02G313200 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Kaladp0005s0017 and Kaladp0007s0077 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Kaladp0005s0017 and Kalax.0052s0084 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Kaladp0005s0017 and Kalax.0109s0094 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Seita.8G174500 and Sevir.8G183700 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Seita.9G139300 and Sevir.9G137700 are exactly identical
+
+IMPORTANT WARNING
+Found 9 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file infile.reduced
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 1525 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 88.10%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 1000 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1525
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: BLOSUM62
+Using empirical base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-HYBRID -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATBLOSUM62F -o WDR5a,Spipo2G0106900 
+
+
+
+Time for BS model parameter optimization on Process 3: 1.564728 seconds
+
+Time for BS model parameter optimization on Process 5: 1.585088 seconds
+
+Time for BS model parameter optimization on Process 1: 1.596259 seconds
+
+Time for BS model parameter optimization on Process 4: 1.593793 seconds
+
+Time for BS model parameter optimization on Process 2: 1.600161 seconds
+
+Time for BS model parameter optimization on Process 0: 2.337847 seconds
+Bootstrap[501]: Time 13.867945 seconds, bootstrap likelihood -28275.729679, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[835]: Time 15.053216 seconds, bootstrap likelihood -28508.271541, best rearrangement setting 6
+Bootstrap[668]: Time 15.737529 seconds, bootstrap likelihood -28283.713627, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[167]: Time 16.603441 seconds, bootstrap likelihood -28315.616098, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[334]: Time 17.380465 seconds, bootstrap likelihood -27328.134918, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[0]: Time 17.466550 seconds, bootstrap likelihood -27321.806964, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[502]: Time 14.228123 seconds, bootstrap likelihood -28499.921921, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[836]: Time 13.340643 seconds, bootstrap likelihood -29587.022659, best rearrangement setting 15
+Bootstrap[669]: Time 13.218256 seconds, bootstrap likelihood -28604.880283, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[335]: Time 12.426477 seconds, bootstrap likelihood -29406.201422, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[168]: Time 14.596716 seconds, bootstrap likelihood -27941.283320, best rearrangement setting 13
+Bootstrap[1]: Time 15.808438 seconds, bootstrap likelihood -27589.431202, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[837]: Time 12.173927 seconds, bootstrap likelihood -27905.908067, best rearrangement setting 6
+Bootstrap[670]: Time 11.738760 seconds, bootstrap likelihood -30367.427220, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[503]: Time 14.367302 seconds, bootstrap likelihood -28428.217381, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[336]: Time 13.556090 seconds, bootstrap likelihood -28765.419113, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[169]: Time 13.808007 seconds, bootstrap likelihood -26717.117488, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[2]: Time 14.579072 seconds, bootstrap likelihood -28372.349326, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[838]: Time 12.785664 seconds, bootstrap likelihood -28164.862564, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[671]: Time 12.923161 seconds, bootstrap likelihood -27670.634972, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[504]: Time 12.233136 seconds, bootstrap likelihood -28248.851021, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[337]: Time 14.801470 seconds, bootstrap likelihood -28403.026404, best rearrangement setting 8
+Bootstrap[170]: Time 14.395181 seconds, bootstrap likelihood -28560.829300, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[3]: Time 16.081092 seconds, bootstrap likelihood -26581.150949, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[839]: Time 11.649914 seconds, bootstrap likelihood -27526.811310, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[672]: Time 13.779377 seconds, bootstrap likelihood -28443.408029, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[505]: Time 13.534552 seconds, bootstrap likelihood -29212.475440, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[171]: Time 11.976780 seconds, bootstrap likelihood -27388.005101, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[338]: Time 14.065234 seconds, bootstrap likelihood -26567.627449, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[840]: Time 10.860970 seconds, bootstrap likelihood -28075.799903, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[4]: Time 14.609836 seconds, bootstrap likelihood -28025.440084, best rearrangement setting 10
+Bootstrap[506]: Time 13.071342 seconds, bootstrap likelihood -29040.497017, best rearrangement setting 13
+Bootstrap[673]: Time 14.956258 seconds, bootstrap likelihood -27856.209368, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[172]: Time 13.980808 seconds, bootstrap likelihood -28652.846687, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[339]: Time 14.244997 seconds, bootstrap likelihood -26723.971297, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[841]: Time 13.582121 seconds, bootstrap likelihood -27812.763037, best rearrangement setting 5
+Bootstrap[5]: Time 13.744070 seconds, bootstrap likelihood -29070.191601, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[507]: Time 13.700661 seconds, bootstrap likelihood -28578.606601, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[674]: Time 14.409058 seconds, bootstrap likelihood -28761.930670, best rearrangement setting 11
+Bootstrap[173]: Time 15.483349 seconds, bootstrap likelihood -27948.793369, best rearrangement setting 10
+Bootstrap[340]: Time 15.656249 seconds, bootstrap likelihood -29407.490880, best rearrangement setting 14
+Bootstrap[842]: Time 13.625700 seconds, bootstrap likelihood -28787.686335, best rearrangement setting 11
+Bootstrap[6]: Time 13.322254 seconds, bootstrap likelihood -29102.789933, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[508]: Time 13.115175 seconds, bootstrap likelihood -28962.540181, best rearrangement setting 10
+Bootstrap[675]: Time 14.216260 seconds, bootstrap likelihood -29604.472994, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[174]: Time 14.196413 seconds, bootstrap likelihood -27884.439091, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[341]: Time 13.777130 seconds, bootstrap likelihood -27909.777761, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[843]: Time 14.481390 seconds, bootstrap likelihood -28455.926182, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[7]: Time 14.843936 seconds, bootstrap likelihood -30041.468197, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[509]: Time 13.961642 seconds, bootstrap likelihood -28615.217952, best rearrangement setting 10
+Bootstrap[676]: Time 13.788676 seconds, bootstrap likelihood -29465.363028, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[175]: Time 12.692045 seconds, bootstrap likelihood -28868.460917, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[342]: Time 13.728662 seconds, bootstrap likelihood -27615.508735, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[8]: Time 12.827834 seconds, bootstrap likelihood -29050.037083, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[343]: Time 12.180380 seconds, bootstrap likelihood -28878.439324, best rearrangement setting 6
+Bootstrap[677]: Time 12.558510 seconds, bootstrap likelihood -28140.524984, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[9]: Time 12.903698 seconds, bootstrap likelihood -28016.686975, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[176]: Time 13.299958 seconds, bootstrap likelihood -26610.196145, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[510]: Time 13.718921 seconds, bootstrap likelihood -28836.718143, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[844]: Time 14.761652 seconds, bootstrap likelihood -27959.035256, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[511]: Time 12.168740 seconds, bootstrap likelihood -29214.465792, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[344]: Time 13.952409 seconds, bootstrap likelihood -28761.134797, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[10]: Time 14.326255 seconds, bootstrap likelihood -27966.210332, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[678]: Time 15.287908 seconds, bootstrap likelihood -26801.684605, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[845]: Time 13.564925 seconds, bootstrap likelihood -28368.250354, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[177]: Time 15.580906 seconds, bootstrap likelihood -29006.635774, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[512]: Time 12.826911 seconds, bootstrap likelihood -27998.427632, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[345]: Time 12.883792 seconds, bootstrap likelihood -28867.738884, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[679]: Time 11.334473 seconds, bootstrap likelihood -28820.790669, best rearrangement setting 10
+Bootstrap[178]: Time 11.555599 seconds, bootstrap likelihood -27610.529563, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[11]: Time 13.802258 seconds, bootstrap likelihood -28665.520865, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[846]: Time 15.157020 seconds, bootstrap likelihood -27493.195833, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[513]: Time 11.872409 seconds, bootstrap likelihood -28063.634471, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[346]: Time 12.991851 seconds, bootstrap likelihood -27983.509378, best rearrangement setting 11
+Bootstrap[680]: Time 14.035663 seconds, bootstrap likelihood -29173.649361, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[12]: Time 13.463597 seconds, bootstrap likelihood -27078.537018, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[179]: Time 15.170073 seconds, bootstrap likelihood -27750.959599, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[847]: Time 14.965080 seconds, bootstrap likelihood -28565.191499, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[514]: Time 14.850380 seconds, bootstrap likelihood -28820.099682, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[681]: Time 13.577944 seconds, bootstrap likelihood -27917.558311, best rearrangement setting 14
+Bootstrap[347]: Time 14.930246 seconds, bootstrap likelihood -28021.592513, best rearrangement setting 10
+Bootstrap[13]: Time 12.733998 seconds, bootstrap likelihood -29074.771186, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[848]: Time 12.334220 seconds, bootstrap likelihood -27339.562595, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[180]: Time 15.198690 seconds, bootstrap likelihood -28584.557067, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[515]: Time 15.384675 seconds, bootstrap likelihood -28581.480467, best rearrangement setting 10
+Bootstrap[348]: Time 14.087171 seconds, bootstrap likelihood -30099.172814, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[682]: Time 14.261305 seconds, bootstrap likelihood -28004.095251, best rearrangement setting 13
+Bootstrap[14]: Time 13.892663 seconds, bootstrap likelihood -28200.361331, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[181]: Time 12.407669 seconds, bootstrap likelihood -28915.337145, best rearrangement setting 15
+Bootstrap[849]: Time 13.720781 seconds, bootstrap likelihood -27718.221262, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[349]: Time 13.493122 seconds, bootstrap likelihood -26926.689156, best rearrangement setting 14
+Bootstrap[683]: Time 13.573110 seconds, bootstrap likelihood -27724.360196, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[516]: Time 14.284640 seconds, bootstrap likelihood -27442.699204, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[15]: Time 14.208128 seconds, bootstrap likelihood -27895.147924, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[182]: Time 14.464452 seconds, bootstrap likelihood -28445.033533, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[850]: Time 14.038437 seconds, bootstrap likelihood -30171.362384, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[350]: Time 14.465605 seconds, bootstrap likelihood -28785.990842, best rearrangement setting 13
+Bootstrap[16]: Time 13.653730 seconds, bootstrap likelihood -26649.435084, best rearrangement setting 12
+Bootstrap[183]: Time 11.712041 seconds, bootstrap likelihood -28954.422982, best rearrangement setting 7
+Bootstrap[684]: Time 15.618514 seconds, bootstrap likelihood -28493.156829, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[517]: Time 15.244310 seconds, bootstrap likelihood -27878.758408, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[851]: Time 14.328170 seconds, bootstrap likelihood -27693.102743, best rearrangement setting 9
+Bootstrap[518]: Time 13.302988 seconds, bootstrap likelihood -29240.972939, best rearrangement setting 12
+Bootstrap[184]: Time 13.437671 seconds, bootstrap likelihood -27248.033004, best rearrangement setting 12
+Bootstrap[685]: Time 13.926479 seconds, bootstrap likelihood -27498.024364, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[852]: Time 13.948858 seconds, bootstrap likelihood -29087.263331, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[17]: Time 14.222515 seconds, bootstrap likelihood -27686.331111, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[351]: Time 14.710471 seconds, bootstrap likelihood -28150.278241, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[18]: Time 12.638031 seconds, bootstrap likelihood -28730.979869, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[519]: Time 14.021718 seconds, bootstrap likelihood -28195.383069, best rearrangement setting 11
+Bootstrap[853]: Time 13.757043 seconds, bootstrap likelihood -28305.812461, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[185]: Time 15.078628 seconds, bootstrap likelihood -28681.081707, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[352]: Time 13.862295 seconds, bootstrap likelihood -27152.687104, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[686]: Time 14.966233 seconds, bootstrap likelihood -28203.840528, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[19]: Time 12.232798 seconds, bootstrap likelihood -28128.112169, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[186]: Time 11.954036 seconds, bootstrap likelihood -28246.269808, best rearrangement setting 6
+Bootstrap[854]: Time 14.019090 seconds, bootstrap likelihood -28891.633103, best rearrangement setting 8
+Bootstrap[520]: Time 14.441744 seconds, bootstrap likelihood -27389.997526, best rearrangement setting 13
+Bootstrap[353]: Time 14.812304 seconds, bootstrap likelihood -27345.519950, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[687]: Time 15.187076 seconds, bootstrap likelihood -29054.387273, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[20]: Time 12.907673 seconds, bootstrap likelihood -27904.800398, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[521]: Time 11.840341 seconds, bootstrap likelihood -27217.677982, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[187]: Time 14.843562 seconds, bootstrap likelihood -29690.554978, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[855]: Time 13.658416 seconds, bootstrap likelihood -27462.397368, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[354]: Time 13.191249 seconds, bootstrap likelihood -29309.349725, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[688]: Time 14.991327 seconds, bootstrap likelihood -28284.061789, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[21]: Time 13.265197 seconds, bootstrap likelihood -27750.914004, best rearrangement setting 6
+Bootstrap[522]: Time 15.542952 seconds, bootstrap likelihood -29174.551867, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[188]: Time 13.954366 seconds, bootstrap likelihood -29236.909866, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[355]: Time 14.368239 seconds, bootstrap likelihood -28309.090369, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[856]: Time 15.664613 seconds, bootstrap likelihood -28431.710231, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[689]: Time 14.630381 seconds, bootstrap likelihood -29813.365338, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[22]: Time 12.187154 seconds, bootstrap likelihood -28926.998660, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[523]: Time 10.438052 seconds, bootstrap likelihood -26948.455650, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[189]: Time 13.392793 seconds, bootstrap likelihood -27981.992737, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[857]: Time 12.928883 seconds, bootstrap likelihood -28105.381910, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[356]: Time 14.877721 seconds, bootstrap likelihood -27383.811557, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[690]: Time 12.799180 seconds, bootstrap likelihood -28392.988996, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[23]: Time 12.197613 seconds, bootstrap likelihood -27863.617276, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[524]: Time 13.535541 seconds, bootstrap likelihood -28278.026611, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[190]: Time 12.987961 seconds, bootstrap likelihood -28006.385888, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[858]: Time 15.038680 seconds, bootstrap likelihood -28079.090912, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[357]: Time 13.837520 seconds, bootstrap likelihood -28111.968089, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[691]: Time 13.688309 seconds, bootstrap likelihood -29065.520983, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[24]: Time 13.388360 seconds, bootstrap likelihood -27485.905168, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[525]: Time 13.289907 seconds, bootstrap likelihood -27909.025153, best rearrangement setting 7
+Bootstrap[191]: Time 14.263882 seconds, bootstrap likelihood -29504.057399, best rearrangement setting 7
+Bootstrap[859]: Time 11.838584 seconds, bootstrap likelihood -28092.605333, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[692]: Time 12.111716 seconds, bootstrap likelihood -29946.336589, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[358]: Time 12.901051 seconds, bootstrap likelihood -30198.033488, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[25]: Time 12.684045 seconds, bootstrap likelihood -29655.495028, best rearrangement setting 6
+Bootstrap[526]: Time 13.233670 seconds, bootstrap likelihood -27629.962464, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[192]: Time 13.316859 seconds, bootstrap likelihood -28240.152737, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[359]: Time 14.495691 seconds, bootstrap likelihood -28199.713102, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[860]: Time 15.451473 seconds, bootstrap likelihood -28051.701159, best rearrangement setting 12
+Bootstrap[693]: Time 16.256564 seconds, bootstrap likelihood -28156.371692, best rearrangement setting 11
+Bootstrap[861]: Time 11.347325 seconds, bootstrap likelihood -28128.821479, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[26]: Time 14.195324 seconds, bootstrap likelihood -27762.018665, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[527]: Time 13.652557 seconds, bootstrap likelihood -29588.878346, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[360]: Time 14.174801 seconds, bootstrap likelihood -28035.036830, best rearrangement setting 7
+Bootstrap[193]: Time 15.651918 seconds, bootstrap likelihood -27639.356880, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[694]: Time 15.336943 seconds, bootstrap likelihood -29967.316790, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[862]: Time 13.274631 seconds, bootstrap likelihood -27755.049584, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[27]: Time 13.387705 seconds, bootstrap likelihood -27267.196730, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[528]: Time 15.066352 seconds, bootstrap likelihood -28448.853755, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[361]: Time 13.739255 seconds, bootstrap likelihood -27940.026773, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[194]: Time 13.749024 seconds, bootstrap likelihood -27739.278029, best rearrangement setting 8
+Bootstrap[695]: Time 12.340143 seconds, bootstrap likelihood -28264.952621, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[28]: Time 12.978331 seconds, bootstrap likelihood -28559.672695, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[863]: Time 14.696881 seconds, bootstrap likelihood -28365.815970, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[195]: Time 12.659558 seconds, bootstrap likelihood -27141.503643, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[529]: Time 14.852118 seconds, bootstrap likelihood -27880.779754, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[696]: Time 13.317712 seconds, bootstrap likelihood -27835.624659, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[362]: Time 16.355742 seconds, bootstrap likelihood -27517.159744, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[29]: Time 13.648493 seconds, bootstrap likelihood -27727.062105, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[530]: Time 11.803585 seconds, bootstrap likelihood -29366.106633, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[196]: Time 14.868976 seconds, bootstrap likelihood -28978.022593, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[697]: Time 13.099068 seconds, bootstrap likelihood -29151.995126, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[864]: Time 16.673750 seconds, bootstrap likelihood -27273.070585, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[363]: Time 14.188569 seconds, bootstrap likelihood -29644.280845, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[30]: Time 12.908094 seconds, bootstrap likelihood -26834.317255, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[531]: Time 12.863371 seconds, bootstrap likelihood -28390.113669, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[698]: Time 12.085759 seconds, bootstrap likelihood -29824.256227, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[197]: Time 13.752881 seconds, bootstrap likelihood -28708.220669, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[865]: Time 13.392162 seconds, bootstrap likelihood -28412.469439, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[364]: Time 12.251145 seconds, bootstrap likelihood -29369.471878, best rearrangement setting 5
+Bootstrap[532]: Time 13.042025 seconds, bootstrap likelihood -29091.329148, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[31]: Time 14.890590 seconds, bootstrap likelihood -27366.904521, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[699]: Time 13.413212 seconds, bootstrap likelihood -26630.476052, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[198]: Time 13.312273 seconds, bootstrap likelihood -28710.595908, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[365]: Time 13.237990 seconds, bootstrap likelihood -27417.650266, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[866]: Time 13.810218 seconds, bootstrap likelihood -27680.528523, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[32]: Time 12.417216 seconds, bootstrap likelihood -27610.046116, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[700]: Time 12.280515 seconds, bootstrap likelihood -30777.096311, best rearrangement setting 11
+Bootstrap[533]: Time 14.214053 seconds, bootstrap likelihood -28899.299816, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[199]: Time 12.204361 seconds, bootstrap likelihood -28865.345966, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[366]: Time 12.904073 seconds, bootstrap likelihood -27795.728738, best rearrangement setting 8
+Bootstrap[867]: Time 13.242212 seconds, bootstrap likelihood -28716.215145, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[33]: Time 14.189106 seconds, bootstrap likelihood -30584.895029, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[534]: Time 14.713989 seconds, bootstrap likelihood -26897.815645, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[200]: Time 15.260070 seconds, bootstrap likelihood -28304.563824, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[367]: Time 13.489543 seconds, bootstrap likelihood -27616.269627, best rearrangement setting 13
+Bootstrap[701]: Time 16.820453 seconds, bootstrap likelihood -29768.854141, best rearrangement setting 11
+Bootstrap[868]: Time 13.217037 seconds, bootstrap likelihood -28519.971566, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[368]: Time 12.020020 seconds, bootstrap likelihood -28105.369722, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[34]: Time 12.281899 seconds, bootstrap likelihood -28173.031741, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[869]: Time 13.443647 seconds, bootstrap likelihood -27808.024075, best rearrangement setting 8
+Bootstrap[702]: Time 13.501259 seconds, bootstrap likelihood -29073.973761, best rearrangement setting 10
+Bootstrap[201]: Time 13.538136 seconds, bootstrap likelihood -27943.108199, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[535]: Time 15.620830 seconds, bootstrap likelihood -27833.648601, best rearrangement setting 13
+Bootstrap[369]: Time 12.758024 seconds, bootstrap likelihood -27828.084543, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[35]: Time 14.390040 seconds, bootstrap likelihood -27614.242428, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[703]: Time 13.335136 seconds, bootstrap likelihood -28828.129158, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[202]: Time 13.881134 seconds, bootstrap likelihood -27965.534017, best rearrangement setting 14
+Bootstrap[870]: Time 15.408545 seconds, bootstrap likelihood -28428.286615, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[536]: Time 13.596529 seconds, bootstrap likelihood -28269.757919, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[370]: Time 13.308808 seconds, bootstrap likelihood -28095.684665, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[704]: Time 12.479758 seconds, bootstrap likelihood -28079.110352, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[203]: Time 12.420790 seconds, bootstrap likelihood -29675.211675, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[537]: Time 10.988769 seconds, bootstrap likelihood -26532.361305, best rearrangement setting 11
+Bootstrap[36]: Time 13.762523 seconds, bootstrap likelihood -28660.369402, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[871]: Time 12.754975 seconds, bootstrap likelihood -27067.360128, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[371]: Time 13.992199 seconds, bootstrap likelihood -26832.948735, best rearrangement setting 11
+Bootstrap[705]: Time 13.184995 seconds, bootstrap likelihood -28142.907356, best rearrangement setting 12
+Bootstrap[37]: Time 13.114913 seconds, bootstrap likelihood -30262.789176, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[204]: Time 14.505561 seconds, bootstrap likelihood -28556.607717, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[538]: Time 14.881997 seconds, bootstrap likelihood -26911.211175, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[872]: Time 14.249359 seconds, bootstrap likelihood -26638.406685, best rearrangement setting 12
+Bootstrap[372]: Time 11.149096 seconds, bootstrap likelihood -27673.505741, best rearrangement setting 7
+Bootstrap[706]: Time 12.963232 seconds, bootstrap likelihood -28842.570428, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[38]: Time 12.101781 seconds, bootstrap likelihood -27854.839177, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[539]: Time 14.063020 seconds, bootstrap likelihood -25780.655538, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[205]: Time 14.912523 seconds, bootstrap likelihood -28082.199495, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[873]: Time 16.104409 seconds, bootstrap likelihood -28280.871172, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[373]: Time 12.566136 seconds, bootstrap likelihood -27141.670642, best rearrangement setting 6
+Bootstrap[39]: Time 12.558446 seconds, bootstrap likelihood -28354.843909, best rearrangement setting 13
+Bootstrap[707]: Time 13.197678 seconds, bootstrap likelihood -29948.150082, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[540]: Time 13.721469 seconds, bootstrap likelihood -28183.631886, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[206]: Time 14.190554 seconds, bootstrap likelihood -27332.673797, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[874]: Time 15.962743 seconds, bootstrap likelihood -27017.269501, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[374]: Time 13.717814 seconds, bootstrap likelihood -27529.106798, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[40]: Time 14.157141 seconds, bootstrap likelihood -29018.534850, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[708]: Time 14.619674 seconds, bootstrap likelihood -27592.877216, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[207]: Time 13.953824 seconds, bootstrap likelihood -27406.642111, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[541]: Time 16.559573 seconds, bootstrap likelihood -27440.111268, best rearrangement setting 13
+Bootstrap[875]: Time 13.647210 seconds, bootstrap likelihood -27899.195796, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[375]: Time 12.426347 seconds, bootstrap likelihood -27246.893126, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[41]: Time 12.749873 seconds, bootstrap likelihood -28009.807198, best rearrangement setting 10
+Bootstrap[709]: Time 13.882156 seconds, bootstrap likelihood -27949.780376, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[208]: Time 14.702351 seconds, bootstrap likelihood -27525.894375, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[542]: Time 13.212733 seconds, bootstrap likelihood -29774.962474, best rearrangement setting 8
+Bootstrap[876]: Time 14.262220 seconds, bootstrap likelihood -29836.460888, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[42]: Time 10.992010 seconds, bootstrap likelihood -28423.613231, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[209]: Time 13.083880 seconds, bootstrap likelihood -28473.005318, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[877]: Time 13.104661 seconds, bootstrap likelihood -26791.499596, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[376]: Time 13.262150 seconds, bootstrap likelihood -27861.839295, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[710]: Time 13.909367 seconds, bootstrap likelihood -26332.002373, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[543]: Time 14.319479 seconds, bootstrap likelihood -26770.021563, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[43]: Time 12.543432 seconds, bootstrap likelihood -26502.649224, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[377]: Time 11.600608 seconds, bootstrap likelihood -27876.193841, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[544]: Time 12.188932 seconds, bootstrap likelihood -28235.966816, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[210]: Time 13.511465 seconds, bootstrap likelihood -27658.996740, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[878]: Time 14.891750 seconds, bootstrap likelihood -27754.676711, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[711]: Time 14.196099 seconds, bootstrap likelihood -27487.230024, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[378]: Time 12.196069 seconds, bootstrap likelihood -28939.632444, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[44]: Time 14.466584 seconds, bootstrap likelihood -28095.843127, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[211]: Time 12.216556 seconds, bootstrap likelihood -28645.749453, best rearrangement setting 14
+Bootstrap[879]: Time 11.029305 seconds, bootstrap likelihood -27759.556757, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[712]: Time 12.112113 seconds, bootstrap likelihood -27872.722269, best rearrangement setting 14
+Bootstrap[545]: Time 14.339329 seconds, bootstrap likelihood -28144.731512, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[379]: Time 13.366151 seconds, bootstrap likelihood -27804.061347, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[212]: Time 12.952890 seconds, bootstrap likelihood -26851.649139, best rearrangement setting 5
+Bootstrap[45]: Time 14.683475 seconds, bootstrap likelihood -27197.077018, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[880]: Time 13.710426 seconds, bootstrap likelihood -28188.583063, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[546]: Time 13.055040 seconds, bootstrap likelihood -27400.395519, best rearrangement setting 7
+Bootstrap[713]: Time 14.050260 seconds, bootstrap likelihood -27773.561264, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[881]: Time 10.954020 seconds, bootstrap likelihood -27029.227179, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[380]: Time 14.941169 seconds, bootstrap likelihood -27937.337153, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[547]: Time 12.442780 seconds, bootstrap likelihood -29361.705314, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[213]: Time 15.821051 seconds, bootstrap likelihood -28609.018519, best rearrangement setting 13
+Bootstrap[46]: Time 15.623911 seconds, bootstrap likelihood -29438.229778, best rearrangement setting 14
+Bootstrap[714]: Time 17.416049 seconds, bootstrap likelihood -27795.370971, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[882]: Time 13.313817 seconds, bootstrap likelihood -27536.626047, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[381]: Time 14.050052 seconds, bootstrap likelihood -29320.693625, best rearrangement setting 8
+Bootstrap[548]: Time 14.194071 seconds, bootstrap likelihood -27463.069761, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[47]: Time 13.460910 seconds, bootstrap likelihood -28999.831628, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[214]: Time 15.162908 seconds, bootstrap likelihood -28183.353501, best rearrangement setting 13
+Bootstrap[715]: Time 14.871181 seconds, bootstrap likelihood -27165.576069, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[549]: Time 11.215445 seconds, bootstrap likelihood -28420.586613, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[883]: Time 15.182655 seconds, bootstrap likelihood -29882.038800, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[382]: Time 13.640271 seconds, bootstrap likelihood -27856.409082, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[48]: Time 14.302845 seconds, bootstrap likelihood -28827.053335, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[215]: Time 14.322351 seconds, bootstrap likelihood -28980.535493, best rearrangement setting 14
+Bootstrap[716]: Time 16.176182 seconds, bootstrap likelihood -28792.958703, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[383]: Time 12.764288 seconds, bootstrap likelihood -27653.508264, best rearrangement setting 15
+Bootstrap[550]: Time 14.896622 seconds, bootstrap likelihood -27581.484630, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[49]: Time 11.289142 seconds, bootstrap likelihood -28285.765390, best rearrangement setting 7
+Bootstrap[884]: Time 15.351682 seconds, bootstrap likelihood -28199.331883, best rearrangement setting 11
+Bootstrap[216]: Time 11.402802 seconds, bootstrap likelihood -28889.746919, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[717]: Time 13.674676 seconds, bootstrap likelihood -28272.438902, best rearrangement setting 12
+Bootstrap[718]: Time 12.290379 seconds, bootstrap likelihood -28386.063534, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[551]: Time 12.935120 seconds, bootstrap likelihood -28228.115463, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[885]: Time 13.180835 seconds, bootstrap likelihood -29020.021943, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[217]: Time 13.486772 seconds, bootstrap likelihood -27937.391773, best rearrangement setting 9
+Bootstrap[50]: Time 13.558115 seconds, bootstrap likelihood -27631.518503, best rearrangement setting 7
+Bootstrap[384]: Time 14.485836 seconds, bootstrap likelihood -27746.202220, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[552]: Time 11.589106 seconds, bootstrap likelihood -29456.268202, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[719]: Time 13.674141 seconds, bootstrap likelihood -26379.063026, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[886]: Time 13.100205 seconds, bootstrap likelihood -28288.444356, best rearrangement setting 14
+Bootstrap[385]: Time 12.224497 seconds, bootstrap likelihood -27251.511874, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[51]: Time 14.006907 seconds, bootstrap likelihood -28381.553320, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[218]: Time 16.117327 seconds, bootstrap likelihood -28266.911337, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[553]: Time 12.707975 seconds, bootstrap likelihood -27298.235353, best rearrangement setting 14
+Bootstrap[720]: Time 12.586254 seconds, bootstrap likelihood -26924.748651, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[386]: Time 13.358544 seconds, bootstrap likelihood -28481.203572, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[52]: Time 13.312890 seconds, bootstrap likelihood -29724.551122, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[219]: Time 11.527679 seconds, bootstrap likelihood -27438.848754, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[887]: Time 14.980514 seconds, bootstrap likelihood -28447.430594, best rearrangement setting 12
+Bootstrap[554]: Time 14.652011 seconds, bootstrap likelihood -27933.547742, best rearrangement setting 9
+Bootstrap[721]: Time 14.213567 seconds, bootstrap likelihood -26514.127681, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[387]: Time 13.636490 seconds, bootstrap likelihood -30065.181568, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[53]: Time 12.990358 seconds, bootstrap likelihood -27888.246994, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[220]: Time 13.008187 seconds, bootstrap likelihood -27919.419274, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[888]: Time 13.153644 seconds, bootstrap likelihood -28429.965288, best rearrangement setting 6
+Bootstrap[722]: Time 11.122679 seconds, bootstrap likelihood -27803.857633, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[388]: Time 12.016628 seconds, bootstrap likelihood -27242.562744, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[555]: Time 14.064819 seconds, bootstrap likelihood -27020.426370, best rearrangement setting 12
+Bootstrap[221]: Time 13.973854 seconds, bootstrap likelihood -27768.896225, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[889]: Time 14.059447 seconds, bootstrap likelihood -31101.815244, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[54]: Time 15.307352 seconds, bootstrap likelihood -28870.502564, best rearrangement setting 9
+Bootstrap[723]: Time 13.564949 seconds, bootstrap likelihood -27674.614242, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[556]: Time 13.540326 seconds, bootstrap likelihood -30118.591438, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[389]: Time 14.376823 seconds, bootstrap likelihood -29546.369380, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[222]: Time 13.926804 seconds, bootstrap likelihood -27415.054171, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[890]: Time 14.304696 seconds, bootstrap likelihood -28535.334692, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[55]: Time 13.991632 seconds, bootstrap likelihood -27719.909058, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[724]: Time 13.180512 seconds, bootstrap likelihood -29953.648199, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[557]: Time 12.906445 seconds, bootstrap likelihood -27928.917148, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[223]: Time 12.382784 seconds, bootstrap likelihood -29318.313466, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[390]: Time 14.412765 seconds, bootstrap likelihood -28254.006733, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[891]: Time 12.676320 seconds, bootstrap likelihood -26919.049923, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[56]: Time 12.828527 seconds, bootstrap likelihood -27989.065580, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[725]: Time 13.529603 seconds, bootstrap likelihood -27274.203414, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[558]: Time 12.460418 seconds, bootstrap likelihood -28408.932514, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[224]: Time 13.194610 seconds, bootstrap likelihood -28473.164092, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[391]: Time 15.296053 seconds, bootstrap likelihood -29063.457350, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[892]: Time 14.788077 seconds, bootstrap likelihood -26343.415508, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[57]: Time 14.789743 seconds, bootstrap likelihood -29587.012197, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[726]: Time 13.440612 seconds, bootstrap likelihood -28082.192338, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[559]: Time 12.999832 seconds, bootstrap likelihood -27203.457986, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[225]: Time 13.560022 seconds, bootstrap likelihood -27838.256567, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[392]: Time 14.381263 seconds, bootstrap likelihood -28122.424400, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[58]: Time 13.695754 seconds, bootstrap likelihood -28426.206952, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[893]: Time 16.602237 seconds, bootstrap likelihood -28574.335351, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[560]: Time 12.561546 seconds, bootstrap likelihood -27580.434274, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[727]: Time 13.128154 seconds, bootstrap likelihood -26662.597026, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[894]: Time 14.250305 seconds, bootstrap likelihood -28438.588993, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[226]: Time 14.399503 seconds, bootstrap likelihood -28653.714579, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[393]: Time 14.433067 seconds, bootstrap likelihood -29260.948620, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[59]: Time 15.244576 seconds, bootstrap likelihood -29665.006690, best rearrangement setting 9
+Bootstrap[728]: Time 13.740844 seconds, bootstrap likelihood -28870.148881, best rearrangement setting 8
+Bootstrap[561]: Time 14.331973 seconds, bootstrap likelihood -28808.889325, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[227]: Time 12.862710 seconds, bootstrap likelihood -27657.495315, best rearrangement setting 7
+Bootstrap[895]: Time 13.879387 seconds, bootstrap likelihood -29834.762496, best rearrangement setting 8
+Bootstrap[394]: Time 13.872962 seconds, bootstrap likelihood -27194.876606, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[60]: Time 13.128453 seconds, bootstrap likelihood -27704.832365, best rearrangement setting 7
+Bootstrap[562]: Time 12.658380 seconds, bootstrap likelihood -27948.630574, best rearrangement setting 14
+Bootstrap[228]: Time 13.278116 seconds, bootstrap likelihood -27690.455834, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[61]: Time 12.507648 seconds, bootstrap likelihood -26599.711519, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[729]: Time 14.647340 seconds, bootstrap likelihood -27648.770960, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[395]: Time 15.466119 seconds, bootstrap likelihood -28031.316457, best rearrangement setting 15
+Bootstrap[896]: Time 17.085250 seconds, bootstrap likelihood -26336.306069, best rearrangement setting 13
+Bootstrap[229]: Time 13.185284 seconds, bootstrap likelihood -28120.873161, best rearrangement setting 7
+Bootstrap[730]: Time 12.257781 seconds, bootstrap likelihood -26923.467582, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[62]: Time 13.691254 seconds, bootstrap likelihood -28941.075547, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[563]: Time 15.077777 seconds, bootstrap likelihood -27213.054678, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[396]: Time 12.853503 seconds, bootstrap likelihood -29708.928475, best rearrangement setting 14
+Bootstrap[897]: Time 13.761745 seconds, bootstrap likelihood -27460.111319, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[230]: Time 12.625149 seconds, bootstrap likelihood -28356.564775, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[731]: Time 13.659311 seconds, bootstrap likelihood -28380.265448, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[63]: Time 15.748051 seconds, bootstrap likelihood -28722.828655, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[397]: Time 14.184885 seconds, bootstrap likelihood -28726.923103, best rearrangement setting 10
+Bootstrap[898]: Time 13.658775 seconds, bootstrap likelihood -27600.977418, best rearrangement setting 13
+Bootstrap[564]: Time 18.421931 seconds, bootstrap likelihood -28497.821298, best rearrangement setting 15
+Bootstrap[231]: Time 13.083394 seconds, bootstrap likelihood -28634.704939, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[732]: Time 13.415572 seconds, bootstrap likelihood -27944.204831, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[64]: Time 12.116054 seconds, bootstrap likelihood -29224.684544, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[899]: Time 13.018714 seconds, bootstrap likelihood -27447.576906, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[565]: Time 13.952224 seconds, bootstrap likelihood -29493.049918, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[398]: Time 18.223942 seconds, bootstrap likelihood -27871.408962, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[733]: Time 10.504523 seconds, bootstrap likelihood -27452.447168, best rearrangement setting 5
+Bootstrap[232]: Time 15.041980 seconds, bootstrap likelihood -28256.158409, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[65]: Time 12.353202 seconds, bootstrap likelihood -28815.851213, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[399]: Time 10.274988 seconds, bootstrap likelihood -28676.191515, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[900]: Time 14.107748 seconds, bootstrap likelihood -27825.600724, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[566]: Time 12.931399 seconds, bootstrap likelihood -27442.945093, best rearrangement setting 10
+Bootstrap[734]: Time 13.763924 seconds, bootstrap likelihood -28055.460727, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[233]: Time 10.807368 seconds, bootstrap likelihood -27406.740233, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[66]: Time 11.240530 seconds, bootstrap likelihood -29736.480065, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[400]: Time 11.222846 seconds, bootstrap likelihood -25962.692012, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[567]: Time 13.242896 seconds, bootstrap likelihood -27462.929683, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[901]: Time 15.058097 seconds, bootstrap likelihood -28966.774018, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[902]: Time 10.996465 seconds, bootstrap likelihood -28918.149702, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[401]: Time 13.931984 seconds, bootstrap likelihood -28216.409979, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[234]: Time 14.209276 seconds, bootstrap likelihood -28478.509017, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[568]: Time 14.682779 seconds, bootstrap likelihood -28293.046447, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[67]: Time 15.307250 seconds, bootstrap likelihood -27809.746249, best rearrangement setting 15
+Bootstrap[735]: Time 16.583325 seconds, bootstrap likelihood -27070.252126, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[903]: Time 13.569390 seconds, bootstrap likelihood -28724.740302, best rearrangement setting 9
+Bootstrap[402]: Time 12.527844 seconds, bootstrap likelihood -27585.748674, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[569]: Time 13.594457 seconds, bootstrap likelihood -27840.087512, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[68]: Time 13.131449 seconds, bootstrap likelihood -28213.515622, best rearrangement setting 11
+Bootstrap[736]: Time 12.153651 seconds, bootstrap likelihood -28619.794622, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[235]: Time 14.940190 seconds, bootstrap likelihood -28976.575538, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[403]: Time 11.578706 seconds, bootstrap likelihood -28686.112345, best rearrangement setting 5
+Bootstrap[904]: Time 14.578974 seconds, bootstrap likelihood -28248.908195, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[69]: Time 12.342472 seconds, bootstrap likelihood -29093.765901, best rearrangement setting 5
+Bootstrap[570]: Time 12.983984 seconds, bootstrap likelihood -27323.133739, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[737]: Time 12.794319 seconds, bootstrap likelihood -27385.979680, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[236]: Time 12.589273 seconds, bootstrap likelihood -27197.605973, best rearrangement setting 5
+Bootstrap[905]: Time 11.672633 seconds, bootstrap likelihood -28766.016763, best rearrangement setting 5
+Bootstrap[404]: Time 13.846317 seconds, bootstrap likelihood -27443.811774, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[237]: Time 11.470762 seconds, bootstrap likelihood -29665.604086, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[70]: Time 13.484877 seconds, bootstrap likelihood -28727.948882, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[738]: Time 14.700193 seconds, bootstrap likelihood -28553.074738, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[571]: Time 15.644975 seconds, bootstrap likelihood -27945.117211, best rearrangement setting 13
+Bootstrap[906]: Time 14.535695 seconds, bootstrap likelihood -28849.676261, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[238]: Time 12.450499 seconds, bootstrap likelihood -27078.021743, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[405]: Time 15.350227 seconds, bootstrap likelihood -27575.847030, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[71]: Time 14.398269 seconds, bootstrap likelihood -27542.861180, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[572]: Time 12.168396 seconds, bootstrap likelihood -28370.909765, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[739]: Time 14.427528 seconds, bootstrap likelihood -27991.873469, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[907]: Time 13.066150 seconds, bootstrap likelihood -28042.317773, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[239]: Time 14.826069 seconds, bootstrap likelihood -27902.498142, best rearrangement setting 14
+Bootstrap[406]: Time 13.273077 seconds, bootstrap likelihood -29147.663088, best rearrangement setting 7
+Bootstrap[72]: Time 12.944668 seconds, bootstrap likelihood -30057.814539, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[573]: Time 14.024548 seconds, bootstrap likelihood -28436.307639, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[740]: Time 15.121054 seconds, bootstrap likelihood -28681.585380, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[908]: Time 15.442012 seconds, bootstrap likelihood -29052.291393, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[73]: Time 12.476274 seconds, bootstrap likelihood -27991.918487, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[240]: Time 13.936536 seconds, bootstrap likelihood -29827.629351, best rearrangement setting 12
+Bootstrap[574]: Time 12.321630 seconds, bootstrap likelihood -28687.639677, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[407]: Time 15.398349 seconds, bootstrap likelihood -27496.626246, best rearrangement setting 14
+Bootstrap[741]: Time 14.979047 seconds, bootstrap likelihood -28740.406283, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[74]: Time 10.706187 seconds, bootstrap likelihood -28762.279087, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[575]: Time 11.679663 seconds, bootstrap likelihood -27239.168158, best rearrangement setting 5
+Bootstrap[241]: Time 13.070233 seconds, bootstrap likelihood -25935.746783, best rearrangement setting 9
+Bootstrap[909]: Time 15.448438 seconds, bootstrap likelihood -27717.880708, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[408]: Time 14.580360 seconds, bootstrap likelihood -26865.605739, best rearrangement setting 13
+Bootstrap[742]: Time 13.168431 seconds, bootstrap likelihood -27867.598943, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[409]: Time 11.057812 seconds, bootstrap likelihood -29403.679033, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[910]: Time 12.141733 seconds, bootstrap likelihood -29547.596118, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[743]: Time 12.863296 seconds, bootstrap likelihood -29525.231591, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[576]: Time 13.467243 seconds, bootstrap likelihood -29712.473976, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[75]: Time 13.654067 seconds, bootstrap likelihood -27648.915623, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[242]: Time 13.662674 seconds, bootstrap likelihood -29130.770498, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[410]: Time 13.244110 seconds, bootstrap likelihood -28407.457223, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[911]: Time 13.357423 seconds, bootstrap likelihood -28700.979584, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[243]: Time 12.641506 seconds, bootstrap likelihood -29592.145031, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[744]: Time 13.738103 seconds, bootstrap likelihood -27933.651225, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[76]: Time 13.394248 seconds, bootstrap likelihood -26660.092125, best rearrangement setting 9
+Bootstrap[577]: Time 14.755469 seconds, bootstrap likelihood -27526.812187, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[411]: Time 12.765332 seconds, bootstrap likelihood -27513.929814, best rearrangement setting 13
+Bootstrap[745]: Time 10.511330 seconds, bootstrap likelihood -27707.790878, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[912]: Time 11.721617 seconds, bootstrap likelihood -27970.848113, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[244]: Time 12.779698 seconds, bootstrap likelihood -27276.079670, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[578]: Time 12.301610 seconds, bootstrap likelihood -28993.934206, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[77]: Time 13.989750 seconds, bootstrap likelihood -27114.333777, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[245]: Time 11.645142 seconds, bootstrap likelihood -27347.173514, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[746]: Time 14.270832 seconds, bootstrap likelihood -29249.349589, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[412]: Time 14.499551 seconds, bootstrap likelihood -28256.470566, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[913]: Time 14.673158 seconds, bootstrap likelihood -28499.265067, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[78]: Time 12.834516 seconds, bootstrap likelihood -28480.800177, best rearrangement setting 15
+Bootstrap[579]: Time 15.900132 seconds, bootstrap likelihood -28046.066938, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[413]: Time 13.392617 seconds, bootstrap likelihood -27841.468027, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[246]: Time 14.271644 seconds, bootstrap likelihood -27190.301468, best rearrangement setting 8
+Bootstrap[747]: Time 14.093150 seconds, bootstrap likelihood -28379.049543, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[914]: Time 14.838798 seconds, bootstrap likelihood -29613.980850, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[79]: Time 12.896432 seconds, bootstrap likelihood -27329.484785, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[580]: Time 14.367056 seconds, bootstrap likelihood -28765.544429, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[414]: Time 13.046273 seconds, bootstrap likelihood -28668.406572, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[915]: Time 12.464719 seconds, bootstrap likelihood -29466.413071, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[748]: Time 13.902479 seconds, bootstrap likelihood -26911.082983, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[247]: Time 15.674625 seconds, bootstrap likelihood -28817.332654, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[80]: Time 14.279031 seconds, bootstrap likelihood -28099.246146, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[581]: Time 13.961942 seconds, bootstrap likelihood -27972.192799, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[415]: Time 12.332967 seconds, bootstrap likelihood -27913.678199, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[749]: Time 12.319110 seconds, bootstrap likelihood -28018.867455, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[248]: Time 12.453099 seconds, bootstrap likelihood -26908.130769, best rearrangement setting 6
+Bootstrap[916]: Time 14.291172 seconds, bootstrap likelihood -28304.641304, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[81]: Time 14.516620 seconds, bootstrap likelihood -28850.856208, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[582]: Time 12.467260 seconds, bootstrap likelihood -26449.830431, best rearrangement setting 5
+Bootstrap[416]: Time 14.009078 seconds, bootstrap likelihood -28313.227855, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[750]: Time 13.488826 seconds, bootstrap likelihood -28633.288213, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[249]: Time 12.543498 seconds, bootstrap likelihood -27726.087071, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[82]: Time 12.343448 seconds, bootstrap likelihood -26985.544605, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[917]: Time 16.172535 seconds, bootstrap likelihood -27417.613694, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[583]: Time 14.478255 seconds, bootstrap likelihood -29011.017300, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[751]: Time 12.522554 seconds, bootstrap likelihood -28178.146562, best rearrangement setting 13
+Bootstrap[417]: Time 13.447599 seconds, bootstrap likelihood -27600.100392, best rearrangement setting 11
+Bootstrap[250]: Time 12.460679 seconds, bootstrap likelihood -27127.830354, best rearrangement setting 5
+Bootstrap[83]: Time 12.484132 seconds, bootstrap likelihood -29920.436077, best rearrangement setting 10
+Bootstrap[584]: Time 10.647968 seconds, bootstrap likelihood -29883.757157, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[918]: Time 14.062525 seconds, bootstrap likelihood -28642.988224, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[752]: Time 12.509214 seconds, bootstrap likelihood -27894.443558, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[585]: Time 13.427328 seconds, bootstrap likelihood -29090.360378, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[84]: Time 13.732699 seconds, bootstrap likelihood -28293.234673, best rearrangement setting 11
+Bootstrap[418]: Time 16.152723 seconds, bootstrap likelihood -26671.092666, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[919]: Time 16.192664 seconds, bootstrap likelihood -28474.504065, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[251]: Time 16.946295 seconds, bootstrap likelihood -28624.251249, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[85]: Time 12.064546 seconds, bootstrap likelihood -29021.945192, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[753]: Time 14.430286 seconds, bootstrap likelihood -26973.299610, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[419]: Time 11.746022 seconds, bootstrap likelihood -27999.916407, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[920]: Time 11.740591 seconds, bootstrap likelihood -28763.978331, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[586]: Time 14.583817 seconds, bootstrap likelihood -27761.947281, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[252]: Time 13.833550 seconds, bootstrap likelihood -29820.735810, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[86]: Time 14.036701 seconds, bootstrap likelihood -28684.185303, best rearrangement setting 7
+Bootstrap[420]: Time 12.861470 seconds, bootstrap likelihood -28443.515245, best rearrangement setting 15
+Bootstrap[754]: Time 15.078898 seconds, bootstrap likelihood -28008.040881, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[253]: Time 11.647756 seconds, bootstrap likelihood -28770.283545, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[921]: Time 15.262959 seconds, bootstrap likelihood -28021.250311, best rearrangement setting 10
+Bootstrap[587]: Time 15.918900 seconds, bootstrap likelihood -28470.598533, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[87]: Time 12.897960 seconds, bootstrap likelihood -27456.810868, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[421]: Time 13.651467 seconds, bootstrap likelihood -30450.729499, best rearrangement setting 11
+Bootstrap[588]: Time 12.849422 seconds, bootstrap likelihood -29452.242970, best rearrangement setting 7
+Bootstrap[755]: Time 14.871669 seconds, bootstrap likelihood -27530.952402, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[922]: Time 14.010991 seconds, bootstrap likelihood -27515.079904, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[254]: Time 15.115913 seconds, bootstrap likelihood -27417.437014, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[422]: Time 12.685173 seconds, bootstrap likelihood -28941.802724, best rearrangement setting 11
+Bootstrap[88]: Time 16.196438 seconds, bootstrap likelihood -28455.819720, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[756]: Time 12.166764 seconds, bootstrap likelihood -27724.709977, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[923]: Time 12.761457 seconds, bootstrap likelihood -28240.092957, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[589]: Time 14.565901 seconds, bootstrap likelihood -27844.482757, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[255]: Time 15.249772 seconds, bootstrap likelihood -28455.117630, best rearrangement setting 11
+Bootstrap[757]: Time 11.383058 seconds, bootstrap likelihood -29629.560579, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[423]: Time 13.944871 seconds, bootstrap likelihood -27205.471819, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[89]: Time 12.896865 seconds, bootstrap likelihood -28137.537187, best rearrangement setting 10
+Bootstrap[924]: Time 12.860901 seconds, bootstrap likelihood -27604.036853, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[590]: Time 13.570413 seconds, bootstrap likelihood -28510.373347, best rearrangement setting 13
+Bootstrap[256]: Time 14.262191 seconds, bootstrap likelihood -28042.432029, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[90]: Time 12.991809 seconds, bootstrap likelihood -27886.866157, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[424]: Time 14.625444 seconds, bootstrap likelihood -28055.040173, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[925]: Time 13.554019 seconds, bootstrap likelihood -28191.328722, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[758]: Time 15.961747 seconds, bootstrap likelihood -28991.428939, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[591]: Time 13.678406 seconds, bootstrap likelihood -28062.896968, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[257]: Time 13.713265 seconds, bootstrap likelihood -28759.397266, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[91]: Time 14.328173 seconds, bootstrap likelihood -30058.993862, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[926]: Time 14.004917 seconds, bootstrap likelihood -28314.934616, best rearrangement setting 14
+Bootstrap[425]: Time 14.793073 seconds, bootstrap likelihood -28879.869697, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[759]: Time 14.550970 seconds, bootstrap likelihood -29474.250219, best rearrangement setting 9
+Bootstrap[592]: Time 13.248978 seconds, bootstrap likelihood -26865.237847, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[258]: Time 13.085837 seconds, bootstrap likelihood -28160.987003, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[259]: Time 12.614368 seconds, bootstrap likelihood -26419.382405, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[927]: Time 13.910975 seconds, bootstrap likelihood -27794.536664, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[593]: Time 14.703814 seconds, bootstrap likelihood -28443.345822, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[426]: Time 15.599761 seconds, bootstrap likelihood -29606.310582, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[760]: Time 15.666289 seconds, bootstrap likelihood -29695.697590, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[92]: Time 16.526273 seconds, bootstrap likelihood -28681.569502, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[260]: Time 12.356849 seconds, bootstrap likelihood -27344.800450, best rearrangement setting 10
+Bootstrap[928]: Time 12.784706 seconds, bootstrap likelihood -27258.730385, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[594]: Time 12.340426 seconds, bootstrap likelihood -28642.864069, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[427]: Time 13.670266 seconds, bootstrap likelihood -28727.278609, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[761]: Time 14.911557 seconds, bootstrap likelihood -29305.648236, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[93]: Time 14.579183 seconds, bootstrap likelihood -28431.189413, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[929]: Time 10.438413 seconds, bootstrap likelihood -28122.773958, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[261]: Time 13.417330 seconds, bootstrap likelihood -29409.585067, best rearrangement setting 10
+Bootstrap[595]: Time 12.157427 seconds, bootstrap likelihood -28148.424035, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[428]: Time 12.594220 seconds, bootstrap likelihood -28261.375346, best rearrangement setting 14
+Bootstrap[94]: Time 11.748232 seconds, bootstrap likelihood -28224.984218, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[762]: Time 13.302631 seconds, bootstrap likelihood -28159.566152, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[930]: Time 13.256781 seconds, bootstrap likelihood -27863.319029, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[596]: Time 14.458652 seconds, bootstrap likelihood -27677.641532, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[262]: Time 15.464496 seconds, bootstrap likelihood -26877.733579, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[95]: Time 13.375374 seconds, bootstrap likelihood -28727.184804, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[429]: Time 14.617377 seconds, bootstrap likelihood -28432.319313, best rearrangement setting 6
+Bootstrap[763]: Time 14.675903 seconds, bootstrap likelihood -28314.208647, best rearrangement setting 8
+Bootstrap[931]: Time 13.619088 seconds, bootstrap likelihood -28847.539154, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[263]: Time 13.484058 seconds, bootstrap likelihood -29720.865383, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[430]: Time 11.681681 seconds, bootstrap likelihood -28916.115762, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[597]: Time 15.300981 seconds, bootstrap likelihood -29191.381615, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[96]: Time 14.190961 seconds, bootstrap likelihood -27581.479172, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[764]: Time 13.549511 seconds, bootstrap likelihood -28333.413093, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[932]: Time 13.875812 seconds, bootstrap likelihood -28574.118596, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[431]: Time 13.060670 seconds, bootstrap likelihood -27213.683592, best rearrangement setting 12
+Bootstrap[598]: Time 12.264961 seconds, bootstrap likelihood -26751.532594, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[264]: Time 14.633615 seconds, bootstrap likelihood -27731.504171, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[97]: Time 13.709974 seconds, bootstrap likelihood -28487.006012, best rearrangement setting 11
+Bootstrap[765]: Time 18.112081 seconds, bootstrap likelihood -28705.334083, best rearrangement setting 13
+Bootstrap[933]: Time 14.339258 seconds, bootstrap likelihood -28390.820260, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[265]: Time 11.414291 seconds, bootstrap likelihood -29000.230710, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[432]: Time 12.422164 seconds, bootstrap likelihood -28803.014055, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[599]: Time 13.236785 seconds, bootstrap likelihood -27418.840464, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[98]: Time 13.137080 seconds, bootstrap likelihood -28362.456559, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[934]: Time 12.073160 seconds, bootstrap likelihood -27184.999867, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[766]: Time 14.504058 seconds, bootstrap likelihood -29207.019269, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[433]: Time 13.129921 seconds, bootstrap likelihood -27452.057969, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[266]: Time 13.994710 seconds, bootstrap likelihood -27650.857636, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[600]: Time 13.798615 seconds, bootstrap likelihood -29209.820713, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[99]: Time 15.200090 seconds, bootstrap likelihood -27898.129064, best rearrangement setting 14
+Bootstrap[767]: Time 15.732106 seconds, bootstrap likelihood -27761.549646, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[935]: Time 12.397166 seconds, bootstrap likelihood -28835.205240, best rearrangement setting 6
+Bootstrap[434]: Time 12.931717 seconds, bootstrap likelihood -29096.430575, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[601]: Time 13.059537 seconds, bootstrap likelihood -27154.992025, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[100]: Time 13.831971 seconds, bootstrap likelihood -27933.968178, best rearrangement setting 12
+Bootstrap[768]: Time 13.961051 seconds, bootstrap likelihood -28146.442902, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[267]: Time 15.352854 seconds, bootstrap likelihood -27986.163002, best rearrangement setting 7
+Bootstrap[936]: Time 13.049139 seconds, bootstrap likelihood -28357.250280, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[602]: Time 13.188353 seconds, bootstrap likelihood -29243.411369, best rearrangement setting 6
+Bootstrap[101]: Time 12.991486 seconds, bootstrap likelihood -28203.545169, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[435]: Time 14.040803 seconds, bootstrap likelihood -27953.741330, best rearrangement setting 11
+Bootstrap[769]: Time 13.082211 seconds, bootstrap likelihood -28209.511129, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[268]: Time 12.942599 seconds, bootstrap likelihood -26894.552146, best rearrangement setting 5
+Bootstrap[937]: Time 12.691665 seconds, bootstrap likelihood -28568.358359, best rearrangement setting 6
+Bootstrap[102]: Time 13.581871 seconds, bootstrap likelihood -28850.088193, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[603]: Time 14.713387 seconds, bootstrap likelihood -27658.588312, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[770]: Time 14.220930 seconds, bootstrap likelihood -27513.235687, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[436]: Time 14.789159 seconds, bootstrap likelihood -28431.688030, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[269]: Time 15.272842 seconds, bootstrap likelihood -27951.386155, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[938]: Time 13.924316 seconds, bootstrap likelihood -29841.607342, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[103]: Time 12.131673 seconds, bootstrap likelihood -29316.632743, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[604]: Time 12.788705 seconds, bootstrap likelihood -29042.827752, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[437]: Time 12.575857 seconds, bootstrap likelihood -28921.092934, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[771]: Time 15.632170 seconds, bootstrap likelihood -28393.924126, best rearrangement setting 11
+Bootstrap[270]: Time 14.311497 seconds, bootstrap likelihood -29246.091864, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[939]: Time 12.314635 seconds, bootstrap likelihood -27602.357340, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[104]: Time 13.869044 seconds, bootstrap likelihood -27506.000152, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[438]: Time 12.427572 seconds, bootstrap likelihood -28174.035885, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[605]: Time 13.795098 seconds, bootstrap likelihood -28224.410336, best rearrangement setting 9
+Bootstrap[772]: Time 12.663394 seconds, bootstrap likelihood -27140.926028, best rearrangement setting 14
+Bootstrap[271]: Time 16.197231 seconds, bootstrap likelihood -29321.392213, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[940]: Time 13.854822 seconds, bootstrap likelihood -27984.585421, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[439]: Time 11.558542 seconds, bootstrap likelihood -28065.061954, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[105]: Time 12.859892 seconds, bootstrap likelihood -27591.243793, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[606]: Time 12.145221 seconds, bootstrap likelihood -30014.106707, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[773]: Time 14.883713 seconds, bootstrap likelihood -29403.706588, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[272]: Time 14.161090 seconds, bootstrap likelihood -27515.336355, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[440]: Time 12.265464 seconds, bootstrap likelihood -29102.163214, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[106]: Time 12.707762 seconds, bootstrap likelihood -28158.412060, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[607]: Time 12.975403 seconds, bootstrap likelihood -28663.873163, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[941]: Time 14.975435 seconds, bootstrap likelihood -26625.140211, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[774]: Time 15.019878 seconds, bootstrap likelihood -27608.607004, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[273]: Time 12.449230 seconds, bootstrap likelihood -27303.392079, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[441]: Time 12.363445 seconds, bootstrap likelihood -26874.044180, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[608]: Time 12.787509 seconds, bootstrap likelihood -27701.553272, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[107]: Time 15.098952 seconds, bootstrap likelihood -27025.035561, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[942]: Time 15.343674 seconds, bootstrap likelihood -28199.422514, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[775]: Time 14.130582 seconds, bootstrap likelihood -28544.409585, best rearrangement setting 13
+Bootstrap[274]: Time 13.387966 seconds, bootstrap likelihood -28158.918870, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[442]: Time 13.124230 seconds, bootstrap likelihood -28124.125183, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[609]: Time 13.027170 seconds, bootstrap likelihood -28571.777753, best rearrangement setting 12
+Bootstrap[108]: Time 13.681628 seconds, bootstrap likelihood -28905.234130, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[943]: Time 16.938707 seconds, bootstrap likelihood -29207.138711, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[776]: Time 13.317869 seconds, bootstrap likelihood -28484.805094, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[275]: Time 13.635783 seconds, bootstrap likelihood -27821.255027, best rearrangement setting 13
+Bootstrap[443]: Time 12.252297 seconds, bootstrap likelihood -28382.631794, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[109]: Time 13.078889 seconds, bootstrap likelihood -26573.028621, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[610]: Time 14.562304 seconds, bootstrap likelihood -28656.920778, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[944]: Time 14.846517 seconds, bootstrap likelihood -27233.351123, best rearrangement setting 9
+Bootstrap[777]: Time 15.094527 seconds, bootstrap likelihood -28011.410991, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[276]: Time 16.307857 seconds, bootstrap likelihood -28282.626915, best rearrangement setting 11
+Bootstrap[444]: Time 12.147971 seconds, bootstrap likelihood -27406.483012, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[110]: Time 15.712064 seconds, bootstrap likelihood -28628.273421, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[945]: Time 14.584042 seconds, bootstrap likelihood -28155.121556, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[611]: Time 14.991079 seconds, bootstrap likelihood -28970.872529, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[778]: Time 15.874921 seconds, bootstrap likelihood -29317.476624, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[277]: Time 16.212984 seconds, bootstrap likelihood -27541.786757, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[445]: Time 12.530056 seconds, bootstrap likelihood -27514.628703, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[946]: Time 12.623186 seconds, bootstrap likelihood -28672.309478, best rearrangement setting 12
+Bootstrap[111]: Time 13.265534 seconds, bootstrap likelihood -27700.126064, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[779]: Time 12.961408 seconds, bootstrap likelihood -27633.196933, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[612]: Time 14.944208 seconds, bootstrap likelihood -28165.827601, best rearrangement setting 11
+Bootstrap[278]: Time 15.406216 seconds, bootstrap likelihood -27503.965763, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[446]: Time 11.817400 seconds, bootstrap likelihood -29485.916809, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[112]: Time 12.783412 seconds, bootstrap likelihood -28615.507615, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[947]: Time 13.853776 seconds, bootstrap likelihood -28360.492430, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[613]: Time 12.184394 seconds, bootstrap likelihood -28301.686855, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[780]: Time 14.255274 seconds, bootstrap likelihood -26444.800690, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[279]: Time 14.419820 seconds, bootstrap likelihood -27895.834267, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[447]: Time 13.684888 seconds, bootstrap likelihood -27390.223009, best rearrangement setting 6
+Bootstrap[113]: Time 11.144929 seconds, bootstrap likelihood -27833.775141, best rearrangement setting 5
+Bootstrap[614]: Time 13.553971 seconds, bootstrap likelihood -27950.463210, best rearrangement setting 7
+Bootstrap[948]: Time 14.924357 seconds, bootstrap likelihood -28834.567602, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[781]: Time 13.327371 seconds, bootstrap likelihood -28256.558248, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[280]: Time 11.366869 seconds, bootstrap likelihood -27346.044280, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[448]: Time 13.792216 seconds, bootstrap likelihood -28646.678684, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[114]: Time 13.833374 seconds, bootstrap likelihood -28038.940626, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[949]: Time 12.236330 seconds, bootstrap likelihood -28598.792312, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[615]: Time 14.761065 seconds, bootstrap likelihood -28404.478292, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[782]: Time 13.748142 seconds, bootstrap likelihood -28728.482509, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[281]: Time 13.457213 seconds, bootstrap likelihood -29412.512677, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[449]: Time 14.023020 seconds, bootstrap likelihood -27838.044262, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[115]: Time 13.678087 seconds, bootstrap likelihood -29523.306135, best rearrangement setting 7
+Bootstrap[950]: Time 11.104523 seconds, bootstrap likelihood -29974.288219, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[783]: Time 13.367216 seconds, bootstrap likelihood -27848.186043, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[616]: Time 14.348205 seconds, bootstrap likelihood -28462.674426, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[282]: Time 14.599519 seconds, bootstrap likelihood -29336.015510, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[450]: Time 12.224198 seconds, bootstrap likelihood -27485.106225, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[116]: Time 12.697701 seconds, bootstrap likelihood -28222.347043, best rearrangement setting 11
+Bootstrap[951]: Time 12.873080 seconds, bootstrap likelihood -26697.364088, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[784]: Time 12.945479 seconds, bootstrap likelihood -28527.657968, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[283]: Time 11.512593 seconds, bootstrap likelihood -27819.425761, best rearrangement setting 8
+Bootstrap[617]: Time 14.462746 seconds, bootstrap likelihood -27400.974315, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[618]: Time 10.848913 seconds, bootstrap likelihood -28142.886156, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[117]: Time 11.844915 seconds, bootstrap likelihood -27762.888585, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[952]: Time 12.272925 seconds, bootstrap likelihood -27656.258301, best rearrangement setting 6
+Bootstrap[284]: Time 14.549108 seconds, bootstrap likelihood -27309.136105, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[451]: Time 14.626550 seconds, bootstrap likelihood -28501.248566, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[785]: Time 15.474966 seconds, bootstrap likelihood -28036.662711, best rearrangement setting 11
+Bootstrap[619]: Time 11.793936 seconds, bootstrap likelihood -27534.985949, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[953]: Time 12.433158 seconds, bootstrap likelihood -28523.550853, best rearrangement setting 5
+Bootstrap[285]: Time 12.133884 seconds, bootstrap likelihood -28346.570529, best rearrangement setting 8
+Bootstrap[452]: Time 12.485296 seconds, bootstrap likelihood -26546.569771, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[118]: Time 15.607240 seconds, bootstrap likelihood -27484.498124, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[786]: Time 13.250968 seconds, bootstrap likelihood -29452.100880, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[620]: Time 14.736028 seconds, bootstrap likelihood -27043.359603, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[954]: Time 15.422114 seconds, bootstrap likelihood -27390.627992, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[453]: Time 14.253421 seconds, bootstrap likelihood -27241.685872, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[286]: Time 15.014232 seconds, bootstrap likelihood -28057.806175, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[119]: Time 15.138111 seconds, bootstrap likelihood -27980.191731, best rearrangement setting 14
+Bootstrap[787]: Time 14.261248 seconds, bootstrap likelihood -27004.687266, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[621]: Time 13.409993 seconds, bootstrap likelihood -28267.265231, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[287]: Time 12.549644 seconds, bootstrap likelihood -28393.009700, best rearrangement setting 7
+Bootstrap[454]: Time 14.725795 seconds, bootstrap likelihood -27872.282195, best rearrangement setting 13
+Bootstrap[788]: Time 13.146337 seconds, bootstrap likelihood -29289.757590, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[955]: Time 16.502463 seconds, bootstrap likelihood -26792.995970, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[120]: Time 15.712496 seconds, bootstrap likelihood -28288.630003, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[622]: Time 14.020458 seconds, bootstrap likelihood -26726.835641, best rearrangement setting 9
+Bootstrap[288]: Time 12.449416 seconds, bootstrap likelihood -27563.074138, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[789]: Time 12.911979 seconds, bootstrap likelihood -26400.182480, best rearrangement setting 13
+Bootstrap[956]: Time 12.723140 seconds, bootstrap likelihood -26342.778814, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[455]: Time 13.845588 seconds, bootstrap likelihood -27923.306887, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[121]: Time 14.051768 seconds, bootstrap likelihood -27738.056375, best rearrangement setting 8
+Bootstrap[623]: Time 14.341061 seconds, bootstrap likelihood -28487.674477, best rearrangement setting 9
+Bootstrap[289]: Time 13.272401 seconds, bootstrap likelihood -26908.179340, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[790]: Time 11.860126 seconds, bootstrap likelihood -28677.696607, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[957]: Time 12.464978 seconds, bootstrap likelihood -29506.606865, best rearrangement setting 9
+Bootstrap[456]: Time 14.694127 seconds, bootstrap likelihood -28239.587381, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[122]: Time 14.331657 seconds, bootstrap likelihood -28594.870061, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[624]: Time 12.918514 seconds, bootstrap likelihood -27413.383528, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[958]: Time 11.530557 seconds, bootstrap likelihood -27408.763111, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[791]: Time 13.606169 seconds, bootstrap likelihood -28786.493525, best rearrangement setting 13
+Bootstrap[290]: Time 14.714582 seconds, bootstrap likelihood -28930.155021, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[457]: Time 12.470088 seconds, bootstrap likelihood -28156.519735, best rearrangement setting 15
+Bootstrap[123]: Time 13.022322 seconds, bootstrap likelihood -27327.526127, best rearrangement setting 6
+Bootstrap[625]: Time 14.602521 seconds, bootstrap likelihood -28571.111100, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[792]: Time 13.612062 seconds, bootstrap likelihood -28886.810281, best rearrangement setting 13
+Bootstrap[291]: Time 13.885907 seconds, bootstrap likelihood -29228.413709, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[959]: Time 16.100707 seconds, bootstrap likelihood -28346.205143, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[458]: Time 13.137664 seconds, bootstrap likelihood -28787.832427, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[124]: Time 14.385367 seconds, bootstrap likelihood -28352.713406, best rearrangement setting 11
+Bootstrap[125]: Time 13.315502 seconds, bootstrap likelihood -28425.320398, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[793]: Time 13.865800 seconds, bootstrap likelihood -29522.594121, best rearrangement setting 12
+Bootstrap[626]: Time 13.874490 seconds, bootstrap likelihood -28012.401813, best rearrangement setting 9
+Bootstrap[292]: Time 14.020940 seconds, bootstrap likelihood -28601.082696, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[960]: Time 14.826450 seconds, bootstrap likelihood -28702.344826, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[459]: Time 15.056205 seconds, bootstrap likelihood -28633.498989, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[126]: Time 11.840271 seconds, bootstrap likelihood -30075.885512, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[627]: Time 12.151451 seconds, bootstrap likelihood -28126.010448, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[293]: Time 13.373699 seconds, bootstrap likelihood -28802.685856, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[460]: Time 12.813355 seconds, bootstrap likelihood -29125.289599, best rearrangement setting 10
+Bootstrap[794]: Time 14.533175 seconds, bootstrap likelihood -28933.029078, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[961]: Time 13.610005 seconds, bootstrap likelihood -28601.727572, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[127]: Time 12.657500 seconds, bootstrap likelihood -28985.189994, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[628]: Time 12.461306 seconds, bootstrap likelihood -28508.487810, best rearrangement setting 11
+Bootstrap[294]: Time 12.204599 seconds, bootstrap likelihood -28705.635257, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[962]: Time 11.987325 seconds, bootstrap likelihood -28361.838712, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[795]: Time 13.280701 seconds, bootstrap likelihood -28285.207883, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[461]: Time 16.342904 seconds, bootstrap likelihood -26865.784684, best rearrangement setting 14
+Bootstrap[629]: Time 11.809120 seconds, bootstrap likelihood -28606.823471, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[128]: Time 14.684319 seconds, bootstrap likelihood -29070.795658, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[295]: Time 13.313907 seconds, bootstrap likelihood -29100.889492, best rearrangement setting 13
+Bootstrap[796]: Time 13.465232 seconds, bootstrap likelihood -27262.600091, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[963]: Time 15.043382 seconds, bootstrap likelihood -27807.825082, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[462]: Time 13.503618 seconds, bootstrap likelihood -29036.312963, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[129]: Time 11.721178 seconds, bootstrap likelihood -27235.077259, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[630]: Time 14.785612 seconds, bootstrap likelihood -27926.984186, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[296]: Time 13.293580 seconds, bootstrap likelihood -28957.546289, best rearrangement setting 14
+Bootstrap[797]: Time 13.319400 seconds, bootstrap likelihood -28415.948171, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[964]: Time 15.729369 seconds, bootstrap likelihood -26424.092239, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[463]: Time 16.014902 seconds, bootstrap likelihood -28410.417022, best rearrangement setting 13
+Bootstrap[130]: Time 13.821949 seconds, bootstrap likelihood -28711.985629, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[631]: Time 13.961984 seconds, bootstrap likelihood -25460.181741, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[297]: Time 13.306624 seconds, bootstrap likelihood -28280.783556, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[798]: Time 15.574042 seconds, bootstrap likelihood -28649.129024, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[464]: Time 12.392174 seconds, bootstrap likelihood -28620.404717, best rearrangement setting 6
+Bootstrap[965]: Time 15.906869 seconds, bootstrap likelihood -28775.474325, best rearrangement setting 10
+Bootstrap[131]: Time 13.740275 seconds, bootstrap likelihood -29718.792167, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[632]: Time 12.966224 seconds, bootstrap likelihood -29912.933134, best rearrangement setting 13
+Bootstrap[298]: Time 14.575802 seconds, bootstrap likelihood -28329.470917, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[799]: Time 14.831834 seconds, bootstrap likelihood -26882.172358, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[465]: Time 12.764083 seconds, bootstrap likelihood -27828.532476, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[966]: Time 14.729119 seconds, bootstrap likelihood -27949.345863, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[633]: Time 14.401397 seconds, bootstrap likelihood -27363.670397, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[132]: Time 14.886445 seconds, bootstrap likelihood -27062.576949, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[299]: Time 15.186641 seconds, bootstrap likelihood -28857.905225, best rearrangement setting 9
+Bootstrap[466]: Time 11.224178 seconds, bootstrap likelihood -28602.289677, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[800]: Time 13.818182 seconds, bootstrap likelihood -29128.978453, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[634]: Time 9.720205 seconds, bootstrap likelihood -28397.302876, best rearrangement setting 5
+Bootstrap[967]: Time 15.038700 seconds, bootstrap likelihood -27242.257581, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[133]: Time 13.320381 seconds, bootstrap likelihood -27445.653368, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[300]: Time 12.495125 seconds, bootstrap likelihood -28823.814455, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[467]: Time 14.267322 seconds, bootstrap likelihood -28465.179919, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[801]: Time 11.917476 seconds, bootstrap likelihood -26951.799146, best rearrangement setting 6
+Bootstrap[968]: Time 12.845695 seconds, bootstrap likelihood -27898.838321, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[802]: Time 12.630965 seconds, bootstrap likelihood -28083.783197, best rearrangement setting 9
+Bootstrap[635]: Time 12.632715 seconds, bootstrap likelihood -27232.594416, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[301]: Time 13.121865 seconds, bootstrap likelihood -28778.077360, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[134]: Time 13.556212 seconds, bootstrap likelihood -27607.013878, best rearrangement setting 6
+Bootstrap[969]: Time 14.574896 seconds, bootstrap likelihood -27357.103521, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[468]: Time 14.629414 seconds, bootstrap likelihood -29280.193313, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[803]: Time 13.964178 seconds, bootstrap likelihood -28762.680494, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[469]: Time 12.874505 seconds, bootstrap likelihood -28007.374167, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[135]: Time 14.094291 seconds, bootstrap likelihood -28690.971761, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[970]: Time 13.190540 seconds, bootstrap likelihood -29391.327403, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[302]: Time 15.034133 seconds, bootstrap likelihood -30152.852316, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[636]: Time 15.598240 seconds, bootstrap likelihood -28935.193950, best rearrangement setting 13
+Bootstrap[804]: Time 14.346876 seconds, bootstrap likelihood -26987.359832, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[470]: Time 13.680408 seconds, bootstrap likelihood -25673.117357, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[971]: Time 13.951815 seconds, bootstrap likelihood -29425.564445, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[303]: Time 13.944047 seconds, bootstrap likelihood -28613.530148, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[637]: Time 14.150818 seconds, bootstrap likelihood -28732.245583, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[136]: Time 15.658771 seconds, bootstrap likelihood -27700.355811, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[304]: Time 10.594459 seconds, bootstrap likelihood -29648.110231, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[471]: Time 12.163663 seconds, bootstrap likelihood -28395.098966, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[805]: Time 13.719778 seconds, bootstrap likelihood -28305.260446, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[972]: Time 13.428014 seconds, bootstrap likelihood -27874.887742, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[137]: Time 12.062688 seconds, bootstrap likelihood -27635.993718, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[638]: Time 14.257010 seconds, bootstrap likelihood -28571.652494, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[472]: Time 12.240757 seconds, bootstrap likelihood -29709.723228, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[305]: Time 14.255192 seconds, bootstrap likelihood -27683.820201, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[973]: Time 13.073604 seconds, bootstrap likelihood -27568.905877, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[138]: Time 13.242084 seconds, bootstrap likelihood -28593.663436, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[806]: Time 14.208707 seconds, bootstrap likelihood -28445.188321, best rearrangement setting 10
+Bootstrap[639]: Time 13.484618 seconds, bootstrap likelihood -26955.423663, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[473]: Time 12.203252 seconds, bootstrap likelihood -28470.335569, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[306]: Time 12.217944 seconds, bootstrap likelihood -28332.406599, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[139]: Time 10.750141 seconds, bootstrap likelihood -27488.835430, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[974]: Time 13.990941 seconds, bootstrap likelihood -26939.122098, best rearrangement setting 12
+Bootstrap[807]: Time 14.607969 seconds, bootstrap likelihood -29077.380526, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[640]: Time 13.582395 seconds, bootstrap likelihood -28186.832902, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[474]: Time 13.798133 seconds, bootstrap likelihood -28176.443246, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[307]: Time 13.568713 seconds, bootstrap likelihood -28526.511276, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[140]: Time 15.010316 seconds, bootstrap likelihood -27357.592827, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[641]: Time 12.876897 seconds, bootstrap likelihood -27960.662849, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[975]: Time 14.621601 seconds, bootstrap likelihood -27522.675351, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[808]: Time 16.199025 seconds, bootstrap likelihood -29054.001210, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[475]: Time 12.420801 seconds, bootstrap likelihood -28465.575086, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[141]: Time 12.085152 seconds, bootstrap likelihood -26572.454934, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[308]: Time 14.034352 seconds, bootstrap likelihood -28387.004470, best rearrangement setting 8
+Bootstrap[642]: Time 14.175127 seconds, bootstrap likelihood -28886.164728, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Bootstrap[976]: Time 13.947802 seconds, bootstrap likelihood -29111.004740, best rearrangement setting 9
+Bootstrap[809]: Time 12.269548 seconds, bootstrap likelihood -26932.571449, best rearrangement setting 6
+
+
+Stopped Rapid BS search after 852 replicates with MRE-based Bootstopping criterion
+WRF Average of 100 random splits: 2.201420
+Overall Time for 852 Rapid Bootstraps 2031.889379 seconds
+Average Time per Rapid Bootstrap 2.384847 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 165.999150 seconds
+
+Fast ML search on Process 2: Time 263.538413 seconds
+
+Fast ML search on Process 5: Time 266.559811 seconds
+
+Fast ML search on Process 4: Time 273.792241 seconds
+
+Fast ML search on Process 1: Time 285.302876 seconds
+
+Fast ML search on Process 3: Time 288.120669 seconds
+
+Slow ML Search 0 Likelihood: -29539.571883
+Slow ML Search 1 Likelihood: -29542.855401
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 146.628821 seconds
+Slow ML Search 501 Likelihood: -29540.862963
+Slow ML Search 502 Likelihood: -29540.858451
+Slow ML search on Process 3: Time 129.913550 seconds
+Slow ML Search 668 Likelihood: -29544.300392
+Slow ML Search 669 Likelihood: -29544.300288
+Slow ML search on Process 4: Time 163.544782 seconds
+Slow ML Search 167 Likelihood: -29547.882551
+Slow ML Search 168 Likelihood: -29542.570106
+Slow ML search on Process 1: Time 159.743348 seconds
+Slow ML Search 334 Likelihood: -29546.462202
+Slow ML Search 335 Likelihood: -29543.136689
+Slow ML search on Process 2: Time 206.923416 seconds
+Thorough ML search on Process 0: Time 165.712247 seconds
+Thorough ML search on Process 3: Time 155.270092 seconds
+Thorough ML search on Process 4: Time 150.164712 seconds
+Thorough ML search on Process 1: Time 155.830154 seconds
+Slow ML Search 835 Likelihood: -29545.823550
+Thorough ML search on Process 2: Time 162.263266 seconds
+Slow ML Search 836 Likelihood: -29543.227958
+Slow ML search on Process 5: Time 371.087190 seconds
+Thorough ML search on Process 5: Time 156.741764 seconds
+
+Final ML Optimization Likelihood: -29539.286037
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: AA
+alpha: 2.148872
+Tree-Length: 15.343590
+rate A <-> R: 0.885232
+rate A <-> N: 0.583975
+rate A <-> D: 0.653480
+rate A <-> C: 1.756525
+rate A <-> Q: 1.443370
+rate A <-> E: 1.408772
+rate A <-> G: 2.353130
+rate A <-> H: 0.861712
+rate A <-> I: 0.728959
+rate A <-> L: 0.962502
+rate A <-> K: 1.558261
+rate A <-> M: 1.508400
+rate A <-> F: 0.593087
+rate A <-> P: 1.411572
+rate A <-> S: 5.203533
+rate A <-> T: 2.080379
+rate A <-> W: 0.560453
+rate A <-> Y: 0.864077
+rate A <-> V: 2.632118
+rate R <-> N: 1.560962
+rate R <-> D: 0.602712
+rate R <-> C: 0.274099
+rate R <-> Q: 3.634374
+rate R <-> E: 1.636911
+rate R <-> G: 0.503815
+rate R <-> H: 1.751888
+rate R <-> I: 0.279164
+rate R <-> L: 0.749186
+rate R <-> K: 6.510130
+rate R <-> M: 1.183484
+rate R <-> F: 0.447127
+rate R <-> P: 0.539151
+rate R <-> S: 1.350824
+rate R <-> T: 1.100437
+rate R <-> W: 0.512982
+rate R <-> Y: 0.866857
+rate R <-> V: 0.527426
+rate N <-> D: 3.825988
+rate N <-> C: 0.478064
+rate N <-> Q: 2.212767
+rate N <-> E: 1.492436
+rate N <-> G: 1.631254
+rate N <-> H: 2.904894
+rate N <-> I: 0.340499
+rate N <-> L: 0.254923
+rate N <-> K: 1.916708
+rate N <-> M: 0.780142
+rate N <-> F: 0.426935
+rate N <-> P: 0.595400
+rate N <-> S: 3.493934
+rate N <-> T: 2.283699
+rate N <-> W: 0.230373
+rate N <-> Y: 0.647537
+rate N <-> V: 0.376401
+rate D <-> C: 0.289751
+rate D <-> Q: 1.432831
+rate D <-> E: 4.525623
+rate D <-> G: 0.960646
+rate D <-> H: 0.936186
+rate D <-> I: 0.503566
+rate D <-> L: 0.262435
+rate D <-> K: 1.242141
+rate D <-> M: 0.267837
+rate D <-> F: 0.338951
+rate D <-> P: 0.879021
+rate D <-> S: 1.904216
+rate D <-> T: 1.123924
+rate D <-> W: 0.174865
+rate D <-> Y: 0.314518
+rate D <-> V: 0.310556
+rate C <-> Q: 0.396785
+rate C <-> E: 0.169335
+rate C <-> G: 0.503142
+rate C <-> H: 0.425968
+rate C <-> I: 0.932277
+rate C <-> L: 1.000792
+rate C <-> K: 0.342979
+rate C <-> M: 0.923609
+rate C <-> F: 0.530974
+rate C <-> P: 0.428315
+rate C <-> S: 1.440341
+rate C <-> T: 1.347273
+rate C <-> W: 0.634835
+rate C <-> Y: 0.565744
+rate C <-> V: 1.343087
+rate Q <-> E: 6.651860
+rate Q <-> G: 0.733708
+rate Q <-> H: 2.929967
+rate Q <-> I: 0.284176
+rate Q <-> L: 0.698687
+rate Q <-> K: 4.746576
+rate Q <-> M: 3.001617
+rate Q <-> F: 0.173676
+rate Q <-> P: 1.032949
+rate Q <-> S: 2.327849
+rate Q <-> T: 1.536941
+rate Q <-> W: 0.912739
+rate Q <-> Y: 1.153764
+rate Q <-> V: 0.638590
+rate E <-> G: 0.509610
+rate E <-> H: 1.957318
+rate E <-> I: 0.224797
+rate E <-> L: 0.448307
+rate E <-> K: 3.371609
+rate E <-> M: 0.668222
+rate E <-> F: 0.350595
+rate E <-> P: 1.114752
+rate E <-> S: 2.129364
+rate E <-> T: 1.288640
+rate E <-> W: 0.490428
+rate E <-> Y: 0.717915
+rate E <-> V: 0.630731
+rate G <-> H: 0.649506
+rate G <-> I: 0.227743
+rate G <-> L: 0.261941
+rate G <-> K: 0.904785
+rate G <-> M: 0.552749
+rate G <-> F: 0.442942
+rate G <-> P: 0.606468
+rate G <-> S: 1.815875
+rate G <-> T: 0.771714
+rate G <-> W: 0.611608
+rate G <-> Y: 0.370623
+rate G <-> V: 0.304795
+rate H <-> I: 0.304046
+rate H <-> L: 0.418767
+rate H <-> K: 1.230181
+rate H <-> M: 1.184228
+rate H <-> F: 0.859658
+rate H <-> P: 0.634044
+rate H <-> S: 1.343902
+rate H <-> T: 0.704305
+rate H <-> W: 0.362433
+rate H <-> Y: 5.075837
+rate H <-> V: 0.242493
+rate I <-> L: 4.681231
+rate I <-> K: 0.488693
+rate I <-> M: 4.048199
+rate I <-> F: 1.825540
+rate I <-> P: 0.467232
+rate I <-> S: 0.430163
+rate I <-> T: 1.418568
+rate I <-> W: 0.411444
+rate I <-> Y: 0.811634
+rate I <-> V: 10.000000
+rate L <-> K: 0.536067
+rate L <-> M: 7.255385
+rate L <-> F: 2.484215
+rate L <-> P: 0.450629
+rate L <-> S: 0.424658
+rate L <-> T: 1.101152
+rate L <-> W: 0.831915
+rate L <-> Y: 0.976012
+rate L <-> V: 2.684611
+rate K <-> M: 1.291003
+rate K <-> F: 0.321138
+rate K <-> P: 1.260110
+rate K <-> S: 2.108036
+rate K <-> T: 1.568696
+rate K <-> W: 0.399723
+rate K <-> Y: 0.863820
+rate K <-> V: 0.599312
+rate M <-> F: 2.134131
+rate M <-> P: 0.546358
+rate M <-> S: 1.105319
+rate M <-> T: 1.790877
+rate M <-> W: 1.068477
+rate M <-> Y: 1.144972
+rate M <-> V: 3.099014
+rate F <-> P: 0.281042
+rate F <-> S: 0.649709
+rate F <-> T: 0.587362
+rate F <-> W: 2.495627
+rate F <-> Y: 8.117650
+rate F <-> V: 1.008344
+rate P <-> S: 1.406583
+rate P <-> T: 1.209662
+rate P <-> W: 0.303440
+rate P <-> Y: 0.444433
+rate P <-> V: 0.597832
+rate S <-> T: 6.197853
+rate S <-> W: 0.466715
+rate S <-> Y: 0.958574
+rate S <-> V: 0.676054
+rate T <-> W: 0.617346
+rate T <-> Y: 0.963698
+rate T <-> V: 2.710680
+rate W <-> Y: 4.877884
+rate W <-> V: 0.320637
+rate Y <-> V: 1.203103
+
+freq pi(A): 0.070542
+freq pi(R): 0.052239
+freq pi(N): 0.047309
+freq pi(D): 0.057471
+freq pi(C): 0.038813
+freq pi(Q): 0.041083
+freq pi(E): 0.046280
+freq pi(G): 0.059670
+freq pi(H): 0.040303
+freq pi(I): 0.043495
+freq pi(L): 0.070968
+freq pi(K): 0.041385
+freq pi(M): 0.031311
+freq pi(F): 0.034929
+freq pi(P): 0.043726
+freq pi(S): 0.072972
+freq pi(T): 0.064140
+freq pi(W): 0.036011
+freq pi(Y): 0.037856
+freq pi(V): 0.069496
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+
+ML search took 794.874621 secs or 0.220799 hours
+
+Combined Bootstrap and ML search took 2826.768263 secs or 0.785213 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bestTree.result
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bestTree.result
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "WDR5a"
+from the list to root the tree!
+Program execution info written to /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_info.result
+All 852 bootstrapped trees written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bootstrap.result
+
+Best-scoring ML tree written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bestTree.result
+
+Best-scoring ML tree with support values written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bipartitions.result
+
+Best-scoring ML tree with support values as branch labels written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6D4593F354F84F1EB3B84707270AEA8E/RAxML_bipartitionsBranchLabels.result
+
+Overall execution time for full ML analysis: 2826.905526 secs or 0.785252 hours or 0.032719 days
+

@@ -1,0 +1,1612 @@
+
+
+IMPORTANT WARNING: Sequences Cagra.0860s0032 and Carubv10008062m.g are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file infile.reduced
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3947 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 67.11%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 1000 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 3947
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: BLOSUM62
+Using empirical base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-HYBRID -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATBLOSUM62F -o Brara.D01241,Cagra.18315s0001 
+
+
+
+Time for BS model parameter optimization on Process 9: 7.083909 seconds
+
+Time for BS model parameter optimization on Process 1: 6.446972 seconds
+
+Time for BS model parameter optimization on Process 6: 6.827285 seconds
+
+Time for BS model parameter optimization on Process 3: 6.989318 seconds
+
+Time for BS model parameter optimization on Process 0: 7.267573 seconds
+
+Time for BS model parameter optimization on Process 7: 7.527262 seconds
+
+Time for BS model parameter optimization on Process 5: 7.810671 seconds
+
+Time for BS model parameter optimization on Process 2: 7.466185 seconds
+
+Time for BS model parameter optimization on Process 4: 7.141745 seconds
+
+Time for BS model parameter optimization on Process 8: 7.233827 seconds
+
+Time for BS model parameter optimization on Process 11: 8.086549 seconds
+
+Time for BS model parameter optimization on Process 10: 8.353496 seconds
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[504]: Time 35.387449 seconds, bootstrap likelihood -116641.892121, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[168]: Time 37.567040 seconds, bootstrap likelihood -112706.254119, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[756]: Time 39.287884 seconds, bootstrap likelihood -113015.217031, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[588]: Time 39.392334 seconds, bootstrap likelihood -115796.446921, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[0]: Time 40.106107 seconds, bootstrap likelihood -118078.934760, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[84]: Time 40.762789 seconds, bootstrap likelihood -114521.382393, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[336]: Time 41.106274 seconds, bootstrap likelihood -113222.623868, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[252]: Time 41.189478 seconds, bootstrap likelihood -114023.341811, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[672]: Time 41.965713 seconds, bootstrap likelihood -114581.492074, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[420]: Time 47.376880 seconds, bootstrap likelihood -115491.867608, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[840]: Time 51.541752 seconds, bootstrap likelihood -116033.711092, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[924]: Time 53.382921 seconds, bootstrap likelihood -115385.153359, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[757]: Time 24.844084 seconds, bootstrap likelihood -113891.787758, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[505]: Time 29.359537 seconds, bootstrap likelihood -115817.057482, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[673]: Time 22.944963 seconds, bootstrap likelihood -115856.973062, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[589]: Time 26.874259 seconds, bootstrap likelihood -114360.057960, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[1]: Time 26.130846 seconds, bootstrap likelihood -114626.527497, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[85]: Time 26.074332 seconds, bootstrap likelihood -117429.264319, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[337]: Time 27.240289 seconds, bootstrap likelihood -113422.987688, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[169]: Time 32.829297 seconds, bootstrap likelihood -116506.703867, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[253]: Time 30.285978 seconds, bootstrap likelihood -116455.919788, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[841]: Time 30.973836 seconds, bootstrap likelihood -116478.110042, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[421]: Time 38.446741 seconds, bootstrap likelihood -117082.769707, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[506]: Time 25.752800 seconds, bootstrap likelihood -117164.720582, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[758]: Time 27.664801 seconds, bootstrap likelihood -114661.267690, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[2]: Time 25.574627 seconds, bootstrap likelihood -113863.162048, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[338]: Time 23.846460 seconds, bootstrap likelihood -113572.531702, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[674]: Time 28.419021 seconds, bootstrap likelihood -113710.530627, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[590]: Time 27.663815 seconds, bootstrap likelihood -114761.144297, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[86]: Time 28.343376 seconds, bootstrap likelihood -113715.301968, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[170]: Time 29.549860 seconds, bootstrap likelihood -114946.114931, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[254]: Time 28.565878 seconds, bootstrap likelihood -119237.969785, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[842]: Time 35.718520 seconds, bootstrap likelihood -116634.496900, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[422]: Time 32.837628 seconds, bootstrap likelihood -116342.914331, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[339]: Time 27.793672 seconds, bootstrap likelihood -118315.594750, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[759]: Time 28.233967 seconds, bootstrap likelihood -115413.714953, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[507]: Time 30.258687 seconds, bootstrap likelihood -114108.136696, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[87]: Time 25.911281 seconds, bootstrap likelihood -118287.871796, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[3]: Time 29.535637 seconds, bootstrap likelihood -116047.924894, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[591]: Time 27.677544 seconds, bootstrap likelihood -113260.542258, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[675]: Time 28.573909 seconds, bootstrap likelihood -112896.344505, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[171]: Time 25.662106 seconds, bootstrap likelihood -112864.912939, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[255]: Time 28.231562 seconds, bootstrap likelihood -112672.604489, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[926]: Time 42.195689 seconds, bootstrap likelihood -117441.837332, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[340]: Time 24.007925 seconds, bootstrap likelihood -115084.283463, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[88]: Time 23.165636 seconds, bootstrap likelihood -114442.322280, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[592]: Time 26.618813 seconds, bootstrap likelihood -113263.110469, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[508]: Time 27.809399 seconds, bootstrap likelihood -113493.390716, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[4]: Time 27.352559 seconds, bootstrap likelihood -117847.278921, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[676]: Time 27.869353 seconds, bootstrap likelihood -112854.021365, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[760]: Time 29.769570 seconds, bootstrap likelihood -120015.852432, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[172]: Time 27.332420 seconds, bootstrap likelihood -118367.670787, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[843]: Time 35.245907 seconds, bootstrap likelihood -115525.669109, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[423]: Time 36.069363 seconds, bootstrap likelihood -115996.712898, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[256]: Time 28.217853 seconds, bootstrap likelihood -117219.404397, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[927]: Time 35.492692 seconds, bootstrap likelihood -113795.069744, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[844]: Time 33.543099 seconds, bootstrap likelihood -115430.909126, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[424]: Time 33.928591 seconds, bootstrap likelihood -116060.116990, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[928]: Time 36.379928 seconds, bootstrap likelihood -115245.240720, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[5]: Time 26.249918 seconds, bootstrap likelihood -116260.259958, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[593]: Time 26.582464 seconds, bootstrap likelihood -118341.685367, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[89]: Time 26.607472 seconds, bootstrap likelihood -112122.863958, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[509]: Time 26.842357 seconds, bootstrap likelihood -115356.512954, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[341]: Time 27.680595 seconds, bootstrap likelihood -116719.616976, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[761]: Time 27.808020 seconds, bootstrap likelihood -113352.981691, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[173]: Time 28.689625 seconds, bootstrap likelihood -116829.174062, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[677]: Time 28.940249 seconds, bootstrap likelihood -117121.949221, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[257]: Time 31.475382 seconds, bootstrap likelihood -115679.488029, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[929]: Time 34.489395 seconds, bootstrap likelihood -113577.158335, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[425]: Time 36.025075 seconds, bootstrap likelihood -115073.929962, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[845]: Time 38.201296 seconds, bootstrap likelihood -112483.793534, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[6]: Time 25.512649 seconds, bootstrap likelihood -114614.042921, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[510]: Time 26.912794 seconds, bootstrap likelihood -116967.346337, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[90]: Time 27.582005 seconds, bootstrap likelihood -113328.290141, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[678]: Time 26.395145 seconds, bootstrap likelihood -115268.303700, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[174]: Time 27.801533 seconds, bootstrap likelihood -115387.853780, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[762]: Time 28.734527 seconds, bootstrap likelihood -114888.535868, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[342]: Time 30.483472 seconds, bootstrap likelihood -115013.233186, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[594]: Time 32.246391 seconds, bootstrap likelihood -114367.397068, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[258]: Time 28.304235 seconds, bootstrap likelihood -114780.840199, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[930]: Time 32.332039 seconds, bootstrap likelihood -114493.670984, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[426]: Time 31.320153 seconds, bootstrap likelihood -114362.458739, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[846]: Time 38.814089 seconds, bootstrap likelihood -117984.147190, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[7]: Time 26.931736 seconds, bootstrap likelihood -115007.256511, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[679]: Time 23.504230 seconds, bootstrap likelihood -117335.775911, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[511]: Time 26.454838 seconds, bootstrap likelihood -114718.333803, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[91]: Time 27.174383 seconds, bootstrap likelihood -115175.046051, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[763]: Time 27.256770 seconds, bootstrap likelihood -114969.674638, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[343]: Time 26.507840 seconds, bootstrap likelihood -115430.960941, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[175]: Time 29.697444 seconds, bootstrap likelihood -110464.556545, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[259]: Time 28.574982 seconds, bootstrap likelihood -114757.923521, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[595]: Time 31.954179 seconds, bootstrap likelihood -115165.943908, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[8]: Time 23.425752 seconds, bootstrap likelihood -116084.126245, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[427]: Time 35.139438 seconds, bootstrap likelihood -116487.295954, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[931]: Time 37.776334 seconds, bootstrap likelihood -114336.036806, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[680]: Time 26.905207 seconds, bootstrap likelihood -113502.413398, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[92]: Time 27.276342 seconds, bootstrap likelihood -112477.294610, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[847]: Time 32.951476 seconds, bootstrap likelihood -113621.566584, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[764]: Time 27.096430 seconds, bootstrap likelihood -112634.475425, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[512]: Time 30.717403 seconds, bootstrap likelihood -118151.760053, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[344]: Time 26.587419 seconds, bootstrap likelihood -111811.095488, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[176]: Time 30.840248 seconds, bootstrap likelihood -114373.752115, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[596]: Time 26.498898 seconds, bootstrap likelihood -116421.118141, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[260]: Time 30.919729 seconds, bootstrap likelihood -114554.772950, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[428]: Time 36.568931 seconds, bootstrap likelihood -113062.830227, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[932]: Time 34.585493 seconds, bootstrap likelihood -114652.918555, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[848]: Time 35.150944 seconds, bootstrap likelihood -113336.402902, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[177]: Time 24.435864 seconds, bootstrap likelihood -115648.636054, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[681]: Time 25.130025 seconds, bootstrap likelihood -115146.318082, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[9]: Time 25.560924 seconds, bootstrap likelihood -115089.111289, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[513]: Time 26.449690 seconds, bootstrap likelihood -112593.164157, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[93]: Time 27.182411 seconds, bootstrap likelihood -114188.673977, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[765]: Time 27.346057 seconds, bootstrap likelihood -114371.214095, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[345]: Time 27.370591 seconds, bootstrap likelihood -112202.007021, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[261]: Time 27.894512 seconds, bootstrap likelihood -113250.723875, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[597]: Time 28.616007 seconds, bootstrap likelihood -115833.065921, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[849]: Time 30.220158 seconds, bootstrap likelihood -115592.069522, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[933]: Time 34.653342 seconds, bootstrap likelihood -114338.620797, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[429]: Time 38.126071 seconds, bootstrap likelihood -117793.027819, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[682]: Time 28.631766 seconds, bootstrap likelihood -116223.384911, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[10]: Time 29.069141 seconds, bootstrap likelihood -115998.043493, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[262]: Time 28.216996 seconds, bootstrap likelihood -115927.802521, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[346]: Time 29.943464 seconds, bootstrap likelihood -117144.741933, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[598]: Time 29.220100 seconds, bootstrap likelihood -116483.502534, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[178]: Time 34.942170 seconds, bootstrap likelihood -116996.528255, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[514]: Time 33.107600 seconds, bootstrap likelihood -110905.555538, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[94]: Time 32.808206 seconds, bootstrap likelihood -115612.905674, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[766]: Time 33.705614 seconds, bootstrap likelihood -113627.221478, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[934]: Time 36.128562 seconds, bootstrap likelihood -115002.575527, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[850]: Time 42.311926 seconds, bootstrap likelihood -114366.768648, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[430]: Time 37.386387 seconds, bootstrap likelihood -114294.421092, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[11]: Time 25.282328 seconds, bootstrap likelihood -114445.829163, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[683]: Time 28.206703 seconds, bootstrap likelihood -114688.750316, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[179]: Time 25.440554 seconds, bootstrap likelihood -114345.320128, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[767]: Time 24.246760 seconds, bootstrap likelihood -114920.711933, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[347]: Time 28.728863 seconds, bootstrap likelihood -119982.492745, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[263]: Time 30.636011 seconds, bootstrap likelihood -115651.353388, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[599]: Time 29.383794 seconds, bootstrap likelihood -116104.629586, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[95]: Time 28.019571 seconds, bootstrap likelihood -117422.805696, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[515]: Time 30.494921 seconds, bootstrap likelihood -117538.118215, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[12]: Time 25.328860 seconds, bootstrap likelihood -116404.419723, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[935]: Time 35.172396 seconds, bootstrap likelihood -113807.739254, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[684]: Time 24.869053 seconds, bootstrap likelihood -116229.973575, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[851]: Time 35.653362 seconds, bootstrap likelihood -114097.851295, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[431]: Time 34.967255 seconds, bootstrap likelihood -117388.110912, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[348]: Time 25.420997 seconds, bootstrap likelihood -114954.025920, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[180]: Time 27.068131 seconds, bootstrap likelihood -115425.221974, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[768]: Time 27.114151 seconds, bootstrap likelihood -118716.000404, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[600]: Time 27.729034 seconds, bootstrap likelihood -119471.596056, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[516]: Time 25.035403 seconds, bootstrap likelihood -115538.566350, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[96]: Time 27.272697 seconds, bootstrap likelihood -114611.179214, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[264]: Time 30.102081 seconds, bootstrap likelihood -114670.152715, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[936]: Time 29.828633 seconds, bootstrap likelihood -117923.775377, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[432]: Time 34.071795 seconds, bootstrap likelihood -118423.323657, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[852]: Time 41.781708 seconds, bootstrap likelihood -115356.550655, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[769]: Time 26.043674 seconds, bootstrap likelihood -115238.427765, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[13]: Time 26.711834 seconds, bootstrap likelihood -111833.933438, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[97]: Time 27.007779 seconds, bootstrap likelihood -116401.089477, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[517]: Time 27.290670 seconds, bootstrap likelihood -114605.170181, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[685]: Time 28.878844 seconds, bootstrap likelihood -118133.605457, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[181]: Time 29.457986 seconds, bootstrap likelihood -112763.311500, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[601]: Time 29.900883 seconds, bootstrap likelihood -115832.513450, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[433]: Time 30.220844 seconds, bootstrap likelihood -115309.764783, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[937]: Time 31.325098 seconds, bootstrap likelihood -113016.010774, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[265]: Time 31.675877 seconds, bootstrap likelihood -116401.748910, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[349]: Time 31.699487 seconds, bootstrap likelihood -116113.189182, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[853]: Time 35.202007 seconds, bootstrap likelihood -118215.937828, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[770]: Time 26.445685 seconds, bootstrap likelihood -117477.335778, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[182]: Time 24.898620 seconds, bootstrap likelihood -117255.126408, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[14]: Time 27.841986 seconds, bootstrap likelihood -116048.018529, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[518]: Time 28.248829 seconds, bootstrap likelihood -114628.537177, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[686]: Time 26.670182 seconds, bootstrap likelihood -113430.030995, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[602]: Time 29.929299 seconds, bootstrap likelihood -116103.260414, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[98]: Time 32.969927 seconds, bootstrap likelihood -118851.520877, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[434]: Time 30.139696 seconds, bootstrap likelihood -111631.815844, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[266]: Time 30.348909 seconds, bootstrap likelihood -116418.029481, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[350]: Time 32.067016 seconds, bootstrap likelihood -116833.333489, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[854]: Time 35.156178 seconds, bootstrap likelihood -114018.965090, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[938]: Time 40.498947 seconds, bootstrap likelihood -114296.687810, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[771]: Time 28.767481 seconds, bootstrap likelihood -114845.744172, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[519]: Time 26.607466 seconds, bootstrap likelihood -115988.544218, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[15]: Time 28.110132 seconds, bootstrap likelihood -113486.487585, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[183]: Time 31.331638 seconds, bootstrap likelihood -112620.470704, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[687]: Time 30.651859 seconds, bootstrap likelihood -114233.452519, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[99]: Time 29.347560 seconds, bootstrap likelihood -115206.094703, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[603]: Time 29.809815 seconds, bootstrap likelihood -114980.100426, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[351]: Time 26.633439 seconds, bootstrap likelihood -116066.170332, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[267]: Time 30.633911 seconds, bootstrap likelihood -115858.380766, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[435]: Time 37.853900 seconds, bootstrap likelihood -113822.640929, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[939]: Time 33.710846 seconds, bootstrap likelihood -116563.050470, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[855]: Time 36.552954 seconds, bootstrap likelihood -115965.685255, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[772]: Time 27.913614 seconds, bootstrap likelihood -116401.284664, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[520]: Time 29.015607 seconds, bootstrap likelihood -114503.646869, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[688]: Time 24.957929 seconds, bootstrap likelihood -113246.267857, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[16]: Time 28.796061 seconds, bootstrap likelihood -113081.958424, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[100]: Time 23.816803 seconds, bootstrap likelihood -114698.205225, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[184]: Time 29.802096 seconds, bootstrap likelihood -114457.237073, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[604]: Time 29.400180 seconds, bootstrap likelihood -113689.890916, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[352]: Time 30.110491 seconds, bootstrap likelihood -118331.449548, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[268]: Time 29.827563 seconds, bootstrap likelihood -113700.058805, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[436]: Time 37.849322 seconds, bootstrap likelihood -117768.650312, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[856]: Time 33.005051 seconds, bootstrap likelihood -112307.105112, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[940]: Time 37.880586 seconds, bootstrap likelihood -115044.331096, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[353]: Time 25.858056 seconds, bootstrap likelihood -116309.508850, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[773]: Time 25.971601 seconds, bootstrap likelihood -113794.002712, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[521]: Time 26.997990 seconds, bootstrap likelihood -115706.727921, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[605]: Time 27.186683 seconds, bootstrap likelihood -114255.553470, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[185]: Time 27.462288 seconds, bootstrap likelihood -113688.391704, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[17]: Time 27.509765 seconds, bootstrap likelihood -119147.735584, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[269]: Time 29.408014 seconds, bootstrap likelihood -115539.852806, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[101]: Time 29.602588 seconds, bootstrap likelihood -113015.472964, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[689]: Time 29.976403 seconds, bootstrap likelihood -114336.607194, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[941]: Time 34.315938 seconds, bootstrap likelihood -113025.254837, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[857]: Time 37.733869 seconds, bootstrap likelihood -114199.874305, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[437]: Time 39.936819 seconds, bootstrap likelihood -113621.308796, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[18]: Time 23.234459 seconds, bootstrap likelihood -114165.460642, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[522]: Time 24.596725 seconds, bootstrap likelihood -115014.357442, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[186]: Time 25.248058 seconds, bootstrap likelihood -112384.077200, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[774]: Time 27.219092 seconds, bootstrap likelihood -115747.473380, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[354]: Time 28.953764 seconds, bootstrap likelihood -113408.193942, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[102]: Time 26.748317 seconds, bootstrap likelihood -113355.990523, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[606]: Time 29.844066 seconds, bootstrap likelihood -115672.239611, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[690]: Time 29.414506 seconds, bootstrap likelihood -115467.504463, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[270]: Time 32.547728 seconds, bootstrap likelihood -111259.263676, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[942]: Time 34.542001 seconds, bootstrap likelihood -115675.890651, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[858]: Time 32.963602 seconds, bootstrap likelihood -116863.039037, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[438]: Time 32.476033 seconds, bootstrap likelihood -117224.837151, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[523]: Time 26.029549 seconds, bootstrap likelihood -116937.130218, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[19]: Time 27.744923 seconds, bootstrap likelihood -114681.834059, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[103]: Time 23.679693 seconds, bootstrap likelihood -116166.848360, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[775]: Time 27.377267 seconds, bootstrap likelihood -111918.519164, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[355]: Time 27.016756 seconds, bootstrap likelihood -118342.396502, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[187]: Time 29.362933 seconds, bootstrap likelihood -112808.039361, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[691]: Time 27.338958 seconds, bootstrap likelihood -114214.460308, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[607]: Time 31.135376 seconds, bootstrap likelihood -114800.128855, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[271]: Time 29.887298 seconds, bootstrap likelihood -111319.955590, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[943]: Time 30.851832 seconds, bootstrap likelihood -112860.572556, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[859]: Time 34.216015 seconds, bootstrap likelihood -113040.974994, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[439]: Time 35.214443 seconds, bootstrap likelihood -114782.650642, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[776]: Time 28.099763 seconds, bootstrap likelihood -114108.556087, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[524]: Time 32.879679 seconds, bootstrap likelihood -116571.597551, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[20]: Time 32.329673 seconds, bootstrap likelihood -115599.253265, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[104]: Time 32.962405 seconds, bootstrap likelihood -114831.647123, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[188]: Time 31.114541 seconds, bootstrap likelihood -116581.217705, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[356]: Time 33.153293 seconds, bootstrap likelihood -112783.931078, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[692]: Time 30.519721 seconds, bootstrap likelihood -117034.181150, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[608]: Time 32.595995 seconds, bootstrap likelihood -114251.308766, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[272]: Time 29.189662 seconds, bootstrap likelihood -113228.609790, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[944]: Time 32.490860 seconds, bootstrap likelihood -113086.612797, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[860]: Time 39.218878 seconds, bootstrap likelihood -115751.022833, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[440]: Time 36.871611 seconds, bootstrap likelihood -116692.649763, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[609]: Time 26.225495 seconds, bootstrap likelihood -112763.214288, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[189]: Time 26.535389 seconds, bootstrap likelihood -116194.375914, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[21]: Time 26.627934 seconds, bootstrap likelihood -116952.070911, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[357]: Time 26.657508 seconds, bootstrap likelihood -115710.273915, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[105]: Time 26.884720 seconds, bootstrap likelihood -115101.566854, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[693]: Time 26.968771 seconds, bootstrap likelihood -113799.582314, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[273]: Time 28.915272 seconds, bootstrap likelihood -113610.583411, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[777]: Time 29.572240 seconds, bootstrap likelihood -111236.194137, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[525]: Time 31.316821 seconds, bootstrap likelihood -116509.038186, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[861]: Time 31.482250 seconds, bootstrap likelihood -117389.595962, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[441]: Time 32.405379 seconds, bootstrap likelihood -112523.507024, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[945]: Time 33.876966 seconds, bootstrap likelihood -115904.017118, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[22]: Time 24.840604 seconds, bootstrap likelihood -112364.460390, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[274]: Time 25.255401 seconds, bootstrap likelihood -114821.853310, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[358]: Time 27.618942 seconds, bootstrap likelihood -115056.550607, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[694]: Time 28.084554 seconds, bootstrap likelihood -115903.952855, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[106]: Time 28.517846 seconds, bootstrap likelihood -114767.110082, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[190]: Time 31.195836 seconds, bootstrap likelihood -115652.882525, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[526]: Time 26.827843 seconds, bootstrap likelihood -113090.361011, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[610]: Time 32.205947 seconds, bootstrap likelihood -116593.801531, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[778]: Time 30.135058 seconds, bootstrap likelihood -115669.197133, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[946]: Time 35.216499 seconds, bootstrap likelihood -113971.667971, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[442]: Time 37.427727 seconds, bootstrap likelihood -116230.377419, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[862]: Time 38.482510 seconds, bootstrap likelihood -119212.153819, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[695]: Time 22.623582 seconds, bootstrap likelihood -117509.984746, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[23]: Time 26.626656 seconds, bootstrap likelihood -112806.183259, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[107]: Time 25.001941 seconds, bootstrap likelihood -115525.011509, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[779]: Time 22.415868 seconds, bootstrap likelihood -114525.122989, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[359]: Time 28.407830 seconds, bootstrap likelihood -115015.598909, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[191]: Time 26.651805 seconds, bootstrap likelihood -112601.536638, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[275]: Time 31.125119 seconds, bootstrap likelihood -117040.346472, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[527]: Time 29.356807 seconds, bootstrap likelihood -114852.621878, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[611]: Time 33.485781 seconds, bootstrap likelihood -117468.858738, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[863]: Time 33.575829 seconds, bootstrap likelihood -116369.566177, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[24]: Time 26.978728 seconds, bootstrap likelihood -117301.784155, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[696]: Time 28.245058 seconds, bootstrap likelihood -114083.656780, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[780]: Time 24.320309 seconds, bootstrap likelihood -116553.654005, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[443]: Time 36.710080 seconds, bootstrap likelihood -115376.173162, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[108]: Time 27.334529 seconds, bootstrap likelihood -115204.205931, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[360]: Time 26.184514 seconds, bootstrap likelihood -115462.715673, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[947]: Time 39.977430 seconds, bootstrap likelihood -116373.737842, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[192]: Time 26.902245 seconds, bootstrap likelihood -113379.911105, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[528]: Time 25.623429 seconds, bootstrap likelihood -113815.397374, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[276]: Time 30.075166 seconds, bootstrap likelihood -115385.794898, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[612]: Time 25.925347 seconds, bootstrap likelihood -111972.443783, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[864]: Time 29.872569 seconds, bootstrap likelihood -113112.649991, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[948]: Time 30.443268 seconds, bootstrap likelihood -111610.294598, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Bootstrap[444]: Time 34.059069 seconds, bootstrap likelihood -113339.239346, best rearrangement setting 6
+
+
+Stopped Rapid BS search after 300 replicates with MRE-based Bootstopping criterion
+WRF Average of 100 random splits: 2.207798
+Overall Time for 300 Rapid Bootstraps 930.765331 seconds
+Average Time per Rapid Bootstrap 3.102551 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 223.288805 seconds
+
+Fast ML search on Process 2: Time 224.137415 seconds
+
+Fast ML search on Process 4: Time 245.228592 seconds
+
+Fast ML search on Process 9: Time 246.791363 seconds
+
+Fast ML search on Process 6: Time 255.123140 seconds
+
+Fast ML search on Process 3: Time 291.280236 seconds
+
+Fast ML search on Process 1: Time 311.908491 seconds
+
+Fast ML search on Process 8: Time 320.542800 seconds
+
+Fast ML search on Process 11: Time 333.328183 seconds
+
+Fast ML search on Process 10: Time 336.825873 seconds
+
+Fast ML search on Process 7: Time 345.080570 seconds
+
+Fast ML search on Process 5: Time 350.911906 seconds
+
+Slow ML Search 168 Likelihood: -118760.652999
+Slow ML search on Process 2: Time 190.136200 seconds
+Slow ML Search 0 Likelihood: -118760.354256
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 243.973150 seconds
+Slow ML Search 84 Likelihood: -118766.400517
+Slow ML search on Process 1: Time 179.316124 seconds
+Slow ML Search 252 Likelihood: -118760.384799
+Slow ML search on Process 3: Time 216.900532 seconds
+Slow ML Search 756 Likelihood: -118760.155426
+Slow ML search on Process 9: Time 267.169516 seconds
+Slow ML Search 336 Likelihood: -118760.153117
+Slow ML search on Process 4: Time 271.327454 seconds
+Slow ML Search 504 Likelihood: -118760.155434
+Slow ML search on Process 6: Time 298.914395 seconds
+Slow ML Search 588 Likelihood: -118760.153109
+Slow ML search on Process 7: Time 265.368337 seconds
+Slow ML Search 672 Likelihood: -118760.653003
+Slow ML search on Process 8: Time 301.467683 seconds
+Slow ML Search 840 Likelihood: -118760.650684
+Slow ML search on Process 10: Time 343.961812 seconds
+Slow ML Search 420 Likelihood: -118760.851492
+Slow ML search on Process 5: Time 344.593020 seconds
+Slow ML Search 924 Likelihood: -118760.851488
+Slow ML search on Process 11: Time 404.081316 seconds
+Thorough ML search on Process 2: Time 475.977602 seconds
+Thorough ML search on Process 0: Time 474.754824 seconds
+Thorough ML search on Process 1: Time 492.853107 seconds
+Thorough ML search on Process 3: Time 476.643158 seconds
+Thorough ML search on Process 4: Time 475.317991 seconds
+Thorough ML search on Process 9: Time 485.226750 seconds
+Thorough ML search on Process 6: Time 488.618579 seconds
+Thorough ML search on Process 7: Time 484.199083 seconds
+Thorough ML search on Process 8: Time 479.912243 seconds
+Thorough ML search on Process 5: Time 468.673588 seconds
+Thorough ML search on Process 10: Time 485.212906 seconds
+Thorough ML search on Process 11: Time 482.302950 seconds
+
+Final ML Optimization Likelihood: -118760.063590
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: AA
+alpha: 0.985343
+Tree-Length: 18.585117
+rate A <-> R: 0.885232
+rate A <-> N: 0.583975
+rate A <-> D: 0.653480
+rate A <-> C: 1.756525
+rate A <-> Q: 1.443370
+rate A <-> E: 1.408772
+rate A <-> G: 2.353130
+rate A <-> H: 0.861712
+rate A <-> I: 0.728959
+rate A <-> L: 0.962502
+rate A <-> K: 1.558261
+rate A <-> M: 1.508400
+rate A <-> F: 0.593087
+rate A <-> P: 1.411572
+rate A <-> S: 5.203533
+rate A <-> T: 2.080379
+rate A <-> W: 0.560453
+rate A <-> Y: 0.864077
+rate A <-> V: 2.632118
+rate R <-> N: 1.560962
+rate R <-> D: 0.602712
+rate R <-> C: 0.274099
+rate R <-> Q: 3.634374
+rate R <-> E: 1.636911
+rate R <-> G: 0.503815
+rate R <-> H: 1.751888
+rate R <-> I: 0.279164
+rate R <-> L: 0.749186
+rate R <-> K: 6.510130
+rate R <-> M: 1.183484
+rate R <-> F: 0.447127
+rate R <-> P: 0.539151
+rate R <-> S: 1.350824
+rate R <-> T: 1.100437
+rate R <-> W: 0.512982
+rate R <-> Y: 0.866857
+rate R <-> V: 0.527426
+rate N <-> D: 3.825988
+rate N <-> C: 0.478064
+rate N <-> Q: 2.212767
+rate N <-> E: 1.492436
+rate N <-> G: 1.631254
+rate N <-> H: 2.904894
+rate N <-> I: 0.340499
+rate N <-> L: 0.254923
+rate N <-> K: 1.916708
+rate N <-> M: 0.780142
+rate N <-> F: 0.426935
+rate N <-> P: 0.595400
+rate N <-> S: 3.493934
+rate N <-> T: 2.283699
+rate N <-> W: 0.230373
+rate N <-> Y: 0.647537
+rate N <-> V: 0.376401
+rate D <-> C: 0.289751
+rate D <-> Q: 1.432831
+rate D <-> E: 4.525623
+rate D <-> G: 0.960646
+rate D <-> H: 0.936186
+rate D <-> I: 0.503566
+rate D <-> L: 0.262435
+rate D <-> K: 1.242141
+rate D <-> M: 0.267837
+rate D <-> F: 0.338951
+rate D <-> P: 0.879021
+rate D <-> S: 1.904216
+rate D <-> T: 1.123924
+rate D <-> W: 0.174865
+rate D <-> Y: 0.314518
+rate D <-> V: 0.310556
+rate C <-> Q: 0.396785
+rate C <-> E: 0.169335
+rate C <-> G: 0.503142
+rate C <-> H: 0.425968
+rate C <-> I: 0.932277
+rate C <-> L: 1.000792
+rate C <-> K: 0.342979
+rate C <-> M: 0.923609
+rate C <-> F: 0.530974
+rate C <-> P: 0.428315
+rate C <-> S: 1.440341
+rate C <-> T: 1.347273
+rate C <-> W: 0.634835
+rate C <-> Y: 0.565744
+rate C <-> V: 1.343087
+rate Q <-> E: 6.651860
+rate Q <-> G: 0.733708
+rate Q <-> H: 2.929967
+rate Q <-> I: 0.284176
+rate Q <-> L: 0.698687
+rate Q <-> K: 4.746576
+rate Q <-> M: 3.001617
+rate Q <-> F: 0.173676
+rate Q <-> P: 1.032949
+rate Q <-> S: 2.327849
+rate Q <-> T: 1.536941
+rate Q <-> W: 0.912739
+rate Q <-> Y: 1.153764
+rate Q <-> V: 0.638590
+rate E <-> G: 0.509610
+rate E <-> H: 1.957318
+rate E <-> I: 0.224797
+rate E <-> L: 0.448307
+rate E <-> K: 3.371609
+rate E <-> M: 0.668222
+rate E <-> F: 0.350595
+rate E <-> P: 1.114752
+rate E <-> S: 2.129364
+rate E <-> T: 1.288640
+rate E <-> W: 0.490428
+rate E <-> Y: 0.717915
+rate E <-> V: 0.630731
+rate G <-> H: 0.649506
+rate G <-> I: 0.227743
+rate G <-> L: 0.261941
+rate G <-> K: 0.904785
+rate G <-> M: 0.552749
+rate G <-> F: 0.442942
+rate G <-> P: 0.606468
+rate G <-> S: 1.815875
+rate G <-> T: 0.771714
+rate G <-> W: 0.611608
+rate G <-> Y: 0.370623
+rate G <-> V: 0.304795
+rate H <-> I: 0.304046
+rate H <-> L: 0.418767
+rate H <-> K: 1.230181
+rate H <-> M: 1.184228
+rate H <-> F: 0.859658
+rate H <-> P: 0.634044
+rate H <-> S: 1.343902
+rate H <-> T: 0.704305
+rate H <-> W: 0.362433
+rate H <-> Y: 5.075837
+rate H <-> V: 0.242493
+rate I <-> L: 4.681231
+rate I <-> K: 0.488693
+rate I <-> M: 4.048199
+rate I <-> F: 1.825540
+rate I <-> P: 0.467232
+rate I <-> S: 0.430163
+rate I <-> T: 1.418568
+rate I <-> W: 0.411444
+rate I <-> Y: 0.811634
+rate I <-> V: 10.000000
+rate L <-> K: 0.536067
+rate L <-> M: 7.255385
+rate L <-> F: 2.484215
+rate L <-> P: 0.450629
+rate L <-> S: 0.424658
+rate L <-> T: 1.101152
+rate L <-> W: 0.831915
+rate L <-> Y: 0.976012
+rate L <-> V: 2.684611
+rate K <-> M: 1.291003
+rate K <-> F: 0.321138
+rate K <-> P: 1.260110
+rate K <-> S: 2.108036
+rate K <-> T: 1.568696
+rate K <-> W: 0.399723
+rate K <-> Y: 0.863820
+rate K <-> V: 0.599312
+rate M <-> F: 2.134131
+rate M <-> P: 0.546358
+rate M <-> S: 1.105319
+rate M <-> T: 1.790877
+rate M <-> W: 1.068477
+rate M <-> Y: 1.144972
+rate M <-> V: 3.099014
+rate F <-> P: 0.281042
+rate F <-> S: 0.649709
+rate F <-> T: 0.587362
+rate F <-> W: 2.495627
+rate F <-> Y: 8.117650
+rate F <-> V: 1.008344
+rate P <-> S: 1.406583
+rate P <-> T: 1.209662
+rate P <-> W: 0.303440
+rate P <-> Y: 0.444433
+rate P <-> V: 0.597832
+rate S <-> T: 6.197853
+rate S <-> W: 0.466715
+rate S <-> Y: 0.958574
+rate S <-> V: 0.676054
+rate T <-> W: 0.617346
+rate T <-> Y: 0.963698
+rate T <-> V: 2.710680
+rate W <-> Y: 4.877884
+rate W <-> V: 0.320637
+rate Y <-> V: 1.203103
+
+freq pi(A): 0.090530
+freq pi(R): 0.068635
+freq pi(N): 0.036434
+freq pi(D): 0.048026
+freq pi(C): 0.017887
+freq pi(Q): 0.038778
+freq pi(E): 0.069299
+freq pi(G): 0.053332
+freq pi(H): 0.031325
+freq pi(I): 0.048257
+freq pi(L): 0.125232
+freq pi(K): 0.041660
+freq pi(M): 0.026447
+freq pi(F): 0.033109
+freq pi(P): 0.041321
+freq pi(S): 0.071234
+freq pi(T): 0.043506
+freq pi(W): 0.016578
+freq pi(Y): 0.026743
+freq pi(V): 0.071667
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+
+ML search took 1220.194938 secs or 0.338943 hours
+
+Combined Bootstrap and ML search took 2150.954222 secs or 0.597487 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bestTree.result
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bestTree.result
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Brara.D01241"
+from the list to root the tree!
+Program execution info written to /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_info.result
+All 300 bootstrapped trees written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bootstrap.result
+
+Best-scoring ML tree written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bestTree.result
+
+Best-scoring ML tree with support values written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bipartitions.result
+
+Best-scoring ML tree with support values as branch labels written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-CB5F19C5083147C881A97AAB40001BCB/RAxML_bipartitionsBranchLabels.result
+
+Overall execution time for full ML analysis: 2151.036832 secs or 0.597510 hours or 0.024896 days
+

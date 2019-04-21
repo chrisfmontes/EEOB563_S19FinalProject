@@ -1,0 +1,2801 @@
+
+
+IMPORTANT WARNING: Sequences Bo00828s070.1_Bole/1-305 and CDX92201_Bnap/1-305 are exactly identical
+
+
+IMPORTANT WARNING: Sequences KOM53659_Vang/1-316 and Vradi10g09920.1_Vrad/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences ORUFI03G30910.3_Oruf/1-296 and OBART03G29700.1_Obar/1-296 are exactly identical
+
+
+IMPORTANT WARNING: Sequences ORUFI03G30910.3_Oruf/1-296 and OPUNC03G27060.1_Opun/1-296 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BGIOSGA013339-PA_Oind/1-316 and Os03t0681700-01_Osat/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences BGIOSGA013339-PA_Oind/1-316 and ORGLA03G0274300.1_Ogla/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences TraesCS4A02G288600.1_Taes/1-316 and TRIDC4AG044470.1_Tdic/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences TraesCS4A02G288600.1_Taes/1-316 and AET4Gv20040000.3_Atau/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences TraesCS4A02G288600.1_Taes/1-316 and TraesCS4B02G026200.1_Taes/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences TraesCS4A02G288600.1_Taes/1-316 and TRIDC4BG004500.3_Tdic/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PUZ45393_Phha/1-316 and PAN43248_Phfi/1-316 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PUZ37594_Phha/1-316 and PAN45687_Phfi/1-316 are exactly identical
+
+IMPORTANT WARNING
+Found 12 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file infile.reduced
+
+
+This is RAxML version 8.2.10 released by Alexandros Stamatakis on March 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 528 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 43.97%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 1000 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 528
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: BLOSUM62
+Using empirical base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-HYBRID -T 4 -s infile -N autoMRE -n result -f a -p 12345 -x 12345 -m PROTCATBLOSUM62F -o C10H11.8a_Cele/1-382,ENSP00000457870_Hsap/1-326 
+
+
+
+Time for BS model parameter optimization on Process 2: 0.100637 seconds
+
+Time for BS model parameter optimization on Process 1: 0.132045 seconds
+
+Time for BS model parameter optimization on Process 4: 0.114867 seconds
+
+Time for BS model parameter optimization on Process 3: 0.113084 seconds
+
+Time for BS model parameter optimization on Process 0: 0.130613 seconds
+
+Time for BS model parameter optimization on Process 5: 0.116400 seconds
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[334]: Time 2.623728 seconds, bootstrap likelihood -12899.661652, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[668]: Time 2.766908 seconds, bootstrap likelihood -12355.511248, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[501]: Time 2.822778 seconds, bootstrap likelihood -13114.360280, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[835]: Time 2.973934 seconds, bootstrap likelihood -13341.144485, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[167]: Time 3.220015 seconds, bootstrap likelihood -14310.772529, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[0]: Time 3.142803 seconds, bootstrap likelihood -13544.872721, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[335]: Time 2.016090 seconds, bootstrap likelihood -12806.301520, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[836]: Time 1.987185 seconds, bootstrap likelihood -12596.637541, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[669]: Time 2.269453 seconds, bootstrap likelihood -12850.137308, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[502]: Time 2.434551 seconds, bootstrap likelihood -13042.457800, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[168]: Time 2.372597 seconds, bootstrap likelihood -13337.445443, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[1]: Time 2.934146 seconds, bootstrap likelihood -13588.874133, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[336]: Time 2.028564 seconds, bootstrap likelihood -13091.943323, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[670]: Time 2.100207 seconds, bootstrap likelihood -13509.605056, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[837]: Time 2.348323 seconds, bootstrap likelihood -12929.052877, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[503]: Time 2.455387 seconds, bootstrap likelihood -12966.473604, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[169]: Time 2.507713 seconds, bootstrap likelihood -13631.866643, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[337]: Time 1.985927 seconds, bootstrap likelihood -12636.898463, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[2]: Time 2.484378 seconds, bootstrap likelihood -13624.889366, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[671]: Time 2.319429 seconds, bootstrap likelihood -12815.006382, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[838]: Time 2.644986 seconds, bootstrap likelihood -12281.996462, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[504]: Time 2.446997 seconds, bootstrap likelihood -13549.002101, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[170]: Time 2.574876 seconds, bootstrap likelihood -12936.491216, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[338]: Time 2.197927 seconds, bootstrap likelihood -13819.103169, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[3]: Time 2.651867 seconds, bootstrap likelihood -13583.088435, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[672]: Time 2.386541 seconds, bootstrap likelihood -13380.922346, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[839]: Time 2.440833 seconds, bootstrap likelihood -13788.586890, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[505]: Time 2.362481 seconds, bootstrap likelihood -13665.028383, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[339]: Time 2.014622 seconds, bootstrap likelihood -12840.530045, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[171]: Time 2.749705 seconds, bootstrap likelihood -12690.686809, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[4]: Time 2.602910 seconds, bootstrap likelihood -13339.266517, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[673]: Time 2.155055 seconds, bootstrap likelihood -13352.832734, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[340]: Time 2.020923 seconds, bootstrap likelihood -14455.728732, best rearrangement setting 14
+Bootstrap[840]: Time 2.493850 seconds, bootstrap likelihood -13054.067372, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[506]: Time 2.653233 seconds, bootstrap likelihood -13445.121881, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[674]: Time 2.450716 seconds, bootstrap likelihood -13448.511007, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[5]: Time 2.538974 seconds, bootstrap likelihood -12602.923201, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[172]: Time 3.265183 seconds, bootstrap likelihood -13020.862966, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[341]: Time 2.220517 seconds, bootstrap likelihood -13892.387285, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[841]: Time 2.302127 seconds, bootstrap likelihood -13018.541702, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[507]: Time 2.697581 seconds, bootstrap likelihood -13496.322398, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[675]: Time 2.073944 seconds, bootstrap likelihood -13467.963039, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[6]: Time 2.713336 seconds, bootstrap likelihood -12970.356646, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[842]: Time 2.221839 seconds, bootstrap likelihood -12721.250167, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[173]: Time 2.747445 seconds, bootstrap likelihood -13976.727179, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[342]: Time 2.525718 seconds, bootstrap likelihood -13632.479611, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[508]: Time 2.485696 seconds, bootstrap likelihood -13245.117471, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[676]: Time 2.411659 seconds, bootstrap likelihood -13250.105330, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[843]: Time 2.154308 seconds, bootstrap likelihood -13460.647519, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[7]: Time 2.704124 seconds, bootstrap likelihood -13313.497515, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[174]: Time 2.808973 seconds, bootstrap likelihood -12800.669765, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[509]: Time 2.393830 seconds, bootstrap likelihood -13974.685352, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[8]: Time 2.093885 seconds, bootstrap likelihood -13028.848618, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[175]: Time 2.504527 seconds, bootstrap likelihood -12712.771136, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[844]: Time 2.056648 seconds, bootstrap likelihood -13426.498901, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[343]: Time 2.158148 seconds, bootstrap likelihood -12964.241825, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[677]: Time 2.192953 seconds, bootstrap likelihood -13196.193499, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[9]: Time 2.304298 seconds, bootstrap likelihood -13875.567803, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[510]: Time 2.441493 seconds, bootstrap likelihood -13063.618424, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[176]: Time 2.478752 seconds, bootstrap likelihood -13785.375604, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[678]: Time 2.451891 seconds, bootstrap likelihood -13953.090582, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[845]: Time 2.619851 seconds, bootstrap likelihood -12884.729190, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[344]: Time 2.709684 seconds, bootstrap likelihood -13419.027078, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[10]: Time 2.727603 seconds, bootstrap likelihood -13437.125238, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[511]: Time 2.753915 seconds, bootstrap likelihood -13516.600898, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[177]: Time 2.798358 seconds, bootstrap likelihood -13878.968045, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[846]: Time 2.273528 seconds, bootstrap likelihood -13383.794955, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[345]: Time 2.104859 seconds, bootstrap likelihood -12714.925344, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[679]: Time 2.516482 seconds, bootstrap likelihood -12615.396917, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[11]: Time 2.438868 seconds, bootstrap likelihood -13308.922341, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[512]: Time 2.740340 seconds, bootstrap likelihood -13571.165975, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[178]: Time 2.889508 seconds, bootstrap likelihood -11682.565422, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[346]: Time 1.859843 seconds, bootstrap likelihood -13127.091512, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[680]: Time 2.078397 seconds, bootstrap likelihood -13186.571504, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[847]: Time 2.304914 seconds, bootstrap likelihood -13672.170399, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[12]: Time 2.329189 seconds, bootstrap likelihood -13231.179512, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[513]: Time 2.865765 seconds, bootstrap likelihood -11994.342762, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[347]: Time 2.130378 seconds, bootstrap likelihood -13280.323477, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[681]: Time 1.921050 seconds, bootstrap likelihood -13367.478415, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[848]: Time 2.237647 seconds, bootstrap likelihood -13290.863160, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[179]: Time 3.552390 seconds, bootstrap likelihood -13154.103392, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[13]: Time 2.615704 seconds, bootstrap likelihood -13556.903500, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[348]: Time 2.188564 seconds, bootstrap likelihood -13373.111665, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[514]: Time 2.711875 seconds, bootstrap likelihood -13114.790857, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[682]: Time 2.548901 seconds, bootstrap likelihood -13288.737852, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[849]: Time 2.660689 seconds, bootstrap likelihood -12607.564820, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[180]: Time 2.645166 seconds, bootstrap likelihood -13209.454018, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[349]: Time 2.160853 seconds, bootstrap likelihood -13289.296477, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[14]: Time 3.020007 seconds, bootstrap likelihood -13363.832139, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[515]: Time 2.647863 seconds, bootstrap likelihood -13946.653317, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[683]: Time 2.493179 seconds, bootstrap likelihood -12751.711760, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[850]: Time 2.417786 seconds, bootstrap likelihood -13256.617393, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[181]: Time 2.611736 seconds, bootstrap likelihood -13987.741087, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[350]: Time 2.256209 seconds, bootstrap likelihood -13345.459567, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[15]: Time 3.004595 seconds, bootstrap likelihood -13952.290520, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[516]: Time 2.403027 seconds, bootstrap likelihood -13982.318704, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[684]: Time 2.538801 seconds, bootstrap likelihood -13167.116450, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[851]: Time 2.632856 seconds, bootstrap likelihood -13368.643174, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[182]: Time 2.769051 seconds, bootstrap likelihood -13859.734905, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[16]: Time 2.102093 seconds, bootstrap likelihood -13359.389351, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[517]: Time 2.429907 seconds, bootstrap likelihood -13173.301424, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[183]: Time 2.700769 seconds, bootstrap likelihood -13288.649800, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[351]: Time 2.287611 seconds, bootstrap likelihood -13644.822907, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[852]: Time 2.385253 seconds, bootstrap likelihood -13822.811411, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[685]: Time 2.461920 seconds, bootstrap likelihood -13086.609500, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[184]: Time 2.573323 seconds, bootstrap likelihood -13375.398981, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[17]: Time 2.646173 seconds, bootstrap likelihood -12470.765098, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[518]: Time 3.134522 seconds, bootstrap likelihood -13144.259906, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[352]: Time 2.077501 seconds, bootstrap likelihood -13822.836128, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[853]: Time 2.323318 seconds, bootstrap likelihood -13140.851617, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[185]: Time 2.142473 seconds, bootstrap likelihood -13999.018734, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[18]: Time 2.249093 seconds, bootstrap likelihood -14520.171687, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[686]: Time 2.664654 seconds, bootstrap likelihood -12737.881106, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[519]: Time 2.954997 seconds, bootstrap likelihood -13684.451158, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[353]: Time 2.485931 seconds, bootstrap likelihood -13648.439986, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[186]: Time 2.468344 seconds, bootstrap likelihood -12983.790724, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[854]: Time 2.487233 seconds, bootstrap likelihood -13051.511375, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[687]: Time 2.369211 seconds, bootstrap likelihood -13494.663580, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[19]: Time 3.005128 seconds, bootstrap likelihood -13317.027165, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[520]: Time 2.451151 seconds, bootstrap likelihood -12636.789269, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[354]: Time 2.655149 seconds, bootstrap likelihood -13843.822477, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[855]: Time 2.506870 seconds, bootstrap likelihood -13316.443621, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[688]: Time 2.461096 seconds, bootstrap likelihood -12114.825135, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[187]: Time 2.941720 seconds, bootstrap likelihood -13632.426548, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[20]: Time 2.992289 seconds, bootstrap likelihood -12717.444267, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[521]: Time 2.640012 seconds, bootstrap likelihood -13279.420755, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[355]: Time 2.358348 seconds, bootstrap likelihood -13713.331176, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[856]: Time 2.492489 seconds, bootstrap likelihood -13630.053336, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[689]: Time 2.379278 seconds, bootstrap likelihood -13657.807157, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[188]: Time 2.642662 seconds, bootstrap likelihood -13337.493453, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[21]: Time 2.158314 seconds, bootstrap likelihood -13401.051940, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[522]: Time 2.838838 seconds, bootstrap likelihood -12445.955182, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[857]: Time 2.104976 seconds, bootstrap likelihood -13271.637175, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[356]: Time 2.468444 seconds, bootstrap likelihood -13790.702537, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[690]: Time 2.438528 seconds, bootstrap likelihood -13190.423442, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[189]: Time 2.493073 seconds, bootstrap likelihood -13821.017712, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[22]: Time 2.362275 seconds, bootstrap likelihood -13414.785258, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[858]: Time 2.233441 seconds, bootstrap likelihood -13218.882966, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[523]: Time 2.581186 seconds, bootstrap likelihood -12666.151333, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[357]: Time 2.479152 seconds, bootstrap likelihood -12771.935945, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[691]: Time 2.300119 seconds, bootstrap likelihood -13976.594916, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[23]: Time 2.182668 seconds, bootstrap likelihood -13576.237563, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[190]: Time 2.942569 seconds, bootstrap likelihood -14032.447674, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[859]: Time 2.286822 seconds, bootstrap likelihood -13649.823784, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[524]: Time 2.356440 seconds, bootstrap likelihood -12892.137876, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[358]: Time 2.531397 seconds, bootstrap likelihood -13660.638049, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[692]: Time 2.340728 seconds, bootstrap likelihood -12627.303338, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[24]: Time 2.593713 seconds, bootstrap likelihood -13416.798139, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[191]: Time 2.609661 seconds, bootstrap likelihood -13454.054197, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[525]: Time 2.626086 seconds, bootstrap likelihood -12892.136489, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[860]: Time 1.996379 seconds, bootstrap likelihood -12399.286767, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[359]: Time 2.290699 seconds, bootstrap likelihood -12833.344020, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[693]: Time 2.324508 seconds, bootstrap likelihood -14243.871424, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[25]: Time 2.395311 seconds, bootstrap likelihood -12836.479572, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[526]: Time 2.515534 seconds, bootstrap likelihood -13883.076470, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[192]: Time 2.931312 seconds, bootstrap likelihood -13625.260975, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[861]: Time 2.404794 seconds, bootstrap likelihood -13404.564803, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[360]: Time 2.243345 seconds, bootstrap likelihood -13270.759481, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[694]: Time 2.441311 seconds, bootstrap likelihood -12632.600110, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[26]: Time 2.800111 seconds, bootstrap likelihood -13586.607429, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[527]: Time 3.015169 seconds, bootstrap likelihood -13067.842962, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[193]: Time 2.799442 seconds, bootstrap likelihood -14321.660023, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[862]: Time 2.197596 seconds, bootstrap likelihood -13361.550556, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[361]: Time 2.166547 seconds, bootstrap likelihood -13002.085284, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[695]: Time 2.615571 seconds, bootstrap likelihood -13473.803154, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[27]: Time 2.245365 seconds, bootstrap likelihood -13485.728737, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[528]: Time 2.613687 seconds, bootstrap likelihood -13054.439140, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[194]: Time 2.629406 seconds, bootstrap likelihood -13353.773968, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[863]: Time 2.416131 seconds, bootstrap likelihood -13550.843293, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[362]: Time 2.352871 seconds, bootstrap likelihood -13098.855446, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[696]: Time 2.233695 seconds, bootstrap likelihood -13300.497498, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[28]: Time 2.580544 seconds, bootstrap likelihood -13686.831287, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[529]: Time 2.277672 seconds, bootstrap likelihood -13380.829469, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[864]: Time 2.109446 seconds, bootstrap likelihood -12814.391179, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[195]: Time 2.945619 seconds, bootstrap likelihood -13189.097739, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[363]: Time 2.340854 seconds, bootstrap likelihood -13590.726591, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[697]: Time 1.978289 seconds, bootstrap likelihood -13933.568352, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[29]: Time 2.519397 seconds, bootstrap likelihood -12841.895424, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[530]: Time 3.010516 seconds, bootstrap likelihood -12748.658009, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[865]: Time 2.413874 seconds, bootstrap likelihood -13342.967577, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[196]: Time 2.517702 seconds, bootstrap likelihood -13055.164008, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[364]: Time 2.573861 seconds, bootstrap likelihood -14173.595667, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[698]: Time 2.461558 seconds, bootstrap likelihood -13205.844142, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[30]: Time 2.698574 seconds, bootstrap likelihood -13352.866725, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[866]: Time 2.543791 seconds, bootstrap likelihood -13701.261257, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[699]: Time 2.391385 seconds, bootstrap likelihood -12199.470541, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[531]: Time 3.022808 seconds, bootstrap likelihood -13037.786301, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[365]: Time 2.699490 seconds, bootstrap likelihood -12972.040393, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[197]: Time 2.971093 seconds, bootstrap likelihood -13458.524544, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[31]: Time 2.335973 seconds, bootstrap likelihood -13383.123275, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[867]: Time 2.255926 seconds, bootstrap likelihood -13046.187758, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[366]: Time 1.995382 seconds, bootstrap likelihood -13663.476099, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[532]: Time 2.493615 seconds, bootstrap likelihood -12468.148902, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[700]: Time 2.527100 seconds, bootstrap likelihood -13439.931203, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[198]: Time 2.695959 seconds, bootstrap likelihood -13370.865420, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[32]: Time 2.419151 seconds, bootstrap likelihood -13620.165242, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[367]: Time 2.255445 seconds, bootstrap likelihood -12970.884778, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[868]: Time 2.657578 seconds, bootstrap likelihood -13100.847640, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[701]: Time 2.407575 seconds, bootstrap likelihood -13650.182720, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[533]: Time 2.525748 seconds, bootstrap likelihood -12892.661775, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[199]: Time 2.515452 seconds, bootstrap likelihood -12629.954287, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[33]: Time 2.697862 seconds, bootstrap likelihood -13601.088750, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[534]: Time 2.484779 seconds, bootstrap likelihood -12791.117254, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[200]: Time 2.458444 seconds, bootstrap likelihood -12769.090418, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[702]: Time 2.140068 seconds, bootstrap likelihood -13062.874327, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[368]: Time 2.359656 seconds, bootstrap likelihood -13434.643063, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[869]: Time 2.398306 seconds, bootstrap likelihood -13530.397577, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[201]: Time 2.668352 seconds, bootstrap likelihood -13579.494932, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[535]: Time 2.845017 seconds, bootstrap likelihood -13804.741972, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[34]: Time 2.912402 seconds, bootstrap likelihood -13140.824420, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[703]: Time 2.157242 seconds, bootstrap likelihood -13083.765380, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[369]: Time 2.097161 seconds, bootstrap likelihood -13237.964017, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[870]: Time 2.303259 seconds, bootstrap likelihood -13249.049550, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[202]: Time 2.571586 seconds, bootstrap likelihood -13541.752182, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[35]: Time 2.476994 seconds, bootstrap likelihood -13568.770912, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[536]: Time 2.610805 seconds, bootstrap likelihood -14280.243828, best rearrangement setting 13
+Bootstrap[370]: Time 2.097594 seconds, bootstrap likelihood -13607.817274, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[871]: Time 2.101563 seconds, bootstrap likelihood -13847.057012, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[704]: Time 2.633570 seconds, bootstrap likelihood -12953.490855, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[36]: Time 2.390539 seconds, bootstrap likelihood -13418.799306, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[203]: Time 2.640422 seconds, bootstrap likelihood -13499.824374, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[537]: Time 2.632503 seconds, bootstrap likelihood -13144.567311, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[371]: Time 2.179144 seconds, bootstrap likelihood -13985.188900, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[872]: Time 2.322559 seconds, bootstrap likelihood -12656.234781, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[705]: Time 2.265576 seconds, bootstrap likelihood -13253.140205, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[37]: Time 2.629779 seconds, bootstrap likelihood -13704.059058, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[204]: Time 2.538356 seconds, bootstrap likelihood -14106.647290, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[538]: Time 2.641968 seconds, bootstrap likelihood -13513.746779, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[372]: Time 2.580954 seconds, bootstrap likelihood -12322.098570, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[706]: Time 2.452571 seconds, bootstrap likelihood -12936.175131, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[873]: Time 2.566977 seconds, bootstrap likelihood -13770.578671, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[38]: Time 2.739794 seconds, bootstrap likelihood -13153.695137, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[539]: Time 2.448054 seconds, bootstrap likelihood -12960.550856, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[205]: Time 2.919743 seconds, bootstrap likelihood -12364.720954, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[707]: Time 2.162740 seconds, bootstrap likelihood -13692.043867, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[373]: Time 2.660708 seconds, bootstrap likelihood -12557.762775, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[874]: Time 2.572611 seconds, bootstrap likelihood -14146.946909, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[39]: Time 2.292976 seconds, bootstrap likelihood -13504.350167, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[540]: Time 2.802602 seconds, bootstrap likelihood -12868.923506, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[206]: Time 2.762495 seconds, bootstrap likelihood -12819.005399, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[708]: Time 2.554074 seconds, bootstrap likelihood -14442.489060, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[374]: Time 2.499441 seconds, bootstrap likelihood -14017.091551, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[875]: Time 2.331044 seconds, bootstrap likelihood -14446.739523, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[40]: Time 2.744361 seconds, bootstrap likelihood -13271.141346, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[709]: Time 2.158351 seconds, bootstrap likelihood -13948.533988, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[375]: Time 2.129442 seconds, bootstrap likelihood -13766.575121, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[541]: Time 2.836399 seconds, bootstrap likelihood -12918.431032, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[876]: Time 2.228558 seconds, bootstrap likelihood -13076.552181, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[207]: Time 2.828621 seconds, bootstrap likelihood -13763.064101, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[41]: Time 2.651493 seconds, bootstrap likelihood -13792.400966, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[542]: Time 2.339318 seconds, bootstrap likelihood -13629.907713, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[208]: Time 2.662860 seconds, bootstrap likelihood -13339.335300, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[376]: Time 1.997583 seconds, bootstrap likelihood -14015.397375, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[877]: Time 2.191735 seconds, bootstrap likelihood -13113.022028, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[710]: Time 2.299170 seconds, bootstrap likelihood -13635.339697, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[543]: Time 2.514270 seconds, bootstrap likelihood -13021.532964, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[42]: Time 2.520423 seconds, bootstrap likelihood -13754.883653, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[209]: Time 2.593483 seconds, bootstrap likelihood -14141.358748, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[377]: Time 1.982939 seconds, bootstrap likelihood -12902.230276, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[878]: Time 2.295449 seconds, bootstrap likelihood -14175.343147, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[711]: Time 2.327207 seconds, bootstrap likelihood -13792.302302, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[43]: Time 2.419745 seconds, bootstrap likelihood -13259.052757, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[210]: Time 2.751173 seconds, bootstrap likelihood -13536.486832, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[544]: Time 3.156230 seconds, bootstrap likelihood -13126.512266, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[378]: Time 2.291854 seconds, bootstrap likelihood -13746.457581, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[879]: Time 2.130844 seconds, bootstrap likelihood -14015.588391, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[712]: Time 2.201632 seconds, bootstrap likelihood -13341.597922, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[44]: Time 2.253221 seconds, bootstrap likelihood -13937.592875, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[545]: Time 2.500918 seconds, bootstrap likelihood -12642.789178, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[211]: Time 2.997445 seconds, bootstrap likelihood -12443.052754, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[880]: Time 2.080835 seconds, bootstrap likelihood -13354.907529, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[379]: Time 2.578127 seconds, bootstrap likelihood -13018.813198, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[713]: Time 2.088943 seconds, bootstrap likelihood -13571.018308, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[45]: Time 2.727779 seconds, bootstrap likelihood -13881.337988, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[881]: Time 2.042821 seconds, bootstrap likelihood -13206.139831, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[212]: Time 2.446240 seconds, bootstrap likelihood -13419.051513, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[546]: Time 2.886529 seconds, bootstrap likelihood -13108.994439, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[714]: Time 2.434072 seconds, bootstrap likelihood -13259.552020, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[380]: Time 2.676070 seconds, bootstrap likelihood -12834.013346, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[46]: Time 2.518996 seconds, bootstrap likelihood -12996.241562, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[882]: Time 2.262071 seconds, bootstrap likelihood -13122.809167, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[213]: Time 2.592722 seconds, bootstrap likelihood -13759.985200, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[547]: Time 2.634786 seconds, bootstrap likelihood -13516.839392, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[715]: Time 2.468117 seconds, bootstrap likelihood -13343.672277, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[381]: Time 2.329810 seconds, bootstrap likelihood -13678.668983, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[47]: Time 2.491467 seconds, bootstrap likelihood -13389.036254, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[883]: Time 2.427788 seconds, bootstrap likelihood -12957.415892, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[214]: Time 2.591893 seconds, bootstrap likelihood -13683.247484, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[382]: Time 2.193220 seconds, bootstrap likelihood -14479.975964, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[716]: Time 2.321847 seconds, bootstrap likelihood -14145.587101, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[548]: Time 2.920914 seconds, bootstrap likelihood -13864.473673, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[48]: Time 2.269046 seconds, bootstrap likelihood -12998.295167, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[383]: Time 1.979514 seconds, bootstrap likelihood -13355.613922, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[884]: Time 2.641383 seconds, bootstrap likelihood -13839.701200, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[717]: Time 2.666668 seconds, bootstrap likelihood -13109.705124, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[549]: Time 2.257395 seconds, bootstrap likelihood -12869.894107, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[215]: Time 2.985823 seconds, bootstrap likelihood -12558.174825, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[49]: Time 2.551789 seconds, bootstrap likelihood -13033.890454, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[216]: Time 2.145036 seconds, bootstrap likelihood -12585.315653, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[550]: Time 2.612407 seconds, bootstrap likelihood -12683.594302, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[384]: Time 2.571251 seconds, bootstrap likelihood -13670.899196, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[50]: Time 2.608304 seconds, bootstrap likelihood -13220.721153, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[551]: Time 2.685728 seconds, bootstrap likelihood -13799.949860, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[885]: Time 2.944573 seconds, bootstrap likelihood -12995.547021, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[718]: Time 3.033887 seconds, bootstrap likelihood -13298.626530, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[217]: Time 3.578909 seconds, bootstrap likelihood -12835.530401, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[385]: Time 2.276662 seconds, bootstrap likelihood -13146.386812, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[51]: Time 2.416954 seconds, bootstrap likelihood -14161.178259, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[552]: Time 2.460780 seconds, bootstrap likelihood -13321.444245, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[719]: Time 2.204510 seconds, bootstrap likelihood -13914.092429, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[886]: Time 2.330033 seconds, bootstrap likelihood -13245.914795, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[218]: Time 2.881029 seconds, bootstrap likelihood -13123.028313, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[386]: Time 2.170000 seconds, bootstrap likelihood -13995.057472, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[52]: Time 2.275281 seconds, bootstrap likelihood -13323.871669, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[720]: Time 2.120401 seconds, bootstrap likelihood -13284.922610, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[553]: Time 2.419708 seconds, bootstrap likelihood -13499.043961, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[887]: Time 2.521862 seconds, bootstrap likelihood -13404.118061, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[387]: Time 2.105532 seconds, bootstrap likelihood -13986.868194, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[219]: Time 2.754097 seconds, bootstrap likelihood -13755.019993, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[721]: Time 2.396323 seconds, bootstrap likelihood -13279.001933, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[53]: Time 2.595590 seconds, bootstrap likelihood -13498.424479, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[888]: Time 2.176321 seconds, bootstrap likelihood -13596.969146, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[554]: Time 2.658437 seconds, bootstrap likelihood -13408.364625, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[388]: Time 2.428161 seconds, bootstrap likelihood -13693.247924, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[220]: Time 2.831001 seconds, bootstrap likelihood -12807.327076, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[722]: Time 2.324554 seconds, bootstrap likelihood -12958.351024, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[889]: Time 2.299344 seconds, bootstrap likelihood -13075.309907, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[54]: Time 2.577691 seconds, bootstrap likelihood -12664.794792, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[555]: Time 2.726433 seconds, bootstrap likelihood -12758.172298, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[389]: Time 2.231577 seconds, bootstrap likelihood -13533.001429, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[723]: Time 2.298222 seconds, bootstrap likelihood -13379.944233, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[890]: Time 2.373364 seconds, bootstrap likelihood -13005.120417, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[221]: Time 2.786897 seconds, bootstrap likelihood -13423.062297, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[55]: Time 2.560997 seconds, bootstrap likelihood -12951.591876, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[556]: Time 2.564823 seconds, bootstrap likelihood -13134.108713, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[390]: Time 2.183615 seconds, bootstrap likelihood -13751.057597, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[724]: Time 2.195394 seconds, bootstrap likelihood -13231.473713, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[222]: Time 2.465923 seconds, bootstrap likelihood -12403.694983, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[891]: Time 2.861762 seconds, bootstrap likelihood -13458.713325, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[56]: Time 2.564339 seconds, bootstrap likelihood -12789.800033, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[557]: Time 2.431545 seconds, bootstrap likelihood -13651.818634, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[391]: Time 2.288269 seconds, bootstrap likelihood -13196.457730, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[725]: Time 2.051678 seconds, bootstrap likelihood -13147.400501, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[892]: Time 2.563815 seconds, bootstrap likelihood -12758.014669, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[57]: Time 2.808219 seconds, bootstrap likelihood -13322.190214, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[223]: Time 3.132815 seconds, bootstrap likelihood -12749.935955, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[558]: Time 2.643053 seconds, bootstrap likelihood -14191.705111, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[392]: Time 2.597132 seconds, bootstrap likelihood -13111.695239, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[726]: Time 2.489888 seconds, bootstrap likelihood -12526.231743, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[893]: Time 2.290008 seconds, bootstrap likelihood -13980.482023, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[58]: Time 2.200703 seconds, bootstrap likelihood -13891.624072, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[224]: Time 2.730837 seconds, bootstrap likelihood -13669.454240, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[559]: Time 2.604935 seconds, bootstrap likelihood -13070.089681, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[225]: Time 2.349440 seconds, bootstrap likelihood -13231.604799, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[894]: Time 2.191357 seconds, bootstrap likelihood -12686.320634, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[393]: Time 2.368180 seconds, bootstrap likelihood -13955.915408, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[727]: Time 2.482832 seconds, bootstrap likelihood -14050.133572, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[59]: Time 2.540965 seconds, bootstrap likelihood -13146.279310, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[560]: Time 2.574854 seconds, bootstrap likelihood -12865.924664, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[226]: Time 2.709714 seconds, bootstrap likelihood -13315.186523, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[895]: Time 2.379697 seconds, bootstrap likelihood -13051.223744, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[394]: Time 2.642104 seconds, bootstrap likelihood -13847.259075, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[728]: Time 2.747942 seconds, bootstrap likelihood -13768.846984, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[561]: Time 2.720534 seconds, bootstrap likelihood -13452.173081, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[60]: Time 2.833063 seconds, bootstrap likelihood -13337.801109, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[227]: Time 2.936931 seconds, bootstrap likelihood -13861.250593, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[896]: Time 2.270586 seconds, bootstrap likelihood -13599.507919, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[395]: Time 2.495905 seconds, bootstrap likelihood -12510.185424, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[729]: Time 2.456257 seconds, bootstrap likelihood -12589.766180, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[562]: Time 2.435599 seconds, bootstrap likelihood -13075.174234, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[61]: Time 2.396140 seconds, bootstrap likelihood -13089.498630, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[228]: Time 2.656662 seconds, bootstrap likelihood -12888.273760, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[897]: Time 2.474751 seconds, bootstrap likelihood -13287.006471, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[730]: Time 2.113207 seconds, bootstrap likelihood -13271.513424, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[396]: Time 2.377887 seconds, bootstrap likelihood -14178.886243, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[62]: Time 2.493634 seconds, bootstrap likelihood -13768.784808, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[563]: Time 2.672446 seconds, bootstrap likelihood -14332.889162, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[229]: Time 2.953872 seconds, bootstrap likelihood -12967.026524, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[898]: Time 2.211283 seconds, bootstrap likelihood -14339.465706, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[397]: Time 1.876032 seconds, bootstrap likelihood -14436.729469, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[731]: Time 2.880081 seconds, bootstrap likelihood -13343.130669, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[63]: Time 2.489249 seconds, bootstrap likelihood -13043.065104, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[564]: Time 2.796810 seconds, bootstrap likelihood -12925.065078, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[230]: Time 2.470717 seconds, bootstrap likelihood -13494.181526, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[398]: Time 2.173096 seconds, bootstrap likelihood -14096.575916, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[899]: Time 2.896628 seconds, bootstrap likelihood -13254.054559, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[732]: Time 2.443075 seconds, bootstrap likelihood -13110.563973, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[64]: Time 2.819145 seconds, bootstrap likelihood -13639.998529, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[565]: Time 2.547783 seconds, bootstrap likelihood -13419.819514, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[399]: Time 2.252868 seconds, bootstrap likelihood -13539.271505, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[900]: Time 2.250181 seconds, bootstrap likelihood -13069.039728, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[231]: Time 3.339858 seconds, bootstrap likelihood -13302.887391, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[733]: Time 2.174056 seconds, bootstrap likelihood -12611.395179, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[65]: Time 2.243733 seconds, bootstrap likelihood -12790.672694, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[566]: Time 2.403166 seconds, bootstrap likelihood -12428.608200, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[400]: Time 2.206433 seconds, bootstrap likelihood -13073.348802, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[901]: Time 2.888747 seconds, bootstrap likelihood -13332.292119, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[734]: Time 2.518499 seconds, bootstrap likelihood -13419.253696, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[66]: Time 2.265860 seconds, bootstrap likelihood -13445.638619, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[232]: Time 3.424812 seconds, bootstrap likelihood -13405.551366, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[567]: Time 2.489525 seconds, bootstrap likelihood -13545.849017, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[233]: Time 2.384927 seconds, bootstrap likelihood -13599.086564, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[401]: Time 2.010272 seconds, bootstrap likelihood -13509.796132, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[735]: Time 2.128126 seconds, bootstrap likelihood -13954.728272, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[568]: Time 2.365380 seconds, bootstrap likelihood -13903.781153, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[67]: Time 2.543417 seconds, bootstrap likelihood -12895.052728, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[902]: Time 2.738957 seconds, bootstrap likelihood -13492.675021, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[234]: Time 3.071141 seconds, bootstrap likelihood -12935.333923, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[736]: Time 2.549698 seconds, bootstrap likelihood -13127.323150, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[402]: Time 2.735599 seconds, bootstrap likelihood -12465.947773, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[68]: Time 2.253434 seconds, bootstrap likelihood -13653.458250, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[569]: Time 2.540624 seconds, bootstrap likelihood -12516.655518, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[903]: Time 2.663779 seconds, bootstrap likelihood -12908.119158, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[235]: Time 3.113140 seconds, bootstrap likelihood -13736.437900, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[737]: Time 2.138010 seconds, bootstrap likelihood -13980.226972, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[69]: Time 2.294001 seconds, bootstrap likelihood -13262.589400, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[403]: Time 2.357460 seconds, bootstrap likelihood -13481.786902, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[570]: Time 2.686512 seconds, bootstrap likelihood -13169.806674, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[904]: Time 2.312512 seconds, bootstrap likelihood -13614.002899, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[236]: Time 2.819522 seconds, bootstrap likelihood -12545.658316, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[738]: Time 2.687180 seconds, bootstrap likelihood -13877.720458, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[404]: Time 2.494613 seconds, bootstrap likelihood -13658.260338, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[70]: Time 2.730912 seconds, bootstrap likelihood -13633.966018, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[571]: Time 3.006537 seconds, bootstrap likelihood -13249.800558, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[905]: Time 2.970005 seconds, bootstrap likelihood -13533.049280, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[739]: Time 2.284777 seconds, bootstrap likelihood -12897.508792, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[237]: Time 2.947264 seconds, bootstrap likelihood -13290.406563, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[405]: Time 2.586760 seconds, bootstrap likelihood -13351.038046, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[71]: Time 2.508232 seconds, bootstrap likelihood -13583.607643, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[906]: Time 2.674267 seconds, bootstrap likelihood -12627.644928, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[572]: Time 2.846634 seconds, bootstrap likelihood -13064.803374, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[740]: Time 1.936052 seconds, bootstrap likelihood -13857.632954, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[406]: Time 2.447749 seconds, bootstrap likelihood -13443.489531, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[238]: Time 2.810122 seconds, bootstrap likelihood -13056.356567, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[72]: Time 2.473916 seconds, bootstrap likelihood -14428.179487, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[907]: Time 2.249168 seconds, bootstrap likelihood -13313.078208, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[741]: Time 2.077402 seconds, bootstrap likelihood -13100.389914, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[573]: Time 3.086468 seconds, bootstrap likelihood -13447.390536, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[407]: Time 2.495449 seconds, bootstrap likelihood -13210.273455, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[73]: Time 2.515141 seconds, bootstrap likelihood -13823.120703, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[239]: Time 2.877904 seconds, bootstrap likelihood -13516.642788, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[908]: Time 2.585061 seconds, bootstrap likelihood -13550.640196, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[742]: Time 3.022074 seconds, bootstrap likelihood -13214.266592, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[408]: Time 2.056377 seconds, bootstrap likelihood -13592.298824, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[574]: Time 2.777062 seconds, bootstrap likelihood -13205.906944, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[74]: Time 2.555288 seconds, bootstrap likelihood -13516.851091, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[240]: Time 2.547781 seconds, bootstrap likelihood -12942.680792, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[909]: Time 2.599578 seconds, bootstrap likelihood -13683.200855, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[575]: Time 2.517670 seconds, bootstrap likelihood -13573.818661, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[241]: Time 2.785418 seconds, bootstrap likelihood -13050.656645, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[409]: Time 2.284606 seconds, bootstrap likelihood -13190.855964, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[743]: Time 2.363881 seconds, bootstrap likelihood -13697.100799, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[75]: Time 2.384221 seconds, bootstrap likelihood -13300.460029, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[910]: Time 2.445646 seconds, bootstrap likelihood -13622.826047, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[242]: Time 2.710032 seconds, bootstrap likelihood -13601.317243, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[576]: Time 2.935587 seconds, bootstrap likelihood -13343.793869, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[410]: Time 2.396834 seconds, bootstrap likelihood -13658.384305, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[744]: Time 2.592868 seconds, bootstrap likelihood -13048.885183, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[911]: Time 2.560265 seconds, bootstrap likelihood -12757.597355, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[76]: Time 2.647216 seconds, bootstrap likelihood -13215.233795, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[243]: Time 2.443949 seconds, bootstrap likelihood -13587.024262, best rearrangement setting 14
+Bootstrap[577]: Time 2.747273 seconds, bootstrap likelihood -13678.075680, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[411]: Time 2.409460 seconds, bootstrap likelihood -13647.140216, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[745]: Time 2.519496 seconds, bootstrap likelihood -13890.887650, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[77]: Time 2.499240 seconds, bootstrap likelihood -13666.866826, best rearrangement setting 11
+Bootstrap[912]: Time 2.530110 seconds, bootstrap likelihood -13088.594950, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[244]: Time 3.015910 seconds, bootstrap likelihood -13292.092833, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[578]: Time 2.669119 seconds, bootstrap likelihood -12964.809373, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[746]: Time 2.111122 seconds, bootstrap likelihood -13674.013692, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[412]: Time 2.823891 seconds, bootstrap likelihood -12561.613928, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[78]: Time 2.551623 seconds, bootstrap likelihood -12418.439875, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[913]: Time 2.629991 seconds, bootstrap likelihood -13023.316178, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[245]: Time 2.647434 seconds, bootstrap likelihood -13454.979381, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[579]: Time 2.702338 seconds, bootstrap likelihood -13348.446246, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[747]: Time 2.149489 seconds, bootstrap likelihood -13284.599070, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[413]: Time 2.180971 seconds, bootstrap likelihood -12546.630305, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[79]: Time 2.239657 seconds, bootstrap likelihood -13756.509944, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[914]: Time 2.471409 seconds, bootstrap likelihood -13381.011461, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[246]: Time 2.553980 seconds, bootstrap likelihood -13643.186179, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[580]: Time 2.718008 seconds, bootstrap likelihood -12581.149507, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[748]: Time 2.669375 seconds, bootstrap likelihood -12312.123171, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[414]: Time 2.608885 seconds, bootstrap likelihood -12646.152107, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[80]: Time 2.684406 seconds, bootstrap likelihood -13661.064453, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[915]: Time 2.793907 seconds, bootstrap likelihood -13786.221919, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[247]: Time 2.961602 seconds, bootstrap likelihood -12950.073106, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[749]: Time 2.318054 seconds, bootstrap likelihood -13840.242111, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[581]: Time 3.313618 seconds, bootstrap likelihood -13480.491279, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[415]: Time 2.577930 seconds, bootstrap likelihood -13275.708684, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[81]: Time 2.439977 seconds, bootstrap likelihood -13339.718805, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[916]: Time 3.199840 seconds, bootstrap likelihood -13387.825277, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[750]: Time 2.026752 seconds, bootstrap likelihood -13745.905477, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[248]: Time 2.908954 seconds, bootstrap likelihood -13304.782521, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[582]: Time 2.521824 seconds, bootstrap likelihood -13546.383278, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[416]: Time 2.357535 seconds, bootstrap likelihood -12795.284076, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[82]: Time 2.565049 seconds, bootstrap likelihood -13192.480954, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[917]: Time 2.206399 seconds, bootstrap likelihood -13192.744955, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[751]: Time 2.469807 seconds, bootstrap likelihood -12307.875200, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[417]: Time 2.116490 seconds, bootstrap likelihood -13129.532642, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[249]: Time 2.950607 seconds, bootstrap likelihood -13853.816661, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[83]: Time 2.362390 seconds, bootstrap likelihood -12884.750099, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[583]: Time 2.901068 seconds, bootstrap likelihood -12794.484704, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[918]: Time 2.336273 seconds, bootstrap likelihood -12412.702620, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[250]: Time 2.421030 seconds, bootstrap likelihood -12399.206025, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[584]: Time 2.252181 seconds, bootstrap likelihood -13356.690352, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[418]: Time 2.481738 seconds, bootstrap likelihood -13501.028738, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[752]: Time 2.543868 seconds, bootstrap likelihood -13670.713190, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[84]: Time 2.701861 seconds, bootstrap likelihood -13600.000503, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[919]: Time 3.189989 seconds, bootstrap likelihood -13425.297259, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[585]: Time 3.432883 seconds, bootstrap likelihood -13368.620685, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[251]: Time 4.012704 seconds, bootstrap likelihood -13116.664686, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[753]: Time 2.286798 seconds, bootstrap likelihood -13052.204556, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[419]: Time 2.768756 seconds, bootstrap likelihood -11867.997429, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[85]: Time 2.554972 seconds, bootstrap likelihood -13119.704078, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[920]: Time 2.252502 seconds, bootstrap likelihood -13164.047093, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[586]: Time 2.623968 seconds, bootstrap likelihood -13506.831011, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[754]: Time 2.001240 seconds, bootstrap likelihood -12942.994217, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[252]: Time 3.038873 seconds, bootstrap likelihood -12918.674720, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[86]: Time 2.101175 seconds, bootstrap likelihood -13367.858936, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[921]: Time 2.544834 seconds, bootstrap likelihood -13168.098875, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[420]: Time 3.026549 seconds, bootstrap likelihood -12243.076231, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[587]: Time 2.445615 seconds, bootstrap likelihood -13937.195215, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[755]: Time 2.248425 seconds, bootstrap likelihood -13418.706308, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[87]: Time 2.290638 seconds, bootstrap likelihood -13154.492357, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[253]: Time 2.632409 seconds, bootstrap likelihood -13418.522135, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[922]: Time 2.291813 seconds, bootstrap likelihood -13267.912077, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[421]: Time 2.422801 seconds, bootstrap likelihood -12976.014356, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[588]: Time 2.333892 seconds, bootstrap likelihood -13484.294145, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[756]: Time 1.947995 seconds, bootstrap likelihood -12872.021852, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[88]: Time 2.402746 seconds, bootstrap likelihood -12430.894622, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[923]: Time 2.542173 seconds, bootstrap likelihood -13579.708191, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[254]: Time 3.445784 seconds, bootstrap likelihood -12809.981790, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[422]: Time 2.622700 seconds, bootstrap likelihood -13137.098293, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[757]: Time 2.319792 seconds, bootstrap likelihood -13124.877665, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[589]: Time 2.641791 seconds, bootstrap likelihood -13286.472375, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[89]: Time 2.830493 seconds, bootstrap likelihood -12115.582785, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[924]: Time 2.621568 seconds, bootstrap likelihood -13501.793698, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[423]: Time 2.164620 seconds, bootstrap likelihood -12840.978385, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[758]: Time 2.513979 seconds, bootstrap likelihood -12881.003313, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[590]: Time 2.434396 seconds, bootstrap likelihood -13758.217959, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[255]: Time 2.840830 seconds, bootstrap likelihood -13401.850292, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[90]: Time 2.840096 seconds, bootstrap likelihood -13357.828717, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[759]: Time 2.170345 seconds, bootstrap likelihood -13125.418987, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[925]: Time 2.632310 seconds, bootstrap likelihood -12693.555540, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[424]: Time 2.801098 seconds, bootstrap likelihood -13184.234033, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[591]: Time 2.582961 seconds, bootstrap likelihood -13858.376745, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[256]: Time 2.751651 seconds, bootstrap likelihood -12860.682975, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[91]: Time 2.605682 seconds, bootstrap likelihood -13730.513034, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[926]: Time 2.300080 seconds, bootstrap likelihood -13645.051658, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[425]: Time 2.547809 seconds, bootstrap likelihood -13542.046577, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[592]: Time 2.414118 seconds, bootstrap likelihood -13381.020743, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[257]: Time 2.794661 seconds, bootstrap likelihood -13738.493502, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[258]: Time 2.660413 seconds, bootstrap likelihood -12552.830065, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[760]: Time 1.983765 seconds, bootstrap likelihood -13714.159597, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[426]: Time 2.059982 seconds, bootstrap likelihood -14038.379999, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[927]: Time 2.546805 seconds, bootstrap likelihood -13812.018093, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[92]: Time 2.568668 seconds, bootstrap likelihood -12813.064376, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[259]: Time 2.649417 seconds, bootstrap likelihood -13084.672825, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[593]: Time 2.826087 seconds, bootstrap likelihood -13467.727988, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[761]: Time 1.954675 seconds, bootstrap likelihood -13040.871486, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[427]: Time 2.553608 seconds, bootstrap likelihood -13283.378750, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[928]: Time 2.475687 seconds, bootstrap likelihood -13558.721355, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[93]: Time 2.740873 seconds, bootstrap likelihood -12293.722573, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[594]: Time 2.618687 seconds, bootstrap likelihood -12897.713883, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[260]: Time 2.838560 seconds, bootstrap likelihood -13232.567372, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[762]: Time 2.289840 seconds, bootstrap likelihood -12444.240182, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[428]: Time 2.486164 seconds, bootstrap likelihood -14364.678047, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[929]: Time 2.181286 seconds, bootstrap likelihood -11886.844942, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[94]: Time 2.336850 seconds, bootstrap likelihood -11867.370998, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[595]: Time 2.701087 seconds, bootstrap likelihood -12954.479277, best rearrangement setting 8
+Bootstrap[261]: Time 2.668625 seconds, bootstrap likelihood -13468.649259, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[763]: Time 2.088039 seconds, bootstrap likelihood -12785.241221, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[429]: Time 2.556928 seconds, bootstrap likelihood -13274.132818, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[95]: Time 2.103415 seconds, bootstrap likelihood -13539.841266, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[930]: Time 2.696783 seconds, bootstrap likelihood -12857.768571, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[262]: Time 2.639219 seconds, bootstrap likelihood -14433.122797, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[764]: Time 2.517025 seconds, bootstrap likelihood -13308.111077, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[596]: Time 3.016900 seconds, bootstrap likelihood -13673.735040, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[96]: Time 2.456241 seconds, bootstrap likelihood -12593.290461, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[430]: Time 2.551440 seconds, bootstrap likelihood -13104.430415, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[931]: Time 2.360285 seconds, bootstrap likelihood -13015.132564, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[765]: Time 2.043696 seconds, bootstrap likelihood -12911.264162, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[263]: Time 2.725583 seconds, bootstrap likelihood -13181.382362, best rearrangement setting 9
+Bootstrap[597]: Time 3.130617 seconds, bootstrap likelihood -12674.173643, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[431]: Time 2.245469 seconds, bootstrap likelihood -13502.230091, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[97]: Time 2.359119 seconds, bootstrap likelihood -13753.485761, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[932]: Time 2.537556 seconds, bootstrap likelihood -13722.606532, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[766]: Time 2.228121 seconds, bootstrap likelihood -13601.742462, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[264]: Time 2.625594 seconds, bootstrap likelihood -12686.873895, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[432]: Time 2.243302 seconds, bootstrap likelihood -13903.193342, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[598]: Time 2.638728 seconds, bootstrap likelihood -14251.223409, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[98]: Time 2.491133 seconds, bootstrap likelihood -13153.016601, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[767]: Time 2.022282 seconds, bootstrap likelihood -13243.471913, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[933]: Time 2.699745 seconds, bootstrap likelihood -13365.102887, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[265]: Time 2.718432 seconds, bootstrap likelihood -13052.187726, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[433]: Time 2.332485 seconds, bootstrap likelihood -13290.476788, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[99]: Time 2.262323 seconds, bootstrap likelihood -13987.819649, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[599]: Time 2.675773 seconds, bootstrap likelihood -12632.359779, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[934]: Time 2.415956 seconds, bootstrap likelihood -14261.612209, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[266]: Time 2.440223 seconds, bootstrap likelihood -13229.362789, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Bootstrap[600]: Time 2.136102 seconds, bootstrap likelihood -13713.416169, best rearrangement setting 9
+
+
+Stopped Rapid BS search after 600 replicates with MRE-based Bootstopping criterion
+WRF Average of 100 random splits: 2.395106
+Overall Time for 600 Rapid Bootstraps 280.156094 seconds
+Average Time per Rapid Bootstrap 0.466927 seconds
+
+Starting ML Search ...
+
+Fast ML search on Process 3: Time 62.015393 seconds
+
+Fast ML search on Process 4: Time 63.739307 seconds
+
+Fast ML search on Process 5: Time 66.213805 seconds
+
+Fast ML search on Process 2: Time 77.629949 seconds
+
+Fast ML search on Process 1: Time 78.080614 seconds
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 96.516164 seconds
+
+Slow ML Search 501 Likelihood: -13155.366888
+Slow ML Search 502 Likelihood: -13157.087072
+Slow ML search on Process 3: Time 45.903234 seconds
+Slow ML Search 334 Likelihood: -13154.877687
+Slow ML Search 335 Likelihood: -13153.599142
+Slow ML search on Process 2: Time 51.817724 seconds
+Slow ML Search 668 Likelihood: -13154.878729
+Slow ML Search 669 Likelihood: -13160.538689
+Slow ML search on Process 4: Time 79.746315 seconds
+Slow ML Search 167 Likelihood: -13154.752112
+Slow ML Search 168 Likelihood: -13153.674998
+Slow ML search on Process 1: Time 67.411350 seconds
+Thorough ML search on Process 3: Time 49.276826 seconds
+Slow ML Search 0 Likelihood: -13154.353347
+Slow ML Search 1 Likelihood: -13154.124088
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 67.478988 seconds
+Thorough ML search on Process 2: Time 46.142519 seconds
+Thorough ML search on Process 4: Time 38.939174 seconds
+Thorough ML search on Process 1: Time 52.416641 seconds
+Slow ML Search 835 Likelihood: -13154.996415
+Slow ML Search 836 Likelihood: -13154.058991
+Slow ML search on Process 5: Time 139.989649 seconds
+Thorough ML search on Process 0: Time 51.628948 seconds
+Thorough ML search on Process 5: Time 51.151904 seconds
+
+Final ML Optimization Likelihood: -13153.260455
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: AA
+alpha: 1.107746
+Tree-Length: 18.668935
+rate A <-> R: 0.885232
+rate A <-> N: 0.583975
+rate A <-> D: 0.653480
+rate A <-> C: 1.756525
+rate A <-> Q: 1.443370
+rate A <-> E: 1.408772
+rate A <-> G: 2.353130
+rate A <-> H: 0.861712
+rate A <-> I: 0.728959
+rate A <-> L: 0.962502
+rate A <-> K: 1.558261
+rate A <-> M: 1.508400
+rate A <-> F: 0.593087
+rate A <-> P: 1.411572
+rate A <-> S: 5.203533
+rate A <-> T: 2.080379
+rate A <-> W: 0.560453
+rate A <-> Y: 0.864077
+rate A <-> V: 2.632118
+rate R <-> N: 1.560962
+rate R <-> D: 0.602712
+rate R <-> C: 0.274099
+rate R <-> Q: 3.634374
+rate R <-> E: 1.636911
+rate R <-> G: 0.503815
+rate R <-> H: 1.751888
+rate R <-> I: 0.279164
+rate R <-> L: 0.749186
+rate R <-> K: 6.510130
+rate R <-> M: 1.183484
+rate R <-> F: 0.447127
+rate R <-> P: 0.539151
+rate R <-> S: 1.350824
+rate R <-> T: 1.100437
+rate R <-> W: 0.512982
+rate R <-> Y: 0.866857
+rate R <-> V: 0.527426
+rate N <-> D: 3.825988
+rate N <-> C: 0.478064
+rate N <-> Q: 2.212767
+rate N <-> E: 1.492436
+rate N <-> G: 1.631254
+rate N <-> H: 2.904894
+rate N <-> I: 0.340499
+rate N <-> L: 0.254923
+rate N <-> K: 1.916708
+rate N <-> M: 0.780142
+rate N <-> F: 0.426935
+rate N <-> P: 0.595400
+rate N <-> S: 3.493934
+rate N <-> T: 2.283699
+rate N <-> W: 0.230373
+rate N <-> Y: 0.647537
+rate N <-> V: 0.376401
+rate D <-> C: 0.289751
+rate D <-> Q: 1.432831
+rate D <-> E: 4.525623
+rate D <-> G: 0.960646
+rate D <-> H: 0.936186
+rate D <-> I: 0.503566
+rate D <-> L: 0.262435
+rate D <-> K: 1.242141
+rate D <-> M: 0.267837
+rate D <-> F: 0.338951
+rate D <-> P: 0.879021
+rate D <-> S: 1.904216
+rate D <-> T: 1.123924
+rate D <-> W: 0.174865
+rate D <-> Y: 0.314518
+rate D <-> V: 0.310556
+rate C <-> Q: 0.396785
+rate C <-> E: 0.169335
+rate C <-> G: 0.503142
+rate C <-> H: 0.425968
+rate C <-> I: 0.932277
+rate C <-> L: 1.000792
+rate C <-> K: 0.342979
+rate C <-> M: 0.923609
+rate C <-> F: 0.530974
+rate C <-> P: 0.428315
+rate C <-> S: 1.440341
+rate C <-> T: 1.347273
+rate C <-> W: 0.634835
+rate C <-> Y: 0.565744
+rate C <-> V: 1.343087
+rate Q <-> E: 6.651860
+rate Q <-> G: 0.733708
+rate Q <-> H: 2.929967
+rate Q <-> I: 0.284176
+rate Q <-> L: 0.698687
+rate Q <-> K: 4.746576
+rate Q <-> M: 3.001617
+rate Q <-> F: 0.173676
+rate Q <-> P: 1.032949
+rate Q <-> S: 2.327849
+rate Q <-> T: 1.536941
+rate Q <-> W: 0.912739
+rate Q <-> Y: 1.153764
+rate Q <-> V: 0.638590
+rate E <-> G: 0.509610
+rate E <-> H: 1.957318
+rate E <-> I: 0.224797
+rate E <-> L: 0.448307
+rate E <-> K: 3.371609
+rate E <-> M: 0.668222
+rate E <-> F: 0.350595
+rate E <-> P: 1.114752
+rate E <-> S: 2.129364
+rate E <-> T: 1.288640
+rate E <-> W: 0.490428
+rate E <-> Y: 0.717915
+rate E <-> V: 0.630731
+rate G <-> H: 0.649506
+rate G <-> I: 0.227743
+rate G <-> L: 0.261941
+rate G <-> K: 0.904785
+rate G <-> M: 0.552749
+rate G <-> F: 0.442942
+rate G <-> P: 0.606468
+rate G <-> S: 1.815875
+rate G <-> T: 0.771714
+rate G <-> W: 0.611608
+rate G <-> Y: 0.370623
+rate G <-> V: 0.304795
+rate H <-> I: 0.304046
+rate H <-> L: 0.418767
+rate H <-> K: 1.230181
+rate H <-> M: 1.184228
+rate H <-> F: 0.859658
+rate H <-> P: 0.634044
+rate H <-> S: 1.343902
+rate H <-> T: 0.704305
+rate H <-> W: 0.362433
+rate H <-> Y: 5.075837
+rate H <-> V: 0.242493
+rate I <-> L: 4.681231
+rate I <-> K: 0.488693
+rate I <-> M: 4.048199
+rate I <-> F: 1.825540
+rate I <-> P: 0.467232
+rate I <-> S: 0.430163
+rate I <-> T: 1.418568
+rate I <-> W: 0.411444
+rate I <-> Y: 0.811634
+rate I <-> V: 10.000000
+rate L <-> K: 0.536067
+rate L <-> M: 7.255385
+rate L <-> F: 2.484215
+rate L <-> P: 0.450629
+rate L <-> S: 0.424658
+rate L <-> T: 1.101152
+rate L <-> W: 0.831915
+rate L <-> Y: 0.976012
+rate L <-> V: 2.684611
+rate K <-> M: 1.291003
+rate K <-> F: 0.321138
+rate K <-> P: 1.260110
+rate K <-> S: 2.108036
+rate K <-> T: 1.568696
+rate K <-> W: 0.399723
+rate K <-> Y: 0.863820
+rate K <-> V: 0.599312
+rate M <-> F: 2.134131
+rate M <-> P: 0.546358
+rate M <-> S: 1.105319
+rate M <-> T: 1.790877
+rate M <-> W: 1.068477
+rate M <-> Y: 1.144972
+rate M <-> V: 3.099014
+rate F <-> P: 0.281042
+rate F <-> S: 0.649709
+rate F <-> T: 0.587362
+rate F <-> W: 2.495627
+rate F <-> Y: 8.117650
+rate F <-> V: 1.008344
+rate P <-> S: 1.406583
+rate P <-> T: 1.209662
+rate P <-> W: 0.303440
+rate P <-> Y: 0.444433
+rate P <-> V: 0.597832
+rate S <-> T: 6.197853
+rate S <-> W: 0.466715
+rate S <-> Y: 0.958574
+rate S <-> V: 0.676054
+rate T <-> W: 0.617346
+rate T <-> Y: 0.963698
+rate T <-> V: 2.710680
+rate W <-> Y: 4.877884
+rate W <-> V: 0.320637
+rate Y <-> V: 1.203103
+
+freq pi(A): 0.077696
+freq pi(R): 0.055608
+freq pi(N): 0.051086
+freq pi(D): 0.061551
+freq pi(C): 0.034604
+freq pi(Q): 0.034342
+freq pi(E): 0.044994
+freq pi(G): 0.058934
+freq pi(H): 0.038304
+freq pi(I): 0.044620
+freq pi(L): 0.076463
+freq pi(K): 0.036061
+freq pi(M): 0.021822
+freq pi(F): 0.026493
+freq pi(P): 0.038902
+freq pi(S): 0.081920
+freq pi(T): 0.074333
+freq pi(W): 0.030455
+freq pi(Y): 0.033109
+freq pi(V): 0.078705
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+
+ML search took 257.828687 secs or 0.071619 hours
+
+Combined Bootstrap and ML search took 537.977953 secs or 0.149438 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bestTree.result
+
+
+
+Found 1 tree in File /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bestTree.result
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "C10H11.8a_Cele/1-382"
+from the list to root the tree!
+Program execution info written to /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_info.result
+All 600 bootstrapped trees written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bootstrap.result
+
+Best-scoring ML tree written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bestTree.result
+
+Best-scoring ML tree with support values written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bipartitions.result
+
+Best-scoring ML tree with support values as branch labels written to: /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-RAXMLHPC2BB-6666DC2F36CA4980A9679E55654ADA1F/RAxML_bipartitionsBranchLabels.result
+
+Overall execution time for full ML analysis: 538.167875 secs or 0.149491 hours or 0.006229 days
+
