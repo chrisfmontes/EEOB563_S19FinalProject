@@ -4,3 +4,6 @@
 ### EEOB563 Final Project  
 
 Folder content:
+- Paper: folder containing the project manuscript and figures
+- Scripts: folder containing scripts used in the project
+- RAxML_analysis: contains all the results from the RAxML analysis, including trees, tables and alignments.
